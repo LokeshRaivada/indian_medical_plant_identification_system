@@ -1,0 +1,54 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment & IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Large Raw Image Datasets (Stored via manifests and external storage)
+train-*/
+val-*/
+test-*/
+dataset/
+data/
+*.zip
+*.tar.gz
+
+# Frontend Build & Dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+
+# Scratch & Temporary Logs
+scratch/
+*.log
+
+# Keep model weights under 100MB (GitHub limit) but ignore checkpoints > 100MB if any
+# saved_models/best_plant_model.pth is ~18.5MB which fits on GitHub

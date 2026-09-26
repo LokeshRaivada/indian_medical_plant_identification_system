@@ -1,0 +1,98 @@
+{
+  "100_Aconitum_ferox": {
+    "botanical_name": "Aconitum ferox",
+    "sanskrit_name": "Vatsanabha",
+    "common_name": "Indian Aconite",
+    "toxicity_level": "FATAL_IF_RAW",
+    "severity": "CRITICAL",
+    "is_toxic": true,
+    "toxins": ["Aconitine", "Pseudoaconitine", "Bikhaconitine"],
+    "warning_title": "LETHAL NEUROTOXIN & CARDIOTOXIN IN RAW STATE",
+    "clinical_warning": "Contains potent aconite alkaloids. Raw unpurified ingestion can trigger fatal cardiac arrhythmias, ventricular tachycardia, and respiratory arrest within 30-120 minutes.",
+    "ayurvedic_safety": "Classical Ayurvedic literature strictly mandates Shodhana (purification in cow milk/Gomutra for 3 days) and micro-dosing (8 to 16 mg purified). NEVER handle or consume wild root specimen."
+  },
+  "10_Calotropis_procera": {
+    "botanical_name": "Calotropis procera",
+    "sanskrit_name": "Arka",
+    "common_name": "Apple of Sodom, Rubber Bush",
+    "toxicity_level": "TOXIC_LATEX_AND_EMETIC",
+    "severity": "HIGH",
+    "is_toxic": true,
+    "toxins": ["Calotropin", "Calactin", "Uscharin", "Cardiac Glycosides"],
+    "warning_title": "CAUSTIC OCULAR TOXIN & CARDIAC GLYCOSIDE",
+    "clinical_warning": "Milky latex is corrosive and can cause permanent corneal damage/blindness upon eye contact. Ingestion of raw plant parts induces violent vomiting, abdominal cramping, and irregular pulse.",
+    "ayurvedic_safety": "Wash hands immediately if exposed to latex. Avoid handling near face. Classical preparations utilize purified leaves only after steam detox or oil heating."
+  },
+  "11_Calotropis_gigantea": {
+    "botanical_name": "Calotropis gigantea",
+    "sanskrit_name": "Sweta Arka",
+    "common_name": "Crown Flower, Giant Milkweed",
+    "toxicity_level": "TOXIC_LATEX_AND_EMETIC",
+    "severity": "HIGH",
+    "is_toxic": true,
+    "toxins": ["Giganteol", "Calotropin", "Cardiac Glycosides"],
+    "warning_title": "CAUSTIC LATEX & CARDIAC GLYCOSIDE HAZARD",
+    "clinical_warning": "Milky latex causes intense ocular conjunctivitis, corneal keratitis, and skin irritation. Internal consumption of raw latex causes severe nausea and bradycardia.",
+    "ayurvedic_safety": "Do not rub eyes after leaf sampling. External medicinal fomentation must only use unbroken oiled leaves."
+  },
+  "4_Papaver_somniferum": {
+    "botanical_name": "Papaver somniferum",
+    "sanskrit_name": "Ahiphena",
+    "common_name": "Opium Poppy",
+    "toxicity_level": "SCHEDULE_NARCOTIC",
+    "severity": "HIGH",
+    "is_toxic": true,
+    "toxins": ["Morphine", "Codeine", "Thebaine", "Papaverine"],
+    "warning_title": "CENTRAL NERVOUS SYSTEM & RESPIRATORY DEPRESSANT",
+    "clinical_warning": "Unregulated ingestion of poppy latex can lead to severe stupor, hypoventilation, respiratory depression, coma, and addiction.",
+    "ayurvedic_safety": "Statutory Schedule E poison. Strictly restricted to pharmaceutical formulations after classical Shodhana."
+  },
+  "18_Semecarpus_anacardium": {
+    "botanical_name": "Semecarpus anacardium",
+    "sanskrit_name": "Bhallataka",
+    "common_name": "Marking Nut",
+    "toxicity_level": "SEVERE_CONTACT_DERMATITIS",
+    "severity": "HIGH",
+    "is_toxic": true,
+    "toxins": ["Bhallawanol", "Anacardic Acid", "Urushiol-like Phenols"],
+    "warning_title": "SEVERE VESICANT & CONTACT DERMATITIS",
+    "clinical_warning": "Fruit pericarp oil causes severe chemical blistering, necrotic skin ulcers, and periorbital edema.",
+    "ayurvedic_safety": "Mandatory Shodhana with brick powder and cow milk. Direct skin contact with fresh nuts must be avoided."
+  },
+  "33_Ricinus_communis": {
+    "botanical_name": "Ricinus communis",
+    "sanskrit_name": "Eranda",
+    "common_name": "Castor Bean",
+    "toxicity_level": "LETHAL_SEED_CYTOTOXIN",
+    "severity": "CRITICAL",
+    "is_toxic": true,
+    "toxins": ["Ricin (Ribosome Inactivating Protein)", "Ricinoleic Acid"],
+    "warning_title": "SEEDS CONTAIN POTENTIALLY FATAL RICIN",
+    "clinical_warning": "Crushed castor seeds release Ricin, a lethal ribosomal cytotoxin (a single bean can be fatal to a child). Causes severe organ necrosis.",
+    "ayurvedic_safety": "Medicinal castor oil (Eranda Taila) is cold-pressed and steam-treated to denature protein toxins. NEVER chew or consume raw seeds."
+  },
+  "26_Plumbago_zeylanica": {
+    "botanical_name": "Plumbago zeylanica",
+    "sanskrit_name": "Chitraka",
+    "common_name": "Ceylon Leadwort, White Leadwort",
+    "toxicity_level": "CAUSTIC_AND_ABORTIFACIENT",
+    "severity": "MODERATE_HIGH",
+    "is_toxic": true,
+    "toxins": ["Plumbagin (Naphthoquinone)"],
+    "warning_title": "CAUSTIC TO GASTRIC MUCOSA & ABORTIFACIENT",
+    "clinical_warning": "Raw root bark produces blistering of the oral mucosa and intense burning. High doses stimulate uterine contractions, acting as an abortifacient.",
+    "ayurvedic_safety": "Contraindicated in pregnancy and active peptic ulcers. Classical processing requires lime water soaking (Churna Shodhana)."
+  },
+  "37_Commiphora_mukul": {
+    "botanical_name": "Commiphora mukul",
+    "sanskrit_name": "Guggulu",
+    "common_name": "Indian Bdellium",
+    "toxicity_level": "RAW_RESIN_IRRITANT",
+    "severity": "MODERATE",
+    "is_toxic": true,
+    "toxins": ["Crude Guggulsterone Resins"],
+    "warning_title": "RAW OLEO-RESIN GASTROINTESTINAL IRRITANT",
+    "clinical_warning": "Crude unpurified resin triggers allergic dermatitis, nausea, and liver strain in patients with hepatic impairment.",
+    "ayurvedic_safety": "Classical Ayurvedic Pharmacopoeia prohibits raw Guggulu. Must undergo Shodhana in Triphala Kwatha before medicinal usage."
+  }
+}

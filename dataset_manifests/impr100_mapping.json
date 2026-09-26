@@ -1,0 +1,2942 @@
+[
+  {
+    "class_index": 0,
+    "class_name": "100_Aconitum_ferox",
+    "id": 100,
+    "sanskrit_name": "Vatsanabha",
+    "latin_name": "Aconitum ferox",
+    "common_name_english": "Indian Aconite",
+    "family": "Ranunculaceae",
+    "habit": "Herb",
+    "chemical_composition": [
+      "Aconitine"
+    ],
+    "properties_qualities": "Light, Sharp, Dry",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Fever",
+      "Inflammation",
+      "Pain",
+      "Indigestion"
+    ],
+    "parts_used": [
+      "Root (Purified)"
+    ],
+    "dosage": "10-20 mg"
+  },
+  {
+    "class_index": 1,
+    "class_name": "10_Calotropis_procera",
+    "id": 10,
+    "sanskrit_name": "Arka",
+    "latin_name": "Calotropis procera",
+    "common_name_english": "Swallow Wort / Madar",
+    "family": "Asclepiadaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Trypsin",
+      "Uscarine",
+      "Calotropin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Edema",
+      "Rheumatism",
+      "Asthma",
+      "Cough",
+      "Liver disorders"
+    ],
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 2,
+    "class_name": "11_Calotropis_gigantea",
+    "id": 11,
+    "sanskrit_name": "Arka (Shweta)",
+    "latin_name": "Calotropis gigantea",
+    "common_name_english": "Giant Swallow Wort",
+    "family": "Asclepiadaceae",
+    "habit": "Tree (20ft)",
+    "chemical_composition": [
+      "Trypsin",
+      "Uscarine",
+      "Calotropin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Edema",
+      "Rheumatism",
+      "Asthma",
+      "Cough",
+      "Liver disorders"
+    ],
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 3,
+    "class_name": "12_Withania_somnifera",
+    "id": 12,
+    "sanskrit_name": "Ashwagandha",
+    "latin_name": "Withania somnifera",
+    "common_name_english": "Winter Cherry",
+    "family": "Solanaceae",
+    "habit": "Shrub (5ft)",
+    "chemical_composition": [
+      "Cuseohygrine",
+      "Withanolides"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Bitter, Pungent, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Strength promoter",
+      "Aphrodisiac",
+      "Rejuvenative",
+      "Leukoderma",
+      "Edema",
+      "Consumption"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 4,
+    "class_name": "13_Saraca_asoca",
+    "id": 13,
+    "sanskrit_name": "Ashoka",
+    "latin_name": "Saraca asoca",
+    "common_name_english": "Ashoka Tree",
+    "family": "Caesalpiniaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Haematoxylin",
+      "Tannin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Styptic",
+      "Complexion enhancer",
+      "Dysmenorrhea",
+      "Menorrhagia",
+      "Uterine laxity"
+    ],
+    "parts_used": [
+      "Bark",
+      "Seed",
+      "Flower"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 5,
+    "class_name": "14_Aconitum_heterophyllum",
+    "id": 14,
+    "sanskrit_name": "Ativisha",
+    "latin_name": "Aconitum heterophyllum",
+    "common_name_english": "Indian Atees",
+    "family": "Ranunculaceae",
+    "habit": "Shrub (3ft)",
+    "chemical_composition": [
+      "Atisine",
+      "Hetisine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Appetizer",
+      "Absorbent",
+      "Fever",
+      "Diarrhea",
+      "Poison",
+      "Worms"
+    ],
+    "parts_used": [
+      "Root",
+      "Tuber"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 6,
+    "class_name": "15_Psoralea_corylifolia",
+    "id": 15,
+    "sanskrit_name": "Bakuchi",
+    "latin_name": "Psoralea corylifolia",
+    "common_name_english": "Psoralea Seed",
+    "family": "Leguminosae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Psoralen",
+      "Fixed Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Worm infestation",
+      "Skin disorders",
+      "Wound healing",
+      "Leukoderma",
+      "Psoriasis"
+    ],
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 7,
+    "class_name": "16_Abutilon_indicum",
+    "id": 16,
+    "sanskrit_name": "Atibala",
+    "latin_name": "Abutilon indicum",
+    "common_name_english": "Country Mallow (Indian Abutilon)",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Asparagine"
+    ],
+    "properties_qualities": "Light, Unctuous, Slimy",
+    "taste": "Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Vata disorders",
+      "Rejuvenative",
+      "Diuretic",
+      "Aphrodisiac",
+      "Leukorrhea"
+    ],
+    "parts_used": [
+      "Root",
+      "Seed"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 8,
+    "class_name": "17_Sida_cordifolia",
+    "id": 17,
+    "sanskrit_name": "Bala",
+    "latin_name": "Sida cordifolia",
+    "common_name_english": "Country Mallow",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Ephedrine",
+      "Steroid",
+      "Mucin"
+    ],
+    "properties_qualities": "Light, Unctuous, Slimy",
+    "taste": "Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Diuretic",
+      "Aphrodisiac",
+      "Tuberculosis",
+      "Asthma"
+    ],
+    "parts_used": [
+      "Root",
+      "Seed"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 9,
+    "class_name": "19_Clerodendrum_serratum",
+    "id": 19,
+    "sanskrit_name": "Bharangi",
+    "latin_name": "Clerodendrum serratum",
+    "common_name_english": "Blue Glory",
+    "family": "Verbenaceae",
+    "habit": "Shrub (8ft)",
+    "chemical_composition": [
+      "Saponin/Antihistamine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Blood disorders",
+      "Edema",
+      "Cough",
+      "Asthma",
+      "Fever"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 10,
+    "class_name": "1_Aquilaria_agallocha",
+    "id": 1,
+    "sanskrit_name": "Agaru",
+    "latin_name": "Aquilaria agallocha",
+    "common_name_english": "Aloe Wood / Eagle Wood",
+    "family": "Thymelaeaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Sesquiterpenes"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Ear/Eye disorders",
+      "Rheumatoid arthritis",
+      "Asthma",
+      "Aphrodisiac"
+    ],
+    "parts_used": [
+      "Resin",
+      "Heartwood"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 11,
+    "class_name": "20_Pterocarpus_marsupium",
+    "id": 20,
+    "sanskrit_name": "Bijaka",
+    "latin_name": "Pterocarpus marsupium",
+    "common_name_english": "Indian Kino Tree",
+    "family": "Fabaceae (Papilionatae)",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Kinotannic Acid"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Erysipelas",
+      "Diabetes",
+      "Leukoderma",
+      "Bleeding disorders",
+      "Diarrhea"
+    ],
+    "parts_used": [
+      "Heartwood",
+      "Exudate"
+    ],
+    "dosage": "50-100 ml (Decoction)"
+  },
+  {
+    "class_index": 12,
+    "class_name": "21_Aegle_marmelos",
+    "id": 21,
+    "sanskrit_name": "Bilva",
+    "latin_name": "Aegle marmelos",
+    "common_name_english": "Bael / Stone Apple",
+    "family": "Rutaceae",
+    "habit": "Tree (25ft)",
+    "chemical_composition": [
+      "Mucilage",
+      "Pectin",
+      "Marmelosin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Absorbent (Unripe)",
+      "Digestive",
+      "Intestinal tonic",
+      "Balances Vata/Kapha"
+    ],
+    "parts_used": [
+      "Root",
+      "Bark",
+      "Fruit",
+      "Leaf"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 13,
+    "class_name": "22_Bacopa_monnieri",
+    "id": 22,
+    "sanskrit_name": "Brahmi",
+    "latin_name": "Bacopa monnieri",
+    "common_name_english": "Water Hyssop / Indian Pennywort",
+    "family": "Scrophulariaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Brahmine"
+    ],
+    "properties_qualities": "Light",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Rejuvenative",
+      "Voice enhancer",
+      "Memory",
+      "Leprosy",
+      "Anemia"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "10-20 ml (Juice)"
+  },
+  {
+    "class_index": 14,
+    "class_name": "23_Solanum_indicum",
+    "id": 23,
+    "sanskrit_name": "Brihati",
+    "latin_name": "Solanum indicum",
+    "common_name_english": "Indian Nightshade",
+    "family": "Solanaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Solanine",
+      "Solanidine"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Absorbent",
+      "Throat disorders",
+      "Digestive",
+      "Fever",
+      "Asthma",
+      "Cough"
+    ],
+    "parts_used": [
+      "Root",
+      "Fruit"
+    ],
+    "dosage": "40-80 ml"
+  },
+  {
+    "class_index": 15,
+    "class_name": "24_Santalum_album",
+    "id": 24,
+    "sanskrit_name": "Chandana",
+    "latin_name": "Santalum album",
+    "common_name_english": "Sandalwood",
+    "family": "Santalaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Santalol"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Pleasing",
+      "Emaciation",
+      "Poison",
+      "Bleeding disorders",
+      "Burning sensation"
+    ],
+    "parts_used": [
+      "Heartwood"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 16,
+    "class_name": "25_Pterocarpus_santalinus",
+    "id": 25,
+    "sanskrit_name": "Rakta Chandana",
+    "latin_name": "Pterocarpus santalinus",
+    "common_name_english": "Red Sanders",
+    "family": "Fabaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Pterocarpin",
+      "Santalin"
+    ],
+    "properties_qualities": "Heavy, Dry",
+    "taste": "Bitter, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Thirst",
+      "Eye diseases",
+      "Aphrodisiac",
+      "Ulcers",
+      "Vomiting",
+      "Fever"
+    ],
+    "parts_used": [
+      "Heartwood"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 17,
+    "class_name": "26_Plumbago_zeylanica",
+    "id": 26,
+    "sanskrit_name": "Chitraka",
+    "latin_name": "Plumbago zeylanica",
+    "common_name_english": "Leadwort",
+    "family": "Plumbaginaceae",
+    "habit": "Shrub (4ft)",
+    "chemical_composition": [
+      "Plumbagin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Absorbent",
+      "IBS",
+      "Low digestion",
+      "Skin diseases",
+      "Edema",
+      "Piles",
+      "Worms"
+    ],
+    "parts_used": [
+      "Root Bark"
+    ],
+    "dosage": "1-2 gm"
+  },
+  {
+    "class_index": 18,
+    "class_name": "27_Punica_granatum",
+    "id": 27,
+    "sanskrit_name": "Dadima",
+    "latin_name": "Punica granatum",
+    "common_name_english": "Pomegranate",
+    "family": "Punicaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Pelletierine"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Sweet, Astringent, Sour",
+    "potency": "Warm (Anushna)",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Nourishing",
+      "Spermogenic",
+      "Absorbent",
+      "Heart tonic",
+      "Throat disorders",
+      "Tapeworm"
+    ],
+    "parts_used": [
+      "Fruit",
+      "Rind",
+      "Root Bark"
+    ],
+    "dosage": "20-50 ml"
+  },
+  {
+    "class_index": 19,
+    "class_name": "28_Cedrus_deodara",
+    "id": 28,
+    "sanskrit_name": "Devadaru",
+    "latin_name": "Cedrus deodara",
+    "common_name_english": "Deodar Cedar",
+    "family": "Pinaceae",
+    "habit": "Tree (Large)",
+    "chemical_composition": [
+      "Sesquiterpene"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Constipation",
+      "Bloating",
+      "Edema",
+      "Fever",
+      "Diabetes",
+      "Cough",
+      "Itching"
+    ],
+    "parts_used": [
+      "Heartwood",
+      "Oil"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 20,
+    "class_name": "29_Woodfordia_fruticosa",
+    "id": 29,
+    "sanskrit_name": "Dhataki",
+    "latin_name": "Woodfordia fruticosa",
+    "common_name_english": "Fire Flame Bush",
+    "family": "Lythraceae",
+    "habit": "Shrub (10ft)",
+    "chemical_composition": [
+      "Lawsone",
+      "Tannin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Thirst",
+      "Worms",
+      "Diarrhea",
+      "Leukorrhea",
+      "Fermentation agent"
+    ],
+    "parts_used": [
+      "Flower"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 21,
+    "class_name": "2_Clerodendrum_phlomidis",
+    "id": 2,
+    "sanskrit_name": "Agnimantha",
+    "latin_name": "Clerodendrum phlomidis",
+    "common_name_english": "Wind Killer",
+    "family": "Verbenaceae",
+    "habit": "Tree (25ft)",
+    "chemical_composition": [
+      "-"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Bitter, Pungent, Astringent, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Low digestion",
+      "Edema/Swelling",
+      "Anemia",
+      "Rejuvenative",
+      "Diabetes"
+    ],
+    "parts_used": [
+      "Leaf",
+      "Root Bark"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 22,
+    "class_name": "30_Cynodon_dactylon",
+    "id": 30,
+    "sanskrit_name": "Durva",
+    "latin_name": "Cynodon dactylon",
+    "common_name_english": "Bermuda Grass",
+    "family": "Gramineae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Protein"
+    ],
+    "properties_qualities": "Light",
+    "taste": "Astringent, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Burning sensation",
+      "Bleeding disorders",
+      "Skin diseases",
+      "Kidney stones"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "10-20 ml"
+  },
+  {
+    "class_index": 23,
+    "class_name": "31_Elettaria_cardamomum",
+    "id": 31,
+    "sanskrit_name": "Ela (Sukshma)",
+    "latin_name": "Elettaria cardamomum",
+    "common_name_english": "Cardamom (Lesser)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Potassium",
+      "Manganese"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Cough",
+      "Asthma",
+      "Piles",
+      "Dysuria",
+      "Bad breath"
+    ],
+    "parts_used": [
+      "Seed"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 24,
+    "class_name": "32_Amomum_subulatum",
+    "id": 32,
+    "sanskrit_name": "Ela (Brihat)",
+    "latin_name": "Amomum subulatum",
+    "common_name_english": "Black Cardamom",
+    "family": "Zingiberaceae",
+    "habit": "Shrub (3ft)",
+    "chemical_composition": [
+      "Cineole"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Cough",
+      "Vomiting",
+      "Thirst",
+      "Poison",
+      "Blood disorders"
+    ],
+    "parts_used": [
+      "Seed"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 25,
+    "class_name": "33_Ricinus_communis",
+    "id": 33,
+    "sanskrit_name": "Eranda",
+    "latin_name": "Ricinus communis",
+    "common_name_english": "Castor",
+    "family": "Euphorbiaceae",
+    "habit": "Tree/Shrub",
+    "chemical_composition": [
+      "Ricin"
+    ],
+    "properties_qualities": "Unctuous, Sharp, Minute",
+    "taste": "Sweet, Pungent, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Vata disorders",
+      "Worms",
+      "Dysuria",
+      "Piles",
+      "Abdominal colic",
+      "Rheumatism"
+    ],
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ],
+    "dosage": "20 gm (Oil)"
+  },
+  {
+    "class_index": 26,
+    "class_name": "34_Gmelina_arborea",
+    "id": 34,
+    "sanskrit_name": "Gambhari",
+    "latin_name": "Gmelina arborea",
+    "common_name_english": "Beechwood",
+    "family": "Verbenaceae",
+    "habit": "Tree (60ft)",
+    "chemical_composition": [
+      "Resin"
+    ],
+    "properties_qualities": "Heavy",
+    "taste": "Bitter, Astringent, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Intellect promoter",
+      "Thirst",
+      "Colic",
+      "Fever",
+      "Hair tonic (Fruit)"
+    ],
+    "parts_used": [
+      "Root Bark",
+      "Fruit"
+    ],
+    "dosage": "50-100 ml"
+  },
+  {
+    "class_index": 27,
+    "class_name": "35_Tribulus_terrestris",
+    "id": 35,
+    "sanskrit_name": "Gokshura",
+    "latin_name": "Tribulus terrestris",
+    "common_name_english": "Puncture Vine",
+    "family": "Zygophyllaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Harman",
+      "Nitrates"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Bladder purification",
+      "Aphrodisiac",
+      "Kidney stones",
+      "Diabetes",
+      "Asthma"
+    ],
+    "parts_used": [
+      "Fruit"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 28,
+    "class_name": "36_Tinospora_cordifolia",
+    "id": 36,
+    "sanskrit_name": "Guduchi",
+    "latin_name": "Tinospora cordifolia",
+    "common_name_english": "Giloy / Heart-leaved Moonseed",
+    "family": "Menispermaceae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Giloin",
+      "Berberine"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Fracture healing",
+      "Aphrodisiac",
+      "Voice enhancer",
+      "Rejuvenative",
+      "Rheumatism"
+    ],
+    "parts_used": [
+      "Stem"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 29,
+    "class_name": "37_Commiphora_mukul",
+    "id": 37,
+    "sanskrit_name": "Guggulu",
+    "latin_name": "Commiphora mukul",
+    "common_name_english": "Indian Bdellium",
+    "family": "Burseraceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Gum",
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Dry, Sharp, Minute, Flowing",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Rejuvenative",
+      "Diabetes",
+      "Obesity",
+      "Fistula",
+      "Rheumatism"
+    ],
+    "parts_used": [
+      "Resin (Exudate)"
+    ],
+    "dosage": "2-4 gm"
+  },
+  {
+    "class_index": 30,
+    "class_name": "38_Curcuma_longa",
+    "id": 38,
+    "sanskrit_name": "Haridra",
+    "latin_name": "Curcuma longa",
+    "common_name_english": "Turmeric",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Curcumin",
+      "Vitamin A"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Complexion enhancer",
+      "Skin diseases",
+      "Diabetes",
+      "Blood disorders",
+      "Edema",
+      "Anemia"
+    ],
+    "parts_used": [
+      "Rhizome"
+    ],
+    "dosage": "3 gm"
+  },
+  {
+    "class_index": 31,
+    "class_name": "39_Berberis_aristata",
+    "id": 39,
+    "sanskrit_name": "Daruharidra",
+    "latin_name": "Berberis aristata",
+    "common_name_english": "Indian Barberry",
+    "family": "Berberidaceae",
+    "habit": "Shrub (6-18ft)",
+    "chemical_composition": [
+      "Berberine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Eye/Ear diseases",
+      "Digestive",
+      "Cervical lymphadenitis",
+      "Jaundice"
+    ],
+    "parts_used": [
+      "Root",
+      "Stem",
+      "Fruit"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 32,
+    "class_name": "40_Terminalia_chebula",
+    "id": 40,
+    "sanskrit_name": "Haritaki",
+    "latin_name": "Terminalia chebula",
+    "common_name_english": "Chebulic Myrobalan",
+    "family": "Combretaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Chebulic Acid"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Sweet, Sour, Pungent, Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Laxative",
+      "Rejuvenative",
+      "Anemia",
+      "Eye diseases"
+    ],
+    "parts_used": [
+      "Fruit"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 33,
+    "class_name": "42_Syzygium_cumini",
+    "id": 42,
+    "sanskrit_name": "Jambu",
+    "latin_name": "Syzygium cumini",
+    "common_name_english": "Jamun / Java Plum",
+    "family": "Myrtaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Jamboline",
+      "Starch",
+      "Tannin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Ulcers",
+      "Diabetes",
+      "Fractures",
+      "Diarrhea",
+      "Menorrhagia"
+    ],
+    "parts_used": [
+      "Fruit",
+      "Seed",
+      "Leaf",
+      "Bark"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 34,
+    "class_name": "43_Nardostachys_jatamansi",
+    "id": 43,
+    "sanskrit_name": "Jatamansi",
+    "latin_name": "Nardostachys jatamansi",
+    "common_name_english": "Spikenard",
+    "family": "Valerianaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Bitter, Astringent, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Complexion",
+      "Strength",
+      "Burning sensation",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "2-4 gm"
+  },
+  {
+    "class_index": 35,
+    "class_name": "44_Myristica_fragrans",
+    "id": 44,
+    "sanskrit_name": "Jatiphala",
+    "latin_name": "Myristica fragrans",
+    "common_name_english": "Nutmeg",
+    "family": "Myristicaceae",
+    "habit": "Tree (40ft)",
+    "chemical_composition": [
+      "Volatile Oil",
+      "Myristic Acid"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Absorbent",
+      "Voice enhancer",
+      "Worms",
+      "Cough",
+      "Asthma"
+    ],
+    "parts_used": [
+      "Seed",
+      "Aril"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 36,
+    "class_name": "46_Cuminum_cyminum",
+    "id": 46,
+    "sanskrit_name": "Jiraka (Shweta)",
+    "latin_name": "Cuminum cyminum",
+    "common_name_english": "Cumin",
+    "family": "Umbelliferae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Cumaldehyde"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Bloating",
+      "Carminative",
+      "Lactation",
+      "Diarrhea",
+      "Low digestion"
+    ],
+    "parts_used": [
+      "Seed"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 37,
+    "class_name": "47_Celastrus_paniculatus",
+    "id": 47,
+    "sanskrit_name": "Jyotishmati",
+    "latin_name": "Celastrus paniculatus",
+    "common_name_english": "Intellect Tree",
+    "family": "Celastraceae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Celastrine",
+      "Paniculatine"
+    ],
+    "properties_qualities": "Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Memory enhancer",
+      "Emetic (high dose)",
+      "Rheumatism",
+      "Migraine"
+    ],
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "dosage": "5-10 drops"
+  },
+  {
+    "class_index": 38,
+    "class_name": "48_Andrographis_paniculata",
+    "id": 48,
+    "sanskrit_name": "Kalmegh",
+    "latin_name": "Andrographis paniculata",
+    "common_name_english": "Green Chiretta",
+    "family": "Acanthaceae",
+    "habit": "Shrub (2ft)",
+    "chemical_composition": [
+      "Kalmeghin",
+      "Andrographolide"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Liver disorders",
+      "Fever",
+      "Toxins",
+      "Worms",
+      "Burning sensation",
+      "Acidity"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 39,
+    "class_name": "49_Mallotus_philippensis",
+    "id": 49,
+    "sanskrit_name": "Kampillaka",
+    "latin_name": "Mallotus philippensis",
+    "common_name_english": "Kamala Tree",
+    "family": "Euphorbiaceae",
+    "habit": "Tree (30ft)",
+    "chemical_composition": [
+      "Rottlerin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Worms",
+      "Abdominal tumors",
+      "Ascites",
+      "Ulcers",
+      "Purgative",
+      "Diabetes"
+    ],
+    "parts_used": [
+      "Fruit Powder (Glands)"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 40,
+    "class_name": "4_Papaver_somniferum",
+    "id": 4,
+    "sanskrit_name": "Ahiphena",
+    "latin_name": "Papaver somniferum",
+    "common_name_english": "Opium Poppy",
+    "family": "Papaveraceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Morphine/Codeine"
+    ],
+    "properties_qualities": "Light, Dry, Minute, Diffusive, Loosening",
+    "taste": "Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Cough",
+      "Emaciation",
+      "Styptic (stops bleeding)",
+      "Sexual suppressant"
+    ],
+    "parts_used": [
+      "Latex",
+      "Exudate"
+    ],
+    "dosage": "30-125 mg"
+  },
+  {
+    "class_index": 41,
+    "class_name": "50_Bauhinia_variegata",
+    "id": 50,
+    "sanskrit_name": "Kanchanara",
+    "latin_name": "Bauhinia variegata",
+    "common_name_english": "Orchid Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Tannin"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Cervical lymphadenitis",
+      "Goiter",
+      "Tumors",
+      "Ulcers",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Bark",
+      "Flower"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 42,
+    "class_name": "51_Solanum_surattense",
+    "id": 51,
+    "sanskrit_name": "Kantakari",
+    "latin_name": "Solanum surattense",
+    "common_name_english": "Yellow Berried Nightshade",
+    "family": "Solanaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Diosgenin",
+      "Potassium Nitrate"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Cough",
+      "Fever",
+      "Rhinitis",
+      "Worms",
+      "Heart disease"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "40-80 ml"
+  },
+  {
+    "class_index": 43,
+    "class_name": "52_Mucuna_pruriens",
+    "id": 52,
+    "sanskrit_name": "Kapikachhu",
+    "latin_name": "Mucuna pruriens",
+    "common_name_english": "Velvet Bean",
+    "family": "Leguminosae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Prurienine"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Aphrodisiac",
+      "Strength promoter",
+      "Vata disorders",
+      "Worms"
+    ],
+    "parts_used": [
+      "Seed",
+      "Root",
+      "Hairs"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 44,
+    "class_name": "54_Cinnamomum_camphora",
+    "id": 54,
+    "sanskrit_name": "Karpura",
+    "latin_name": "Cinnamomum camphora",
+    "common_name_english": "Camphor",
+    "family": "Lauraceae",
+    "habit": "Tree (100ft)",
+    "chemical_composition": [
+      "Camphor Oil"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Bitter, Pungent, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Cooling",
+      "Eye tonic",
+      "Poison",
+      "Burning sensation",
+      "Bad breath"
+    ],
+    "parts_used": [
+      "Extract",
+      "Crystal"
+    ],
+    "dosage": "125-375 mg"
+  },
+  {
+    "class_index": 45,
+    "class_name": "55_Picrorhiza_kurroa",
+    "id": 55,
+    "sanskrit_name": "Katuka",
+    "latin_name": "Picrorhiza kurroa",
+    "common_name_english": "Picrorhiza",
+    "family": "Scrophulariaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Picrorhizin",
+      "Kutkin"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Purgative",
+      "Heart tonic",
+      "Diabetes",
+      "Asthma",
+      "Cough",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Root",
+      "Rhizome"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 46,
+    "class_name": "56_Acacia_catechu",
+    "id": 56,
+    "sanskrit_name": "Khadira",
+    "latin_name": "Acacia catechu",
+    "common_name_english": "Cutch Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Catechin",
+      "Tannin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Asthma",
+      "Cough",
+      "Diabetes",
+      "Ulcers",
+      "Anemia"
+    ],
+    "parts_used": [
+      "Bark",
+      "Heartwood"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 47,
+    "class_name": "58_Aloe_vera",
+    "id": 58,
+    "sanskrit_name": "Kumari",
+    "latin_name": "Aloe vera",
+    "common_name_english": "Aloe Vera",
+    "family": "Liliaceae",
+    "habit": "Shrub (2ft)",
+    "chemical_composition": [
+      "Aloin"
+    ],
+    "properties_qualities": "Heavy, Unctuous, Slimy",
+    "taste": "Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Strength",
+      "Aphrodisiac",
+      "Eye tonic",
+      "Rejuvenative",
+      "Liver/Spleen disorders"
+    ],
+    "parts_used": [
+      "Leaf",
+      "Extract"
+    ],
+    "dosage": "0.1-0.2 gm"
+  },
+  {
+    "class_index": 48,
+    "class_name": "59_Crocus_sativus",
+    "id": 59,
+    "sanskrit_name": "Kunkuma",
+    "latin_name": "Crocus sativus",
+    "common_name_english": "Saffron",
+    "family": "Iridaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Volatile Oil",
+      "Crocin"
+    ],
+    "properties_qualities": "Unctuous",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Complexion",
+      "Headache",
+      "Worms",
+      "Vomiting",
+      "Pigmentation"
+    ],
+    "parts_used": [
+      "Stigma (Kesar)"
+    ],
+    "dosage": "250-500 mg"
+  },
+  {
+    "class_index": 49,
+    "class_name": "5_Emblica_officinalis",
+    "id": 5,
+    "sanskrit_name": "Amalaki",
+    "latin_name": "Emblica officinalis",
+    "common_name_english": "Indian Gooseberry",
+    "family": "Euphorbiaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Vitamin C",
+      "Gallic Acid",
+      "Calcium"
+    ],
+    "properties_qualities": "Heavy, Dry, Cold",
+    "taste": "Sour (dominant), Sweet, Bitter, Pungent, Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Bleeding disorders",
+      "Diabetes",
+      "Aphrodisiac",
+      "Rejuvenative",
+      "Constipation"
+    ],
+    "parts_used": [
+      "Fruit"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 50,
+    "class_name": "60_Strychnos_nux-vomica",
+    "id": 60,
+    "sanskrit_name": "Kupilu",
+    "latin_name": "Strychnos nux-vomica",
+    "common_name_english": "Nux Vomica",
+    "family": "Loganiaceae",
+    "habit": "Tree (50ft)",
+    "chemical_composition": [
+      "Strychnine"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Intoxicant",
+      "Pain relief",
+      "Paralysis",
+      "Aphrodisiac",
+      "Rheumatism"
+    ],
+    "parts_used": [
+      "Seed Marrow"
+    ],
+    "dosage": "60-250 mg"
+  },
+  {
+    "class_index": 51,
+    "class_name": "61_Saussurea_lappa",
+    "id": 61,
+    "sanskrit_name": "Kushtha",
+    "latin_name": "Saussurea lappa",
+    "common_name_english": "Costus",
+    "family": "Compositae",
+    "habit": "Shrub (6ft)",
+    "chemical_composition": [
+      "Saussurine"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Bitter, Pungent, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Gout",
+      "Erysipelas",
+      "Cough",
+      "Hiccough",
+      "Strength promoter"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "0.25-1 gm"
+  },
+  {
+    "class_index": 52,
+    "class_name": "62_Holarrhena_antidysenterica",
+    "id": 62,
+    "sanskrit_name": "Kutaja",
+    "latin_name": "Holarrhena antidysenterica",
+    "common_name_english": "Kurchi / Tellicherry Bark",
+    "family": "Apocynaceae",
+    "habit": "Tree (40ft)",
+    "chemical_composition": [
+      "Conessine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Piles",
+      "Diarrhea",
+      "Bleeding disorders",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Bark",
+      "Seed"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 53,
+    "class_name": "63_Syzygium_aromaticum",
+    "id": 63,
+    "sanskrit_name": "Lavanga",
+    "latin_name": "Syzygium aromaticum",
+    "common_name_english": "Clove",
+    "family": "Myrtaceae",
+    "habit": "Tree (30ft)",
+    "chemical_composition": [
+      "Vitamins",
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Bitter, Pungent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Eye tonic",
+      "Thirst",
+      "Vomiting",
+      "Colic",
+      "Asthma",
+      "Cough",
+      "Toothache"
+    ],
+    "parts_used": [
+      "Flower Bud"
+    ],
+    "dosage": "1 gm"
+  },
+  {
+    "class_index": 54,
+    "class_name": "64_Symplocos_racemosa",
+    "id": 64,
+    "sanskrit_name": "Lodhra",
+    "latin_name": "Symplocos racemosa",
+    "common_name_english": "Lodhra",
+    "family": "Symplocaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Loturine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Absorbent",
+      "Eye tonic",
+      "Bleeding disorders",
+      "Diarrhea",
+      "Edema"
+    ],
+    "parts_used": [
+      "Bark"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 55,
+    "class_name": "65_Randia_spinosa",
+    "id": 65,
+    "sanskrit_name": "Madanaphala",
+    "latin_name": "Randia spinosa",
+    "common_name_english": "Emetic Nut",
+    "family": "Rubiaceae",
+    "habit": "Tree (25ft)",
+    "chemical_composition": [
+      "Saponin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Sweet, Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Emetic",
+      "Abscess",
+      "Ulcers",
+      "Skin diseases",
+      "Rhinitis"
+    ],
+    "parts_used": [
+      "Fruit"
+    ],
+    "dosage": "1-2 gm"
+  },
+  {
+    "class_index": 56,
+    "class_name": "66_Centella_asiatica",
+    "id": 66,
+    "sanskrit_name": "Mandukaparni",
+    "latin_name": "Centella asiatica",
+    "common_name_english": "Gotu Kola",
+    "family": "Umbelliferae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Hydrocotyline"
+    ],
+    "properties_qualities": "Light",
+    "taste": "Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Anti-aging",
+      "Blood purifier",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "10-20 ml"
+  },
+  {
+    "class_index": 57,
+    "class_name": "67_Rubia_cordifolia",
+    "id": 67,
+    "sanskrit_name": "Manjishtha",
+    "latin_name": "Rubia cordifolia",
+    "common_name_english": "Indian Madder",
+    "family": "Rubiaceae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Manjistin"
+    ],
+    "properties_qualities": "Heavy, Dry",
+    "taste": "Bitter, Astringent, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Complexion",
+      "Poison",
+      "Edema",
+      "Gynecological disorders",
+      "Blood purifier"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 58,
+    "class_name": "68_Piper_nigrum",
+    "id": 68,
+    "sanskrit_name": "Maricha",
+    "latin_name": "Piper nigrum",
+    "common_name_english": "Black Pepper",
+    "family": "Piperaceae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Piperine",
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Asthma",
+      "Colic",
+      "Worms"
+    ],
+    "parts_used": [
+      "Fruit"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 59,
+    "class_name": "69_Cyperus_rotundus",
+    "id": 69,
+    "sanskrit_name": "Mustaka",
+    "latin_name": "Cyperus rotundus",
+    "common_name_english": "Nut Grass",
+    "family": "Cyperaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Pungent, Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Absorbent",
+      "Digestive",
+      "Thirst",
+      "Fever",
+      "Diarrhea",
+      "IBS"
+    ],
+    "parts_used": [
+      "Tuber"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 60,
+    "class_name": "6_Achyranthes_aspera",
+    "id": 6,
+    "sanskrit_name": "Apamarga",
+    "latin_name": "Achyranthes aspera",
+    "common_name_english": "Prickly Chaff Flower",
+    "family": "Amaranthaceae",
+    "habit": "Shrub (2ft)",
+    "chemical_composition": [
+      "Potassium"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Laxative",
+      "Emetic",
+      "Kapha/Fat reducer",
+      "Heart disease",
+      "Piles",
+      "Abdominal colic"
+    ],
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed",
+      "Whole Plant"
+    ],
+    "dosage": "1-2 gm"
+  },
+  {
+    "class_index": 61,
+    "class_name": "70_Vitex_negundo",
+    "id": 70,
+    "sanskrit_name": "Nirgundi",
+    "latin_name": "Vitex negundo",
+    "common_name_english": "Five-leaved Chaste Tree",
+    "family": "Verbenaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Hair tonic",
+      "Eye tonic",
+      "Colic",
+      "Rheumatism",
+      "Worms",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 62,
+    "class_name": "71_Butea_monosperma",
+    "id": 71,
+    "sanskrit_name": "Palasha",
+    "latin_name": "Butea monosperma",
+    "common_name_english": "Flame of the Forest",
+    "family": "Leguminosae",
+    "habit": "Tree (40ft)",
+    "chemical_composition": [
+      "Kinotannic Acid",
+      "Palasonin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Fracture healing",
+      "Piles",
+      "Worms",
+      "Aphrodisiac"
+    ],
+    "parts_used": [
+      "Flower",
+      "Seed",
+      "Bark"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 63,
+    "class_name": "72_Fumaria_vaillantii",
+    "id": 72,
+    "sanskrit_name": "Parpata",
+    "latin_name": "Fumaria vaillantii",
+    "common_name_english": "Fine Leaved Fumitory",
+    "family": "Fumariaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Pentatriacontane"
+    ],
+    "properties_qualities": "Light",
+    "taste": "Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Fever",
+      "Thirst",
+      "Vertigo",
+      "Blood disorders"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 64,
+    "class_name": "73_Bergenia_ligulata",
+    "id": 73,
+    "sanskrit_name": "Pashanabheda",
+    "latin_name": "Bergenia ligulata",
+    "common_name_english": "Rock Foil",
+    "family": "Saxifragaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Tannic Acid"
+    ],
+    "properties_qualities": "Light, Unctuous, Sharp",
+    "taste": "Astringent, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Kidney stones",
+      "Heart disease",
+      "Dysuria",
+      "Diabetes"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 65,
+    "class_name": "74_Stereospermum_suaveolens",
+    "id": 74,
+    "sanskrit_name": "Patala",
+    "latin_name": "Stereospermum suaveolens",
+    "common_name_english": "Rose Flower Fragrant",
+    "family": "Bignoniaceae",
+    "habit": "Tree (60ft)",
+    "chemical_composition": [
+      "Gum"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Anorexia",
+      "Asthma",
+      "Edema",
+      "Vomiting"
+    ],
+    "parts_used": [
+      "Root Bark"
+    ],
+    "dosage": "50-100 ml"
+  },
+  {
+    "class_index": 66,
+    "class_name": "75_Piper_longum",
+    "id": 75,
+    "sanskrit_name": "Pippali",
+    "latin_name": "Piper longum",
+    "common_name_english": "Long Pepper",
+    "family": "Piperaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Piperine",
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Unctuous, Sharp",
+    "taste": "Pungent",
+    "potency": "Warm (Anushna)",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Asthma",
+      "Cough",
+      "Skin diseases",
+      "Piles",
+      "Aphrodisiac",
+      "Intellect"
+    ],
+    "parts_used": [
+      "Fruit",
+      "Root"
+    ],
+    "dosage": "0.5-1 gm"
+  },
+  {
+    "class_index": 67,
+    "class_name": "76_Uraria_picta",
+    "id": 76,
+    "sanskrit_name": "Prishniparni",
+    "latin_name": "Uraria picta",
+    "common_name_english": "Uraria",
+    "family": "Fabaceae",
+    "habit": "Shrub (4ft)",
+    "chemical_composition": [
+      "-"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Absorbent",
+      "Vata disorders",
+      "Aphrodisiac",
+      "Fever",
+      "Thirst"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "50-100 ml"
+  },
+  {
+    "class_index": 68,
+    "class_name": "77_Boerhavia_diffusa",
+    "id": 77,
+    "sanskrit_name": "Punarnava",
+    "latin_name": "Boerhavia diffusa",
+    "common_name_english": "Spreading Hogweed",
+    "family": "Nyctaginaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Potassium Nitrate",
+      "Sulphate"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Sweet, Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Diuretic",
+      "Blood builder",
+      "Abdominal diseases",
+      "Edema",
+      "Anemia"
+    ],
+    "parts_used": [
+      "Root",
+      "Whole Plant"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 69,
+    "class_name": "78_Inula_racemosa",
+    "id": 78,
+    "sanskrit_name": "Pushkaramula",
+    "latin_name": "Inula racemosa",
+    "common_name_english": "Elecampane",
+    "family": "Compositae",
+    "habit": "Shrub (5ft)",
+    "chemical_composition": [
+      "Inulin",
+      "Alantolactone"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Bitter, Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Hiccough",
+      "Cough",
+      "Asthma",
+      "Anorexia",
+      "Chest pain"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "1 gm"
+  },
+  {
+    "class_index": 70,
+    "class_name": "79_Pluchea_lanceolata",
+    "id": 79,
+    "sanskrit_name": "Rasna",
+    "latin_name": "Pluchea lanceolata",
+    "common_name_english": "Pluchea",
+    "family": "Compositae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Quercetin",
+      "Pluchine"
+    ],
+    "properties_qualities": "Heavy",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Abdominal diseases",
+      "Vata disorders",
+      "Rheumatism",
+      "Swelling"
+    ],
+    "parts_used": [
+      "Leaf"
+    ],
+    "dosage": "100 ml (Decoction)"
+  },
+  {
+    "class_index": 71,
+    "class_name": "7_Cassia_fistula",
+    "id": 7,
+    "sanskrit_name": "Aragvadha",
+    "latin_name": "Cassia fistula",
+    "common_name_english": "Purging Nut / Golden Shower",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Sugar",
+      "Pectine",
+      "Gluten"
+    ],
+    "properties_qualities": "Heavy, Soft, Unctuous",
+    "taste": "Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Fever",
+      "Heart disease",
+      "Bleeding disorders",
+      "Bloating",
+      "Constipation",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Fruit Pulp"
+    ],
+    "dosage": "5-10 gm"
+  },
+  {
+    "class_index": 72,
+    "class_name": "80_Barleria_prionitis",
+    "id": 80,
+    "sanskrit_name": "Saireyaka",
+    "latin_name": "Barleria prionitis",
+    "common_name_english": "Porcupine Flower",
+    "family": "Acanthaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "-"
+    ],
+    "properties_qualities": "Light",
+    "taste": "Bitter, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Poison",
+      "Graying of hair",
+      "Skin diseases",
+      "Gout",
+      "Itching"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "10-20 ml"
+  },
+  {
+    "class_index": 73,
+    "class_name": "81_Hemidesmus_indicus",
+    "id": 81,
+    "sanskrit_name": "Sariva (Shweta)",
+    "latin_name": "Hemidesmus indicus",
+    "common_name_english": "Indian Sarsaparilla",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Methoxy Salicylic Aldehyde"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Spermogenic",
+      "Anorexia",
+      "Asthma",
+      "Blood purifier",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "5-10 gm"
+  },
+  {
+    "class_index": 74,
+    "class_name": "82_Cryptolepis_buchanani",
+    "id": 82,
+    "sanskrit_name": "Sariva (Krishna)",
+    "latin_name": "Cryptolepis buchanani",
+    "common_name_english": "Black Sariva",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Salicylic Aldehyde"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Spermogenic",
+      "Anorexia",
+      "Asthma",
+      "Blood purifier",
+      "Poison"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "5-10 gm"
+  },
+  {
+    "class_index": 75,
+    "class_name": "83_Rauvolfia_serpentina",
+    "id": 83,
+    "sanskrit_name": "Sarpagandha",
+    "latin_name": "Rauvolfia serpentina",
+    "common_name_english": "Indian Snakeroot",
+    "family": "Apocynaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Reserpine"
+    ],
+    "properties_qualities": "Dry",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Sedative",
+      "Hypertension",
+      "Insomnia",
+      "Epilepsy",
+      "Mental disorders"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "1-2 gm"
+  },
+  {
+    "class_index": 76,
+    "class_name": "84_Desmodium_gangeticum",
+    "id": 84,
+    "sanskrit_name": "Shalaparni",
+    "latin_name": "Desmodium gangeticum",
+    "common_name_english": "Shal Leaf",
+    "family": "Leguminosae",
+    "habit": "Shrub (4ft)",
+    "chemical_composition": [
+      "Resin"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Vomiting",
+      "Fever",
+      "Asthma",
+      "Diarrhea",
+      "Rejuvenative"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "50-100 ml"
+  },
+  {
+    "class_index": 77,
+    "class_name": "85_Boswellia_serrata",
+    "id": 85,
+    "sanskrit_name": "Shallaki",
+    "latin_name": "Boswellia serrata",
+    "common_name_english": "Indian Frankincense",
+    "family": "Burseraceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Oleo-gum Resin",
+      "Boswellia Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Diarrhea",
+      "Bleeding disorders",
+      "Ulcers",
+      "Piles"
+    ],
+    "parts_used": [
+      "Resin (Exudate)"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 78,
+    "class_name": "86_Bombax_ceiba",
+    "id": 86,
+    "sanskrit_name": "Shalmali",
+    "latin_name": "Bombax ceiba",
+    "common_name_english": "Silk Cotton Tree",
+    "family": "Bombacaceae",
+    "habit": "Tree (125ft)",
+    "chemical_composition": [
+      "Tannic Acid",
+      "Gallic Acid"
+    ],
+    "properties_qualities": "Light, Unctuous, Slimy",
+    "taste": "Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Bleeding disorders",
+      "Aphrodisiac",
+      "Acne"
+    ],
+    "parts_used": [
+      "Root",
+      "Flower",
+      "Fruit",
+      "Gum"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 79,
+    "class_name": "87_Convolvulus_pluricaulis",
+    "id": 87,
+    "sanskrit_name": "Shankhapushpi",
+    "latin_name": "Convolvulus pluricaulis",
+    "common_name_english": "Morning Glory",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Shankhapushpine"
+    ],
+    "properties_qualities": "Unctuous, Slimy",
+    "taste": "Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Aphrodisiac",
+      "Epilepsy",
+      "Memory",
+      "Skin diseases"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "10-20 ml"
+  },
+  {
+    "class_index": 80,
+    "class_name": "88_Asparagus_racemosus",
+    "id": 88,
+    "sanskrit_name": "Shatavari",
+    "latin_name": "Asparagus racemosus",
+    "common_name_english": "Wild Asparagus",
+    "family": "Liliaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Saponin"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Bitter",
+    "potency": "Cold",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Galactagogue",
+      "Aphrodisiac",
+      "Eye tonic"
+    ],
+    "parts_used": [
+      "Tuber"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 81,
+    "class_name": "89_Moringa_oleifera",
+    "id": 89,
+    "sanskrit_name": "Shigru",
+    "latin_name": "Moringa oleifera",
+    "common_name_english": "Drumstick Tree",
+    "family": "Moringaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Moringine",
+      "Pterygospermine"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Eye tonic",
+      "Edema",
+      "Worms",
+      "Obesity"
+    ],
+    "parts_used": [
+      "Seed",
+      "Bark"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 82,
+    "class_name": "8_Zingiber_officinale",
+    "id": 8,
+    "sanskrit_name": "Ardraka / Shunthi",
+    "latin_name": "Zingiber officinale",
+    "common_name_english": "Ginger (Fresh/Dry)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Gingerol"
+    ],
+    "properties_qualities": "Light, Unctuous (Dry); Heavy, Dry, Sharp (Fresh)",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet (Dry); Pungent (Fresh)",
+    "therapeutic_indications": [
+      "Low digestion",
+      "Throat disorders",
+      "Leprosy",
+      "Anemia",
+      "Asthma",
+      "Cough"
+    ],
+    "parts_used": [
+      "Rhizome"
+    ],
+    "dosage": "1-2 gm"
+  },
+  {
+    "class_index": 83,
+    "class_name": "90_Albizia_lebbeck",
+    "id": 90,
+    "sanskrit_name": "Shirisha",
+    "latin_name": "Albizia lebbeck",
+    "common_name_english": "Lebbeck Tree",
+    "family": "Mimosaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Tannin",
+      "Saponin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Astringent, Bitter, Sweet",
+    "potency": "Warm",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Anti-poison",
+      "Skin diseases",
+      "Erysipelas",
+      "Cough"
+    ],
+    "parts_used": [
+      "Bark",
+      "Leaf",
+      "Seed",
+      "Flower"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 84,
+    "class_name": "91_Oroxylum_indicum",
+    "id": 91,
+    "sanskrit_name": "Shyonaka",
+    "latin_name": "Oroxylum indicum",
+    "common_name_english": "Indian Trumpet Flower",
+    "family": "Bignoniaceae",
+    "habit": "Tree (40ft)",
+    "chemical_composition": [
+      "Oroxylin",
+      "Baicalein"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Sweet, Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Absorbent",
+      "Edema",
+      "Diarrhea",
+      "Earache"
+    ],
+    "parts_used": [
+      "Root Bark"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 85,
+    "class_name": "93_Sesamum_indicum",
+    "id": 93,
+    "sanskrit_name": "Tila",
+    "latin_name": "Sesamum indicum",
+    "common_name_english": "Sesame",
+    "family": "Pedaliaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Vitamins",
+      "Calcium",
+      "Fat"
+    ],
+    "properties_qualities": "Heavy, Unctuous",
+    "taste": "Sweet, Astringent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Strength",
+      "Hair tonic",
+      "Teeth",
+      "Laxative",
+      "Wound healing"
+    ],
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 86,
+    "class_name": "94_Operculina_turpethum",
+    "id": 94,
+    "sanskrit_name": "Trivrit",
+    "latin_name": "Operculina turpethum",
+    "common_name_english": "Indian Jalap",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "chemical_composition": [
+      "Turpethin"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Purgative",
+      "Fever",
+      "Edema",
+      "Abdominal diseases",
+      "Jaundice"
+    ],
+    "parts_used": [
+      "Root Bark"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 87,
+    "class_name": "95_Ocimum_sanctum",
+    "id": 95,
+    "sanskrit_name": "Tulasi",
+    "latin_name": "Ocimum sanctum",
+    "common_name_english": "Holy Basil",
+    "family": "Labiatae",
+    "habit": "Shrub (4ft)",
+    "chemical_composition": [
+      "Ursolic Acid",
+      "Phenol"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Heart tonic",
+      "Skin diseases",
+      "Asthma",
+      "Cough",
+      "Viral fevers"
+    ],
+    "parts_used": [
+      "Leaf",
+      "Seed",
+      "Root"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 88,
+    "class_name": "96_Cinnamomum_zeylanicum",
+    "id": 96,
+    "sanskrit_name": "Tvaka",
+    "latin_name": "Cinnamomum zeylanicum",
+    "common_name_english": "Cinnamon",
+    "family": "Lauraceae",
+    "habit": "Tree (25ft)",
+    "chemical_composition": [
+      "Eugenol",
+      "Cinnamaldehyde"
+    ],
+    "properties_qualities": "Light, Dry, Sharp",
+    "taste": "Pungent, Bitter, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Tasty",
+      "Aphrodisiac",
+      "Dry mouth",
+      "Thirst",
+      "Cancer"
+    ],
+    "parts_used": [
+      "Bark",
+      "Leaf"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": 89,
+    "class_name": "97_Vetiveria_zizanioides",
+    "id": 97,
+    "sanskrit_name": "Ushira",
+    "latin_name": "Vetiveria zizanioides",
+    "common_name_english": "Vetiver / Khus",
+    "family": "Gramineae",
+    "habit": "Grass",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Bitter, Sweet",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Burning sensation",
+      "Fever",
+      "Vomiting",
+      "Acidity",
+      "Blood disorders"
+    ],
+    "parts_used": [
+      "Root"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 90,
+    "class_name": "98_Acorus_calamus",
+    "id": 98,
+    "sanskrit_name": "Vacha",
+    "latin_name": "Acorus calamus",
+    "common_name_english": "Sweet Flag",
+    "family": "Araceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Vitamin A",
+      "Beta-Asarone"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Pungent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Emetic",
+      "Colic",
+      "Bloating",
+      "Epilepsy",
+      "Worms",
+      "Speech enhancer"
+    ],
+    "parts_used": [
+      "Rhizome"
+    ],
+    "dosage": "125-500 mg"
+  },
+  {
+    "class_index": 91,
+    "class_name": "99_Dioscorea_bulbifera",
+    "id": 99,
+    "sanskrit_name": "Varahi",
+    "latin_name": "Dioscorea bulbifera",
+    "common_name_english": "Air Potato",
+    "family": "Dioscoreaceae",
+    "habit": "Climber",
+    "chemical_composition": [
+      "Carbohydrates"
+    ],
+    "properties_qualities": "Light, Unctuous",
+    "taste": "Pungent, Bitter, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Diabetes",
+      "Worms",
+      "Rejuvenative"
+    ],
+    "parts_used": [
+      "Rhizome"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": 92,
+    "class_name": "9_Terminalia_arjuna",
+    "id": 9,
+    "sanskrit_name": "Arjuna",
+    "latin_name": "Terminalia arjuna",
+    "common_name_english": "Arjuna",
+    "family": "Combretaceae",
+    "habit": "Tree (60ft)",
+    "chemical_composition": [
+      "Arjunetin",
+      "Tannin"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent",
+    "potency": "Cold",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Heart tonic",
+      "Injury",
+      "Tuberculosis",
+      "Obesity",
+      "Diabetes",
+      "Ulcers"
+    ],
+    "parts_used": [
+      "Bark"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "3_Premna_mucronata",
+    "id": 3,
+    "sanskrit_name": "Agnimantha (Brihat)",
+    "latin_name": "Premna mucronata",
+    "common_name_english": "Wind Killer (Large)",
+    "family": "Verbenaceae",
+    "habit": "Tree (30-35ft)",
+    "chemical_composition": [
+      "-"
+    ],
+    "properties_qualities": "Dry, Light",
+    "taste": "Bitter, Pungent, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Low digestion",
+      "Edema",
+      "Anemia",
+      "Diabetes",
+      "Cervical lymphadenitis",
+      "Obesity"
+    ],
+    "parts_used": [
+      "Leaf",
+      "Root Bark"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "18_Semicarpus_anacardium",
+    "id": 18,
+    "sanskrit_name": "Bhallataka",
+    "latin_name": "Semicarpus anacardium",
+    "common_name_english": "Marking Nut",
+    "family": "Anacardiaceae",
+    "habit": "Tree",
+    "chemical_composition": [
+      "Semicarpol",
+      "Bhilawanol"
+    ],
+    "properties_qualities": "Light, Unctuous, Sharp",
+    "taste": "Pungent, Bitter, Astringent",
+    "potency": "Hot",
+    "post_digestive_effect": "Sweet",
+    "therapeutic_indications": [
+      "Aphrodisiac",
+      "Abdominal diseases",
+      "Leprosy",
+      "IBS",
+      "Leukoderma",
+      "Piles"
+    ],
+    "parts_used": [
+      "Fruit",
+      "Seed"
+    ],
+    "dosage": "3-6 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "41_Ferula_narthex",
+    "id": 41,
+    "sanskrit_name": "Hingu",
+    "latin_name": "Ferula narthex",
+    "common_name_english": "Asafoetida",
+    "family": "Umbelliferae",
+    "habit": "Shrub (6ft)",
+    "chemical_composition": [
+      "Volatile Oil",
+      "Asaresinotannol"
+    ],
+    "properties_qualities": "Light, Unctuous, Sharp",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Digestive",
+      "Colic",
+      "Abdominal tumors",
+      "Bloating",
+      "Worms",
+      "Menstrual regulator"
+    ],
+    "parts_used": [
+      "Resin"
+    ],
+    "dosage": "125-500 mg"
+  },
+  {
+    "class_index": null,
+    "class_name": "45_Carum_bulbocastanum",
+    "id": 45,
+    "sanskrit_name": "Jiraka (Krishna)",
+    "latin_name": "Carum bulbocastanum",
+    "common_name_english": "Black Caraway",
+    "family": "Umbelliferae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Pungent",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Piles",
+      "Bloating",
+      "Tuberculosis",
+      "Carminative",
+      "Lactation promoter"
+    ],
+    "parts_used": [
+      "Seed"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "53_Pistacia_integerrima",
+    "id": 53,
+    "sanskrit_name": "Karkatshringi",
+    "latin_name": "Pistacia integerrima",
+    "common_name_english": "Crab's Claw",
+    "family": "Anacardiaceae",
+    "habit": "Tree (40ft)",
+    "chemical_composition": [
+      "Tannin",
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Astringent, Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Cough",
+      "Asthma",
+      "Hiccough",
+      "Fever",
+      "Vomiting",
+      "Thirst"
+    ],
+    "parts_used": [
+      "Gall"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "57_Swertia_chirayata",
+    "id": 57,
+    "sanskrit_name": "Kiratatikta",
+    "latin_name": "Swertia chirayata",
+    "common_name_english": "Chiretta",
+    "family": "Gentianaceae",
+    "habit": "Shrub",
+    "chemical_composition": [
+      "Mangiferin",
+      "Gentianine"
+    ],
+    "properties_qualities": "Light, Dry",
+    "taste": "Bitter",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Fever (all types)",
+      "Asthma",
+      "Cough",
+      "Skin diseases",
+      "Worms"
+    ],
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "dosage": "1-3 gm"
+  },
+  {
+    "class_index": null,
+    "class_name": "92_Abies_webbiana",
+    "id": 92,
+    "sanskrit_name": "Talisa",
+    "latin_name": "Abies webbiana",
+    "common_name_english": "Himalayan Silver Fir",
+    "family": "Pinaceae",
+    "habit": "Tree (150ft)",
+    "chemical_composition": [
+      "Volatile Oil"
+    ],
+    "properties_qualities": "Light, Sharp",
+    "taste": "Bitter, Sweet",
+    "potency": "Hot",
+    "post_digestive_effect": "Pungent",
+    "therapeutic_indications": [
+      "Asthma",
+      "Cough",
+      "Anorexia",
+      "Abdominal tumor",
+      "Tuberculosis"
+    ],
+    "parts_used": [
+      "Leaf"
+    ],
+    "dosage": "2-5 gm"
+  }
+]

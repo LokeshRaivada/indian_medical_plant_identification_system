@@ -1,0 +1,10 @@
+{
+  "num_test_samples": 930,
+  "num_classes": 93,
+  "top1_accuracy": 0.6075,
+  "top5_accuracy": 0.8602,
+  "weighted_precision": 0.8352,
+  "weighted_recall": 0.6075,
+  "weighted_f1": 0.6773,
+  "macro_f1": 0.0915
+}

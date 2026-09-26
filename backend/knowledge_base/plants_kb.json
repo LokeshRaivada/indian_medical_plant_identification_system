@@ -1,0 +1,5933 @@
+{
+  "100_Aconitum_ferox": {
+    "id": 100,
+    "class_name": "100_Aconitum_ferox",
+    "botanical_name": "Aconitum ferox",
+    "sanskrit_name": "Vatsanabha",
+    "common_name_en": "Indian Aconite",
+    "family": "Ranunculaceae",
+    "habit": "Herb",
+    "common_names": {
+      "english": "Indian Aconite",
+      "sanskrit": "Vatsanabha",
+      "hindi": "Vatsanabha, Meetha Zahar",
+      "regional": "Vasanabhi (Telugu)"
+    },
+    "parts_used": [
+      "Root (Purified)"
+    ],
+    "active_phytochemicals": [
+      "Aconitine",
+      "Pseudoaconitine",
+      "Bikhaconitine",
+      "Neoline"
+    ],
+    "dosage": "10-20 mg",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp, Dry",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Fever",
+      "Inflammation",
+      "Pain",
+      "Indigestion"
+    ],
+    "symptoms": [
+      "sciatica",
+      "pain",
+      "neuralgia",
+      "indigestion",
+      "fever",
+      "inflammation",
+      "severe pain",
+      "chronic inflammation",
+      "joint pain"
+    ],
+    "medicinal_uses": "Used only after classical Ayurvedic purification (Shodhana in cow milk/Gomutra). Potent analgesic, antipyretic, and cardiac stimulant in micro-doses.",
+    "dosage_and_formulation": "Anand Bhairav Ras, Tribhuvan Kirti Ras, Mahavat Vidhwansan Ras (8 to 16 mg purified). Prescribed Dosage: 10-20 mg.",
+    "precautions": "HIGHLY TOXIC in raw state. Never use unpurified. Contraindicated in pregnancy, cardiac arrhythmias, and children.",
+    "body_systems": [
+      "Digestive System",
+      "Musculoskeletal",
+      "Nervous System",
+      "Respiratory System"
+    ]
+  },
+  "10_Calotropis_procera": {
+    "id": 10,
+    "class_name": "10_Calotropis_procera",
+    "botanical_name": "Calotropis procera",
+    "sanskrit_name": "Arka",
+    "common_name_en": "Swallow Wort / Madar",
+    "family": "Asclepiadaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Swallow Wort / Madar",
+      "sanskrit": "Arka",
+      "hindi": "Aak, Madar",
+      "regional": "Jilledu (Telugu), Erukku (Tamil)"
+    },
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Trypsin",
+      "Uscarine",
+      "Calotropin",
+      "Calactin",
+      "Uscharin",
+      "Calotropagenin"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Edema",
+      "Rheumatism",
+      "Asthma",
+      "Cough",
+      "Liver disorders"
+    ],
+    "symptoms": [
+      "arthritis",
+      "cough",
+      "skin ulcers",
+      "joint inflammation",
+      "liver disorders",
+      "abdominal tumors",
+      "eczema",
+      "rheumatism",
+      "swelling",
+      "asthma",
+      "edema"
+    ],
+    "medicinal_uses": "Leaves warmed with oil applied locally for joint effusion and swelling. Latex used traditionally for ringworm and stubborn skin lesions.",
+    "dosage_and_formulation": "Arka Taila, Arkalavana, Mahavishagarbha Taila. Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Latex is caustic and highly irritating to eyes. Ingestion of unpurified plant causes vomiting.",
+    "body_systems": [
+      "Digestive System",
+      "Integumentary",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "11_Calotropis_gigantea": {
+    "id": 11,
+    "class_name": "11_Calotropis_gigantea",
+    "botanical_name": "Calotropis gigantea",
+    "sanskrit_name": "Arka (Shweta)",
+    "common_name_en": "Giant Swallow Wort",
+    "family": "Asclepiadaceae",
+    "habit": "Tree (20ft)",
+    "common_names": {
+      "english": "Giant Swallow Wort",
+      "sanskrit": "Arka (Shweta)",
+      "hindi": "Safed Aak",
+      "regional": "Billedu (Telugu), Vellerukku (Tamil)"
+    },
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Trypsin",
+      "Uscarine",
+      "Calotropin",
+      "Giganteol",
+      "Taraxasterol",
+      "Cardiac Glycosides"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Balances Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Edema",
+      "Rheumatism",
+      "Asthma",
+      "Cough",
+      "Liver disorders"
+    ],
+    "symptoms": [
+      "cough",
+      "breathlessness",
+      "skin ulcers",
+      "liver disorders",
+      "abdominal tumors",
+      "chronic cough",
+      "rheumatism",
+      "asthma",
+      "edema"
+    ],
+    "medicinal_uses": "White flowers used for chronic respiratory conditions, dry cough, and metabolic stimulation. Fomentation of leaves relieves knee arthritis.",
+    "dosage_and_formulation": "Dhanvantara Ghrita, Arkadi Kashaya, Sweta Arka Bhasma. Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Caution with dosage. Avoid direct ocular contact with latex.",
+    "body_systems": [
+      "Circulatory System",
+      "Digestive System",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "12_Withania_somnifera": {
+    "id": 12,
+    "class_name": "12_Withania_somnifera",
+    "botanical_name": "Withania somnifera",
+    "sanskrit_name": "Ashwagandha",
+    "common_name_en": "Winter Cherry",
+    "family": "Solanaceae",
+    "habit": "Shrub (5ft)",
+    "common_names": {
+      "english": "Winter Cherry",
+      "sanskrit": "Ashwagandha",
+      "hindi": "Ashwagandha, Asgandh",
+      "regional": "Amukkuram (Malayalam), Penneru (Telugu)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Cuseohygrine",
+      "Withanolides",
+      "Withanolides (Withanolide A & D)",
+      "Withaferin A",
+      "Withanone",
+      "Sitoindosides",
+      "Anaferine"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Bitter, Pungent, Sweet",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Strength promoter",
+      "Aphrodisiac",
+      "Rejuvenative",
+      "Leukoderma",
+      "Edema",
+      "Consumption"
+    ],
+    "symptoms": [
+      "fatigue",
+      "anxiety",
+      "leukoderma",
+      "consumption",
+      "sleeplessness",
+      "weakness",
+      "low immunity",
+      "aphrodisiac",
+      "strength promoter",
+      "brain fog",
+      "insomnia",
+      "muscle loss",
+      "stress",
+      "rejuvenative",
+      "joint pain",
+      "edema"
+    ],
+    "medicinal_uses": "Premier adaptogen and Rasayana. Regulates cortisol axis, promotes restorative sleep, enhances athletic endurance, improves memory, and reduces neuro-inflammation.",
+    "dosage_and_formulation": "Ashwagandharishta, Ashwagandha Churna (3-6 g with warm milk), Ashwagandha Ghrita. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Caution in pregnancy and active hyperthyroidism. May potentiate sedatives.",
+    "body_systems": [
+      "Endocrine",
+      "Endocrine / Metabolism",
+      "Immune System",
+      "Integumentary",
+      "Musculoskeletal",
+      "Nervous System"
+    ]
+  },
+  "13_Saraca_asoca": {
+    "id": 13,
+    "class_name": "13_Saraca_asoca",
+    "botanical_name": "Saraca asoca",
+    "sanskrit_name": "Ashoka",
+    "common_name_en": "Ashoka Tree",
+    "family": "Caesalpiniaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Ashoka Tree",
+      "sanskrit": "Ashoka",
+      "hindi": "Ashok",
+      "regional": "Asokam (Malayalam), Asok (Bengali)"
+    },
+    "parts_used": [
+      "Bark",
+      "Seed",
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Haematoxylin",
+      "Tannin",
+      "Saracin",
+      "Catechol",
+      "Beta-sitosterol",
+      "Leucocyanidin",
+      "Flavonoids"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Balances Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Styptic",
+      "Complexion enhancer",
+      "Dysmenorrhea",
+      "Menorrhagia",
+      "Uterine laxity"
+    ],
+    "symptoms": [
+      "uterine laxity",
+      "heavy menstrual bleeding",
+      "menorrhagia",
+      "period pain",
+      "styptic",
+      "uterine spasms",
+      "dysmenorrhea",
+      "vaginal discharge",
+      "bleeding piles",
+      "menstrual irregularity",
+      "complexion enhancer"
+    ],
+    "medicinal_uses": "Celebrated Ayurvedic uterine tonic. Tones endometrium, arrests abnormal uterine hemorrhage, and relieves painful menstrual cramps.",
+    "dosage_and_formulation": "Ashokarishta, Ashokaghrita, Ashoka Kwatha (15-30 ml). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe in recommended doses; not recommended during early pregnancy unless guided by Vaidya.",
+    "body_systems": [
+      "Circulatory System",
+      "Integumentary",
+      "Reproductive System"
+    ]
+  },
+  "14_Aconitum_heterophyllum": {
+    "id": 14,
+    "class_name": "14_Aconitum_heterophyllum",
+    "botanical_name": "Aconitum heterophyllum",
+    "sanskrit_name": "Ativisha",
+    "common_name_en": "Indian Atees",
+    "family": "Ranunculaceae",
+    "habit": "Shrub (3ft)",
+    "common_names": {
+      "english": "Indian Atees",
+      "sanskrit": "Ativisha",
+      "hindi": "Ativisha, Atees",
+      "regional": "Atividayam (Tamil), Athivasa (Telugu)"
+    },
+    "parts_used": [
+      "Root",
+      "Tuber"
+    ],
+    "active_phytochemicals": [
+      "Atisine",
+      "Hetisine",
+      "Atidine",
+      "Heteratisine",
+      "Heterophylline"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Appetizer",
+      "Absorbent",
+      "Fever",
+      "Diarrhea",
+      "Poison",
+      "Worms"
+    ],
+    "symptoms": [
+      "worms",
+      "poison",
+      "dysentery",
+      "loose stools",
+      "indigestion",
+      "fever",
+      "digestive",
+      "diarrhea",
+      "appetizer",
+      "stomach pain in children",
+      "vomiting",
+      "absorbent"
+    ],
+    "medicinal_uses": "Non-toxic aconite species famous as 'Bala Rasayana' for pediatric digestive disorders. Strong anti-diarrheal, stomachic, and febrifuge.",
+    "dosage_and_formulation": "Balachaturbhadra Churna, Ativishadi Churna (1-3 g root powder). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Distinguish carefully from poisonous Aconitum ferox.",
+    "body_systems": [
+      "Digestive System",
+      "Pediatric Health"
+    ]
+  },
+  "15_Psoralea_corylifolia": {
+    "id": 15,
+    "class_name": "15_Psoralea_corylifolia",
+    "botanical_name": "Psoralea corylifolia",
+    "sanskrit_name": "Bakuchi",
+    "common_name_en": "Psoralea Seed",
+    "family": "Leguminosae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Psoralea Seed",
+      "sanskrit": "Bakuchi",
+      "hindi": "Bakuchi, Babchi",
+      "regional": "Bavanchalu (Telugu), Karpokarishi (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "active_phytochemicals": [
+      "Psoralen",
+      "Fixed Oil",
+      "Isopsoralen",
+      "Bakuchiol",
+      "Corylifolin",
+      "Flavonoids"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Balances Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Worm infestation",
+      "Skin disorders",
+      "Wound healing",
+      "Leukoderma",
+      "Psoriasis"
+    ],
+    "symptoms": [
+      "leukoderma",
+      "skin disorders",
+      "psoriasis patches",
+      "worm infestation",
+      "hair loss",
+      "white spots",
+      "wound healing",
+      "psoriasis",
+      "skin depigmentation",
+      "fungal skin infection",
+      "skin lesions"
+    ],
+    "medicinal_uses": "Golden standard Ayurvedic herb for repigmentation in vitiligo. Psoralen stimulates melanocytes upon exposure to gentle morning sunlight.",
+    "dosage_and_formulation": "Bakuchi Taila (external application), Somraji Taila, Bakuchi Churna. Prescribed Dosage: 1-3 gm.",
+    "precautions": "May cause photosensitivity and blisters if overexposed to strong midday sun.",
+    "body_systems": [
+      "Digestive System",
+      "Integumentary",
+      "Integumentary (Skin)"
+    ]
+  },
+  "16_Abutilon_indicum": {
+    "id": 16,
+    "class_name": "16_Abutilon_indicum",
+    "botanical_name": "Abutilon indicum",
+    "sanskrit_name": "Atibala",
+    "common_name_en": "Country Mallow (Indian Abutilon)",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Country Mallow (Indian Abutilon)",
+      "sanskrit": "Atibala",
+      "hindi": "Kanghi, Atibala",
+      "regional": "Tutturabhenda (Telugu), Thuthi (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Asparagine",
+      "Gallic acid",
+      "Alantoic acid",
+      "Mucilage",
+      "Flavonoids"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous, Slimy",
+      "rasa": "Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata and Pitta"
+    },
+    "therapeutic_indications": [
+      "Vata disorders",
+      "Rejuvenative",
+      "Diuretic",
+      "Aphrodisiac",
+      "Leukorrhea"
+    ],
+    "symptoms": [
+      "diuretic",
+      "vata disorders",
+      "weakness",
+      "aphrodisiac",
+      "cystitis",
+      "burning urination",
+      "leukorrhea",
+      "dysuria",
+      "bleeding hemorrhoids",
+      "muscle wasting",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Demulcent, laxative, diuretic, and nervine tonic. Leaf decoction or seed paste is exceptionally effective for painful and bleeding piles.",
+    "dosage_and_formulation": "Atibaladi Churna, Dhatryadi Ghrita, Thuthi Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Generally very safe and well tolerated.",
+    "body_systems": [
+      "Digestive System (Anorectal)",
+      "Endocrine / Metabolism",
+      "Musculoskeletal",
+      "Urinary / Kidney",
+      "Urinary System"
+    ]
+  },
+  "17_Sida_cordifolia": {
+    "id": 17,
+    "class_name": "17_Sida_cordifolia",
+    "botanical_name": "Sida cordifolia",
+    "sanskrit_name": "Bala",
+    "common_name_en": "Country Mallow",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Country Mallow",
+      "sanskrit": "Bala",
+      "hindi": "Bariyara, Kharenti, Bala",
+      "regional": "Chirubenda (Telugu), Kurunthotti (Malayalam)"
+    },
+    "parts_used": [
+      "Root",
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Ephedrine",
+      "Steroid",
+      "Mucin",
+      "Pseudoephedrine",
+      "Vasicine",
+      "Hypaphorine",
+      "Phytosterols"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous, Slimy",
+      "rasa": "Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Balances Vata, Pitta, and Kapha"
+    },
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Diuretic",
+      "Aphrodisiac",
+      "Tuberculosis",
+      "Asthma"
+    ],
+    "symptoms": [
+      "tuberculosis",
+      "diuretic",
+      "sciatica pain",
+      "aphrodisiac",
+      "paralysis",
+      "nerve weakness",
+      "sexual weakness",
+      "muscle atrophy",
+      "joint stiffness",
+      "asthma",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Prime Vata-pacifying rasayana. Strengthens muscular and nervous tissues. Extensively used in medicated oils for abhyanga in paralytic disorders.",
+    "dosage_and_formulation": "Balarishta, Ksheerabala Taila (101 Avartana), Baladi Kwatha. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Contains trace natural ephedrine; avoid massive oral overdoses in uncontrolled severe hypertension.",
+    "body_systems": [
+      "Cardiovascular",
+      "Endocrine / Metabolism",
+      "Musculoskeletal",
+      "Nervous System",
+      "Respiratory System",
+      "Urinary / Kidney"
+    ]
+  },
+  "19_Clerodendrum_serratum": {
+    "id": 19,
+    "class_name": "19_Clerodendrum_serratum",
+    "botanical_name": "Clerodendrum serratum",
+    "sanskrit_name": "Bharangi",
+    "common_name_en": "Blue Glory",
+    "family": "Verbenaceae",
+    "habit": "Shrub (8ft)",
+    "common_names": {
+      "english": "Blue Glory",
+      "sanskrit": "Bharangi",
+      "hindi": "Bharangi",
+      "regional": "Gantubarangi (Telugu), Sirutekku (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Saponin/Antihistamine",
+      "Serratagenic acid",
+      "Cleroflavone",
+      "Stigmasterol",
+      "Saponins"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Abdominal tumors",
+      "Blood disorders",
+      "Edema",
+      "Cough",
+      "Asthma",
+      "Fever"
+    ],
+    "symptoms": [
+      "cough",
+      "fever",
+      "shortness of breath",
+      "allergic sneezing",
+      "abdominal tumors",
+      "asthma attack",
+      "mucus cough",
+      "blood disorders",
+      "wheezing",
+      "sinus congestion",
+      "asthma",
+      "edema"
+    ],
+    "medicinal_uses": "First-line Ayurvedic bronchodilator and mucolytic. Relieves bronchospasms, expels viscid phlegm, and prevents seasonal asthma flares.",
+    "dosage_and_formulation": "Bharangi Guda, Kanakasava, Bharangyadi Kashaya. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe; use caution in hyperacidity due to Ushna virya.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Respiratory System"
+    ]
+  },
+  "1_Aquilaria_agallocha": {
+    "id": 1,
+    "class_name": "1_Aquilaria_agallocha",
+    "botanical_name": "Aquilaria agallocha",
+    "sanskrit_name": "Agaru",
+    "common_name_en": "Aloe Wood / Eagle Wood",
+    "family": "Thymelaeaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Aloe Wood / Eagle Wood",
+      "sanskrit": "Agaru",
+      "hindi": "Agar",
+      "regional": "Agil (Tamil), Krishna Agaru (Telugu)"
+    },
+    "parts_used": [
+      "Resin",
+      "Heartwood"
+    ],
+    "active_phytochemicals": [
+      "Sesquiterpenes",
+      "Agarospirol",
+      "Jinkoh-eremol",
+      "Sesquiterpenoids",
+      "Chromone derivatives"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Ear/Eye disorders",
+      "Rheumatoid arthritis",
+      "Asthma",
+      "Aphrodisiac"
+    ],
+    "symptoms": [
+      "anxiety",
+      "ear/eye disorders",
+      "aphrodisiac",
+      "skin diseases",
+      "rheumatic pain",
+      "chest heaviness",
+      "rheumatoid arthritis",
+      "chills",
+      "dry cough",
+      "foul breath",
+      "asthma"
+    ],
+    "medicinal_uses": "Aromatic nervine stimulant and cardioprotective. Heartwood paste is applied for relieving cold numbness and rheumatoid arthralgia.",
+    "dosage_and_formulation": "Agarvadi Taila, Chandanadi Vati, Agaru Churna (1-3 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Rare and protected tree; ensure authentic sustainable source.",
+    "body_systems": [
+      "Circulatory System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal",
+      "Nervous System",
+      "Respiratory System"
+    ]
+  },
+  "20_Pterocarpus_marsupium": {
+    "id": 20,
+    "class_name": "20_Pterocarpus_marsupium",
+    "botanical_name": "Pterocarpus marsupium",
+    "sanskrit_name": "Bijaka",
+    "common_name_en": "Indian Kino Tree",
+    "family": "Fabaceae (Papilionatae)",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Indian Kino Tree",
+      "sanskrit": "Bijaka",
+      "hindi": "Vijaysar, Bijasar",
+      "regional": "Yegi (Telugu), Vengai (Tamil)"
+    },
+    "parts_used": [
+      "Heartwood",
+      "Exudate"
+    ],
+    "active_phytochemicals": [
+      "Kinotannic Acid",
+      "Pterostilbene",
+      "Epicatechin",
+      "Marsupsin",
+      "Liquiritigenin",
+      "Pterosupin"
+    ],
+    "dosage": "50-100 ml (Decoction)",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Balances Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Erysipelas",
+      "Diabetes",
+      "Leukoderma",
+      "Bleeding disorders",
+      "Diarrhea"
+    ],
+    "symptoms": [
+      "diabetes",
+      "leukoderma",
+      "skin rashes",
+      "frequent urination",
+      "excessive thirst",
+      "skin diseases",
+      "obesity",
+      "diarrhea",
+      "erysipelas",
+      "bleeding disorders",
+      "high blood sugar",
+      "high cholesterol"
+    ],
+    "medicinal_uses": "Legendary anti-diabetic botanical. Pterostilbene and epicatechin promote beta-cell regeneration and insulin sensitivity. Drinking water kept in Vijaysar wood cups is a classical remedy.",
+    "dosage_and_formulation": "Asanadi Kashaya, Vijaysar Churna (3-6 g), Chandraprabha Vati. Prescribed Dosage: 50-100 ml (Decoction).",
+    "precautions": "Monitor blood glucose closely if combining with synthetic hypoglycemics to prevent hypoglycemia.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Digestive System",
+      "Endocrine (Metabolism)",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Urinary / Kidney"
+    ]
+  },
+  "21_Aegle_marmelos": {
+    "id": 21,
+    "class_name": "21_Aegle_marmelos",
+    "botanical_name": "Aegle marmelos",
+    "sanskrit_name": "Bilva",
+    "common_name_en": "Bael / Stone Apple",
+    "family": "Rutaceae",
+    "habit": "Tree (25ft)",
+    "common_names": {
+      "english": "Bael / Stone Apple",
+      "sanskrit": "Bilva",
+      "hindi": "Bel, Bilva",
+      "regional": "Maredu (Telugu), Vilvam (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Bark",
+      "Fruit",
+      "Leaf"
+    ],
+    "active_phytochemicals": [
+      "Mucilage",
+      "Pectin",
+      "Marmelosin",
+      "Imperatorin",
+      "Aegeline",
+      "Luvangetin",
+      "Tannins"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Absorbent (Unripe)",
+      "Digestive",
+      "Intestinal tonic",
+      "Balances Vata/Kapha"
+    ],
+    "symptoms": [
+      "loose motions",
+      "IBS",
+      "chronic diarrhea",
+      "gastric ulcers",
+      "indigestion",
+      "balances vata/kapha",
+      "digestive",
+      "mucus in stool",
+      "absorbent (unripe)",
+      "abdominal cramps",
+      "intestinal tonic"
+    ],
+    "medicinal_uses": "Unripe fruit is supreme for gastrointestinal disorders, curing chronic bacillary dysentery and consolidating bowel movements. Leaves lower blood sugar.",
+    "dosage_and_formulation": "Bilwadi Churna, Bilvasava, Bilva Taila, Pushyanuga Churna. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Overeating ripe fruit may cause constipation in dry Vata constitutions.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine"
+    ]
+  },
+  "22_Bacopa_monnieri": {
+    "id": 22,
+    "class_name": "22_Bacopa_monnieri",
+    "botanical_name": "Bacopa monnieri",
+    "sanskrit_name": "Brahmi",
+    "common_name_en": "Water Hyssop / Indian Pennywort",
+    "family": "Scrophulariaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Water Hyssop / Indian Pennywort",
+      "sanskrit": "Brahmi",
+      "hindi": "Brahmi, Jalnim",
+      "regional": "Neerbrahmi (Malayalam), Sambarenu (Telugu)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Brahmine",
+      "Bacosides A & B",
+      "Bacopasaponins",
+      "Betulinic acid",
+      "Monnierin"
+    ],
+    "dosage": "10-20 ml (Juice)",
+    "ayurvedic_properties": {
+      "guna": "Light",
+      "rasa": "Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata, Pitta, and Kapha"
+    },
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Rejuvenative",
+      "Voice enhancer",
+      "Memory",
+      "Leprosy",
+      "Anemia"
+    ],
+    "symptoms": [
+      "anxiety",
+      "leprosy",
+      "poor memory",
+      "tremors",
+      "lack of concentration",
+      "memory",
+      "voice enhancer",
+      "anemia",
+      "insomnia",
+      "intellect promoter",
+      "mental fatigue",
+      "stress",
+      "ADHD",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Foremost Medhya Rasayana (nootropic). Facilitates synaptic transmission, upregulates acetylcholine, and repairs damaged neurons.",
+    "dosage_and_formulation": "Brahmi Ghrita, Saraswatarishta, Brahmi Vati, Brahmi Taila. Prescribed Dosage: 10-20 ml (Juice).",
+    "precautions": "May cause mild nausea if taken on an empty stomach; best consumed with ghee or honey.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Mental Health",
+      "Nervous System",
+      "Nervous System (Brain)"
+    ]
+  },
+  "23_Solanum_indicum": {
+    "id": 23,
+    "class_name": "23_Solanum_indicum",
+    "botanical_name": "Solanum indicum",
+    "sanskrit_name": "Brihati",
+    "common_name_en": "Indian Nightshade",
+    "family": "Solanaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Indian Nightshade",
+      "sanskrit": "Brihati",
+      "hindi": "Badi Kateri, Brihati",
+      "regional": "Kallimullu (Telugu), Karimulli (Malayalam)"
+    },
+    "parts_used": [
+      "Root",
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Solanine",
+      "Solanidine",
+      "Solasonine",
+      "Solamargine",
+      "Solasodine",
+      "Diosgenin"
+    ],
+    "dosage": "40-80 ml",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Absorbent",
+      "Throat disorders",
+      "Digestive",
+      "Fever",
+      "Asthma",
+      "Cough"
+    ],
+    "symptoms": [
+      "chest congestion",
+      "cough",
+      "breathlessness",
+      "toothache",
+      "throat disorders",
+      "fever",
+      "digestive",
+      "productive cough",
+      "wheezing",
+      "asthma",
+      "absorbent"
+    ],
+    "medicinal_uses": "One of the essential Dashamoola roots. Powerful bronchodilator and mucolytic, pacifying aggravated Prana Vayu and clearing bronchial congestion.",
+    "dosage_and_formulation": "Dashamoolarishta, Brihatyadi Kashaya, Dashamoola Kwatha. Prescribed Dosage: 40-80 ml.",
+    "precautions": "Safe when used in classical formulations.",
+    "body_systems": [
+      "Cardiovascular",
+      "Digestive System",
+      "Respiratory System"
+    ]
+  },
+  "24_Santalum_album": {
+    "id": 24,
+    "class_name": "24_Santalum_album",
+    "botanical_name": "Santalum album",
+    "sanskrit_name": "Chandana",
+    "common_name_en": "Sandalwood",
+    "family": "Santalaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Sandalwood",
+      "sanskrit": "Chandana",
+      "hindi": "Chandan, Safed Chandan",
+      "regional": "Chandanam (Tamil/Telugu)"
+    },
+    "parts_used": [
+      "Heartwood"
+    ],
+    "active_phytochemicals": [
+      "Santalol",
+      "Alpha-santalol",
+      "Beta-santalol",
+      "Santene",
+      "Teresantalol"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Pleasing",
+      "Emaciation",
+      "Poison",
+      "Bleeding disorders",
+      "Burning sensation"
+    ],
+    "symptoms": [
+      "poison",
+      "emaciation",
+      "prickly heat",
+      "burning urination",
+      "hyper-pigmentation",
+      "pleasing",
+      "sunburn",
+      "burning sensation",
+      "acne",
+      "body heat",
+      "bleeding disorders",
+      "excessive sweating"
+    ],
+    "medicinal_uses": "Supreme Pitta-alleviating and cooling herb. Sandalwood paste clears blemishes and soothes inflammation. Sandalwood oil disinfects urinary passages.",
+    "dosage_and_formulation": "Chandanadi Vati, Chandanasava, Chandanadi Taila, Sandalwood paste. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Do not consume synthetic perfume adulterants internally.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Urinary System"
+    ]
+  },
+  "25_Pterocarpus_santalinus": {
+    "id": 25,
+    "class_name": "25_Pterocarpus_santalinus",
+    "botanical_name": "Pterocarpus santalinus",
+    "sanskrit_name": "Rakta Chandana",
+    "common_name_en": "Red Sanders",
+    "family": "Fabaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Red Sanders",
+      "sanskrit": "Rakta Chandana",
+      "hindi": "Lal Chandan, Raktachandan",
+      "regional": "Erra Chandanam (Telugu)"
+    },
+    "parts_used": [
+      "Heartwood"
+    ],
+    "active_phytochemicals": [
+      "Pterocarpin",
+      "Santalin",
+      "Santalin A & B",
+      "Pterocarpol",
+      "Isoflavonoids",
+      "Savinin"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Dry",
+      "rasa": "Bitter, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Thirst",
+      "Eye diseases",
+      "Aphrodisiac",
+      "Ulcers",
+      "Vomiting",
+      "Fever"
+    ],
+    "symptoms": [
+      "eye diseases",
+      "skin erythema",
+      "burning eyes",
+      "aphrodisiac",
+      "fever with thirst",
+      "fever",
+      "dark spots",
+      "melasma",
+      "thirst",
+      "ulcers",
+      "bleeding gums",
+      "vomiting"
+    ],
+    "medicinal_uses": "Endemic to Eastern Ghats. Highly prized topical application for melasma, acne marks, glowing complexion, and arresting mucosal hemorrhage.",
+    "dosage_and_formulation": "Kumkumadi Taila, Raktachandanadi Churna, Chandanadi Vati. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Non-toxic; safe for topical and therapeutic oral use.",
+    "body_systems": [
+      "Circulatory System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Integumentary (Skin)"
+    ]
+  },
+  "26_Plumbago_zeylanica": {
+    "id": 26,
+    "class_name": "26_Plumbago_zeylanica",
+    "botanical_name": "Plumbago zeylanica",
+    "sanskrit_name": "Chitraka",
+    "common_name_en": "Leadwort",
+    "family": "Plumbaginaceae",
+    "habit": "Shrub (4ft)",
+    "common_names": {
+      "english": "Leadwort",
+      "sanskrit": "Chitraka",
+      "hindi": "Chitrak, Chita",
+      "regional": "Chitramulam (Telugu), Kodiveli (Tamil)"
+    },
+    "parts_used": [
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "Plumbagin",
+      "Zeylinone",
+      "Isozeylinone",
+      "Plumbagic acid"
+    ],
+    "dosage": "1-2 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Absorbent",
+      "IBS",
+      "Low digestion",
+      "Skin diseases",
+      "Edema",
+      "Piles",
+      "Worms"
+    ],
+    "symptoms": [
+      "ibs",
+      "worms",
+      "weight gain",
+      "indigestion",
+      "skin diseases",
+      "absorbent",
+      "low digestion",
+      "bloating",
+      "loss of appetite",
+      "sluggish metabolism",
+      "joint stiffness",
+      "piles",
+      "edema"
+    ],
+    "medicinal_uses": "Foremost Ayurvedic Deepana-Pachana (digestive stimulant). Ignites Jatharagni, dissolves Ama (endotoxins), and shrinks non-bleeding hemorrhoids.",
+    "dosage_and_formulation": "Chitrakadi Vati, Chitraka Haritaki, Pippalyasava (0.5 to 1 g). Prescribed Dosage: 1-2 gm.",
+    "precautions": "Avoid during pregnancy (abortifacient potential). Contraindicated in active gastric ulcers.",
+    "body_systems": [
+      "Digestive System",
+      "Integumentary",
+      "Metabolism"
+    ]
+  },
+  "27_Punica_granatum": {
+    "id": 27,
+    "class_name": "27_Punica_granatum",
+    "botanical_name": "Punica granatum",
+    "sanskrit_name": "Dadima",
+    "common_name_en": "Pomegranate",
+    "family": "Punicaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Pomegranate",
+      "sanskrit": "Dadima",
+      "hindi": "Anar, Dadim",
+      "regional": "Danimma (Telugu), Madulai (Tamil)"
+    },
+    "parts_used": [
+      "Fruit",
+      "Rind",
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "Pelletierine",
+      "Punicalagin",
+      "Ellagic acid",
+      "Punicic acid",
+      "Anthocyanins",
+      "Tannins"
+    ],
+    "dosage": "20-50 ml",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Sweet, Astringent, Sour",
+      "virya": "Warm (Anushna)",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshic (Balances Vata, Pitta, and Kapha)"
+    },
+    "therapeutic_indications": [
+      "Nourishing",
+      "Spermogenic",
+      "Absorbent",
+      "Heart tonic",
+      "Throat disorders",
+      "Tapeworm"
+    ],
+    "symptoms": [
+      "nourishing",
+      "loose motions",
+      "heart tonic",
+      "tapeworm",
+      "heart weakness",
+      "throat disorders",
+      "indigestion",
+      "spermogenic",
+      "anemia",
+      "hyperacidity",
+      "pale skin",
+      "mouth ulcers",
+      "absorbent"
+    ],
+    "medicinal_uses": "Fruit rind is a potent astringent stopping bleeding and diarrhea. Seeds build hemoglobin and nourish Rasa and Rakta dhatus.",
+    "dosage_and_formulation": "Dadimashtaka Churna, Dadimadi Ghrita, Dadimavaleha. Prescribed Dosage: 20-50 ml.",
+    "precautions": "High rind doses may cause mild nausea due to heavy tannin concentration.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Digestive System"
+    ]
+  },
+  "28_Cedrus_deodara": {
+    "id": 28,
+    "class_name": "28_Cedrus_deodara",
+    "botanical_name": "Cedrus deodara",
+    "sanskrit_name": "Devadaru",
+    "common_name_en": "Deodar Cedar",
+    "family": "Pinaceae",
+    "habit": "Tree (Large)",
+    "common_names": {
+      "english": "Deodar Cedar",
+      "sanskrit": "Devadaru",
+      "hindi": "Devdar, Deodar",
+      "regional": "Devadari (Telugu), Thevatharam (Tamil)"
+    },
+    "parts_used": [
+      "Heartwood",
+      "Oil"
+    ],
+    "active_phytochemicals": [
+      "Sesquiterpene",
+      "Himalachenol",
+      "Alpha-cedrene",
+      "Beta-cedrene",
+      "Taxifolin",
+      "Atlantone"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Constipation",
+      "Bloating",
+      "Edema",
+      "Fever",
+      "Diabetes",
+      "Cough",
+      "Itching"
+    ],
+    "symptoms": [
+      "cough",
+      "sciatica",
+      "diabetes",
+      "knee pain",
+      "constipation",
+      "itching",
+      "fever",
+      "skin fungus",
+      "bloating",
+      "paralysis pain",
+      "sinus headache",
+      "joint stiffness",
+      "edema"
+    ],
+    "medicinal_uses": "Regal Himalayan tree known as the 'Timber of the Gods'. Heartwood decoction and oil relieve severe chronic rheumatic pain and respiratory phlegm.",
+    "dosage_and_formulation": "Devadarvarishta, Mahavishagarbha Taila, Devadaryadi Kashaya. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe in therapeutic dosages.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal",
+      "Respiratory System",
+      "Urinary / Kidney"
+    ]
+  },
+  "29_Woodfordia_fruticosa": {
+    "id": 29,
+    "class_name": "29_Woodfordia_fruticosa",
+    "botanical_name": "Woodfordia fruticosa",
+    "sanskrit_name": "Dhataki",
+    "common_name_en": "Fire Flame Bush",
+    "family": "Lythraceae",
+    "habit": "Shrub (10ft)",
+    "common_names": {
+      "english": "Fire Flame Bush",
+      "sanskrit": "Dhataki",
+      "hindi": "Dhaiphool, Dhataki",
+      "regional": "Jagi (Telugu), Dhataki (Malayalam)"
+    },
+    "parts_used": [
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Lawsone",
+      "Tannin",
+      "Woodfordin C",
+      "Oenothein B",
+      "Ellagic acid",
+      "Tannins"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Thirst",
+      "Worms",
+      "Diarrhea",
+      "Leukorrhea",
+      "Fermentation agent"
+    ],
+    "symptoms": [
+      "skin burns",
+      "worms",
+      "excessive menstrual bleeding",
+      "leukorrhea",
+      "ulcerative colitis",
+      "diarrhea",
+      "thirst",
+      "bleeding hemorrhoids",
+      "fermentation agent"
+    ],
+    "medicinal_uses": "Flowers are the indispensable natural fermenting agent in all Ayurvedic Asava and Arishta preparations. Astringent stops hemorrhages and ulcers.",
+    "dosage_and_formulation": "Essential ingredient in Ashokarishta, Draksharishta, Dhatakyadi Taila. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Constipating in large unformulated doses.",
+    "body_systems": [
+      "Digestive System",
+      "Reproductive System"
+    ]
+  },
+  "2_Clerodendrum_phlomidis": {
+    "id": 2,
+    "class_name": "2_Clerodendrum_phlomidis",
+    "botanical_name": "Clerodendrum phlomidis",
+    "sanskrit_name": "Agnimantha",
+    "common_name_en": "Wind Killer",
+    "family": "Verbenaceae",
+    "habit": "Tree (25ft)",
+    "common_names": {
+      "english": "Wind Killer",
+      "sanskrit": "Agnimantha",
+      "hindi": "Arni, Agnimantha",
+      "regional": "Nelli (Telugu), Thazhuthoothu (Tamil)"
+    },
+    "parts_used": [
+      "Leaf",
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "-",
+      "Pectolinaringenin",
+      "Clerodendrin",
+      "Scutellarein",
+      "Phlomiphin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry, Light",
+      "rasa": "Bitter, Pungent, Astringent, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Low digestion",
+      "Edema/Swelling",
+      "Anemia",
+      "Rejuvenative",
+      "Diabetes"
+    ],
+    "symptoms": [
+      "edema/swelling",
+      "diabetes",
+      "body swelling",
+      "anemia",
+      "low digestion",
+      "obesity",
+      "sluggish metabolism",
+      "joint stiffness",
+      "water retention",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "One of the Great Five roots (Brihat Panchamoola) of Dashamoola. Reignites cellular digestive fire, combats fluid retention, and assists fat reduction.",
+    "dosage_and_formulation": "Dashamoolarishta, Agnimanthadi Kwatha, Chyawanprash. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Endocrine",
+      "Endocrine / Metabolism",
+      "Metabolic",
+      "Musculoskeletal",
+      "Urinary / Kidney"
+    ]
+  },
+  "30_Cynodon_dactylon": {
+    "id": 30,
+    "class_name": "30_Cynodon_dactylon",
+    "botanical_name": "Cynodon dactylon",
+    "sanskrit_name": "Durva",
+    "common_name_en": "Bermuda Grass",
+    "family": "Gramineae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Bermuda Grass",
+      "sanskrit": "Durva",
+      "hindi": "Doob, Durva",
+      "regional": "Garika (Telugu), Arugampul (Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Protein",
+      "Beta-sitosterol",
+      "Cynodin",
+      "Flavonoids",
+      "Triterpenoids",
+      "Vitamin C"
+    ],
+    "dosage": "10-20 ml",
+    "ayurvedic_properties": {
+      "guna": "Light",
+      "rasa": "Astringent, Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Burning sensation",
+      "Bleeding disorders",
+      "Skin diseases",
+      "Kidney stones"
+    ],
+    "symptoms": [
+      "kidney stones",
+      "threatened abortion",
+      "heat rash",
+      "skin diseases",
+      "burning urination",
+      "bleeding piles",
+      "burning sensation",
+      "bleeding disorders",
+      "nosebleed",
+      "hyperacidity"
+    ],
+    "medicinal_uses": "Holy grass with remarkable hemostatic, cooling, and embryoprotective properties. Fresh juice instillation stops active epistaxis immediately.",
+    "dosage_and_formulation": "Durvadi Ghrita, Durvadi Taila, fresh Durva juice (10-20 ml).",
+    "precautions": "Wash thoroughly to eliminate dirt before juicing.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Integumentary",
+      "Urinary / Kidney",
+      "Urinary System"
+    ]
+  },
+  "31_Elettaria_cardamomum": {
+    "id": 31,
+    "class_name": "31_Elettaria_cardamomum",
+    "botanical_name": "Elettaria cardamomum",
+    "sanskrit_name": "Ela (Sukshma)",
+    "common_name_en": "Cardamom (Lesser)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Cardamom (Lesser)",
+      "sanskrit": "Ela (Sukshma)",
+      "hindi": "Chhoti Elaichi",
+      "regional": "Elakulu (Telugu), Elakkai (Tamil)"
+    },
+    "parts_used": [
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Potassium",
+      "Manganese",
+      "1,8-Cineole",
+      "Alpha-terpinyl acetate",
+      "Limonene",
+      "Linalool",
+      "Sabinene"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshic (Balances Vata, Pitta, and Kapha)"
+    },
+    "therapeutic_indications": [
+      "Cough",
+      "Asthma",
+      "Piles",
+      "Dysuria",
+      "Bad breath"
+    ],
+    "symptoms": [
+      "nausea",
+      "cough",
+      "bad breath",
+      "acid indigestion",
+      "burning urination",
+      "bloating",
+      "dysuria",
+      "piles",
+      "asthma",
+      "vomiting"
+    ],
+    "medicinal_uses": "Carminative, stomachic, and aromatic refreshing spice. Clears palate, eliminates foul oral odors, neutralizes digestive spasms, and soothes urinary tracts.",
+    "dosage_and_formulation": "Eladi Vati, Eladi Churna, Draksharishta (0.5 to 1 g powder). Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Safe in culinary and therapeutic usage.",
+    "body_systems": [
+      "Digestive System",
+      "Respiratory System",
+      "Urinary / Kidney",
+      "Urinary System"
+    ]
+  },
+  "32_Amomum_subulatum": {
+    "id": 32,
+    "class_name": "32_Amomum_subulatum",
+    "botanical_name": "Amomum subulatum",
+    "sanskrit_name": "Ela (Brihat)",
+    "common_name_en": "Black Cardamom",
+    "family": "Zingiberaceae",
+    "habit": "Shrub (3ft)",
+    "common_names": {
+      "english": "Black Cardamom",
+      "sanskrit": "Ela (Brihat)",
+      "hindi": "Badi Elaichi",
+      "regional": "Pedda Elakulu (Telugu), Perelakkai (Tamil)"
+    },
+    "parts_used": [
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Cineole",
+      "1,8-Cineole",
+      "Alpha-terpineol",
+      "Bisabolene",
+      "Cardamonin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Cough",
+      "Vomiting",
+      "Thirst",
+      "Poison",
+      "Blood disorders"
+    ],
+    "symptoms": [
+      "sluggish digestion",
+      "cough",
+      "poison",
+      "hiccups",
+      "anorexia",
+      "abdominal distension",
+      "digestive",
+      "blood disorders",
+      "chest phlegm",
+      "thirst",
+      "gas",
+      "vomiting"
+    ],
+    "medicinal_uses": "Warming spice that dissolves respiratory Kapha, prevents gas accumulation, stimulates gastric juices, and stops stubborn hiccups.",
+    "dosage_and_formulation": "Eladi Churna, Sitopaladi formulation modifications (1-2 g seed powder). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Caution in bleeding disorders and active peptic ulcers due to heating potency.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Respiratory System"
+    ]
+  },
+  "33_Ricinus_communis": {
+    "id": 33,
+    "class_name": "33_Ricinus_communis",
+    "botanical_name": "Ricinus communis",
+    "sanskrit_name": "Eranda",
+    "common_name_en": "Castor",
+    "family": "Euphorbiaceae",
+    "habit": "Tree/Shrub",
+    "common_names": {
+      "english": "Castor",
+      "sanskrit": "Eranda",
+      "hindi": "Arandi, Erand",
+      "regional": "Aamudamu (Telugu), Amanakku (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Ricin",
+      "Ricinoleic acid",
+      "Ricin (toxic protein removed in cold-pressed oil)",
+      "Ricinatine",
+      "Flavonoids"
+    ],
+    "dosage": "20 gm (Oil)",
+    "ayurvedic_properties": {
+      "guna": "Unctuous, Sharp, Minute",
+      "rasa": "Sweet, Pungent, Astringent",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Param Vatahara (Supreme Vata reliever)"
+    },
+    "therapeutic_indications": [
+      "Vata disorders",
+      "Worms",
+      "Dysuria",
+      "Piles",
+      "Abdominal colic",
+      "Rheumatism"
+    ],
+    "symptoms": [
+      "abdominal colic",
+      "worms",
+      "sciatica",
+      "chronic constipation",
+      "vata disorders",
+      "dry skin",
+      "backache",
+      "severe joint pain",
+      "rheumatism",
+      "dysuria",
+      "piles"
+    ],
+    "medicinal_uses": "The supreme remedy for vitiated Vata and Amavata. Castor oil acts as an effective purgative that clears deep systemic toxins from the colon and joints.",
+    "dosage_and_formulation": "Eranda Paka, Gandharvahasthadi Kashaya, Castor oil (10-20 ml with warm milk). Prescribed Dosage: 20 gm (Oil).",
+    "precautions": "Raw castor beans contain lethal Ricin; NEVER consume raw seeds. Pure extracted oil is safe.",
+    "body_systems": [
+      "Digestive System",
+      "Musculoskeletal",
+      "Nervous System",
+      "Urinary / Kidney"
+    ]
+  },
+  "34_Gmelina_arborea": {
+    "id": 34,
+    "class_name": "34_Gmelina_arborea",
+    "botanical_name": "Gmelina arborea",
+    "sanskrit_name": "Gambhari",
+    "common_name_en": "Beechwood",
+    "family": "Verbenaceae",
+    "habit": "Tree (60ft)",
+    "common_names": {
+      "english": "Beechwood",
+      "sanskrit": "Gambhari",
+      "hindi": "Gambhari, Gamhar",
+      "regional": "Gummadi (Telugu), Kumizhi (Tamil)"
+    },
+    "parts_used": [
+      "Root Bark",
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Resin",
+      "Luteolin",
+      "Arboreol",
+      "Gmelinol",
+      "Beta-sitosterol",
+      "Flavones"
+    ],
+    "dosage": "50-100 ml",
+    "ayurvedic_properties": {
+      "guna": "Heavy",
+      "rasa": "Bitter, Astringent, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Intellect promoter",
+      "Thirst",
+      "Colic",
+      "Fever",
+      "Hair tonic (Fruit)"
+    ],
+    "symptoms": [
+      "headache",
+      "colic",
+      "fever",
+      "hair tonic (fruit)",
+      "digestive",
+      "debility after delivery",
+      "intellect promoter",
+      "burning sensations",
+      "hair thinning",
+      "thirst"
+    ],
+    "medicinal_uses": "Crucial Dashamoola constituent. Rejuvenating Rasayana that stimulates lactation in nursing mothers, promotes tissue repair, and alleviates febrile thirst.",
+    "dosage_and_formulation": "Dashamoolarishta, Brihat Panchamoola Kwatha, Gambhari Phala decoction. Prescribed Dosage: 50-100 ml.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Digestive System",
+      "General Vitality",
+      "Musculoskeletal",
+      "Nervous System",
+      "Reproductive (Lactation)"
+    ]
+  },
+  "35_Tribulus_terrestris": {
+    "id": 35,
+    "class_name": "35_Tribulus_terrestris",
+    "botanical_name": "Tribulus terrestris",
+    "sanskrit_name": "Gokshura",
+    "common_name_en": "Puncture Vine",
+    "family": "Zygophyllaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Puncture Vine",
+      "sanskrit": "Gokshura",
+      "hindi": "Gokhru, Gokshura",
+      "regional": "Palleru (Telugu), Nerunjil (Tamil)"
+    },
+    "parts_used": [
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Harman",
+      "Nitrates",
+      "Protodioscin",
+      "Tribulosin",
+      "Diosgenin",
+      "Astragalin",
+      "Terrestrosides"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata and Pitta"
+    },
+    "therapeutic_indications": [
+      "Bladder purification",
+      "Aphrodisiac",
+      "Kidney stones",
+      "Diabetes",
+      "Asthma"
+    ],
+    "symptoms": [
+      "diabetes",
+      "kidney stones",
+      "painful urination",
+      "aphrodisiac",
+      "bladder purification",
+      "low libido",
+      "kidney stone pain",
+      "fluid retention",
+      "urinary hesitancy",
+      "back pain",
+      "blood in urine",
+      "asthma"
+    ],
+    "medicinal_uses": "Foremost Ayurvedic nephroprotective and reproductive aphrodisiac (Vrishya). Dissolves oxalate urinary calculi and naturally revitalizes testosterone synthesis.",
+    "dosage_and_formulation": "Gokshuradi Guggulu, Gokshura Churna (3-6 g), Chandraprabha Vati. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Safe for long-term clinical use.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Reproductive System",
+      "Respiratory System",
+      "Urinary / Kidney",
+      "Urinary System (Kidneys)"
+    ]
+  },
+  "36_Tinospora_cordifolia": {
+    "id": 36,
+    "class_name": "36_Tinospora_cordifolia",
+    "botanical_name": "Tinospora cordifolia",
+    "sanskrit_name": "Guduchi",
+    "common_name_en": "Giloy / Heart-leaved Moonseed",
+    "family": "Menispermaceae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Giloy / Heart-leaved Moonseed",
+      "sanskrit": "Guduchi",
+      "hindi": "Giloy, Guduchi, Amrita",
+      "regional": "Tippateega (Telugu), Seenthil Kodi (Tamil)"
+    },
+    "parts_used": [
+      "Stem"
+    ],
+    "active_phytochemicals": [
+      "Giloin",
+      "Berberine",
+      "Tinosporide",
+      "Cordifolioside A",
+      "Tinocordiside"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Balances Vata, Pitta, and Kapha)"
+    },
+    "therapeutic_indications": [
+      "Fracture healing",
+      "Aphrodisiac",
+      "Voice enhancer",
+      "Rejuvenative",
+      "Rheumatism"
+    ],
+    "symptoms": [
+      "frequent infections",
+      "low platelets",
+      "allergic reactions",
+      "joint inflammation with uric acid",
+      "aphrodisiac",
+      "voice enhancer",
+      "fever",
+      "sluggish liver",
+      "rheumatism",
+      "fracture healing",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Named 'Amrita' (Divine Nectar of Immortality). Supreme immunomodulator, blood purifier, antipyretic, and hepatoprotective botanical.",
+    "dosage_and_formulation": "Guduchi Satva, Amritarishta, Kaishore Guggulu, Giloy Kwatha (15-30 ml). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Extremely safe; monitor blood sugar if taken alongside anti-diabetic medications.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Hepatic (Liver)",
+      "Immune System",
+      "Musculoskeletal"
+    ]
+  },
+  "37_Commiphora_mukul": {
+    "id": 37,
+    "class_name": "37_Commiphora_mukul",
+    "botanical_name": "Commiphora mukul",
+    "sanskrit_name": "Guggulu",
+    "common_name_en": "Indian Bdellium",
+    "family": "Burseraceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Indian Bdellium",
+      "sanskrit": "Guggulu",
+      "hindi": "Guggul, Guggulu",
+      "regional": "Guggilu (Telugu), Gukkulu (Tamil)"
+    },
+    "parts_used": [
+      "Resin (Exudate)"
+    ],
+    "active_phytochemicals": [
+      "Gum",
+      "Volatile Oil",
+      "Guggulsterones E and Z",
+      "Mukulol",
+      "Myrcene",
+      "Guggulsterols"
+    ],
+    "dosage": "2-4 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp, Minute, Flowing",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata, Pitta, and Kapha"
+    },
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Rejuvenative",
+      "Diabetes",
+      "Obesity",
+      "Fistula",
+      "Rheumatism"
+    ],
+    "symptoms": [
+      "joint swelling",
+      "diabetes",
+      "weight gain",
+      "fistula",
+      "obesity",
+      "tridosha balance",
+      "thyroid sluggishness",
+      "arterial clogging",
+      "acne",
+      "rheumatism",
+      "high cholesterol",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Cornerstone Ayurvedic resin. Guggulsterones actively block the farnesoid X receptor (FXR) to accelerate cholesterol clearance, melt adipose tissue, and reduce osteoarticular pain.",
+    "dosage_and_formulation": "Yograj Guggulu, Medohar Guggulu, Kaishore Guggulu, Triphala Guggulu (500-1000 mg). Prescribed Dosage: 2-4 gm.",
+    "precautions": "Always use purified Guggulu. Contraindicated in liver failure, pregnancy, and active skin rashes.",
+    "body_systems": [
+      "Circulatory System",
+      "Endocrine / Metabolism",
+      "Metabolism",
+      "Musculoskeletal",
+      "Urinary / Kidney"
+    ]
+  },
+  "38_Curcuma_longa": {
+    "id": 38,
+    "class_name": "38_Curcuma_longa",
+    "botanical_name": "Curcuma longa",
+    "sanskrit_name": "Haridra",
+    "common_name_en": "Turmeric",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Turmeric",
+      "sanskrit": "Haridra",
+      "hindi": "Haldi",
+      "regional": "Pasupu (Telugu), Manjal (Tamil)"
+    },
+    "parts_used": [
+      "Rhizome"
+    ],
+    "active_phytochemicals": [
+      "Curcumin",
+      "Vitamin A",
+      "Demethoxycurcumin",
+      "Bisdemethoxycurcumin",
+      "Turmerone",
+      "Zingiberene"
+    ],
+    "dosage": "3 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry, Light",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara (Balances all three doshas, especially Kapha and Pitta)"
+    },
+    "therapeutic_indications": [
+      "Complexion enhancer",
+      "Skin diseases",
+      "Diabetes",
+      "Blood disorders",
+      "Edema",
+      "Anemia"
+    ],
+    "symptoms": [
+      "diabetes",
+      "allergies",
+      "skin diseases",
+      "wounds",
+      "anemia",
+      "cough and throat irritation",
+      "complexion enhancer",
+      "blood disorders",
+      "acne",
+      "swelling",
+      "high blood sugar",
+      "joint inflammation",
+      "edema"
+    ],
+    "medicinal_uses": "World-famous golden healing spice. Potent inhibitor of NF-kB, COX-2, and TNF-alpha inflammatory cascades. Topical antiseptic and systemic detoxifier.",
+    "dosage_and_formulation": "Haridra Khanda, Haridradi Taila, Golden Milk (1-3 g with black pepper and ghee). Prescribed Dosage: 3 gm.",
+    "precautions": "Caution with therapeutic megadoses if gallstones are blocking bile ducts.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Immune System",
+      "Integumentary",
+      "Musculoskeletal",
+      "Urinary / Kidney"
+    ]
+  },
+  "39_Berberis_aristata": {
+    "id": 39,
+    "class_name": "39_Berberis_aristata",
+    "botanical_name": "Berberis aristata",
+    "sanskrit_name": "Daruharidra",
+    "common_name_en": "Indian Barberry",
+    "family": "Berberidaceae",
+    "habit": "Shrub (6-18ft)",
+    "common_names": {
+      "english": "Indian Barberry",
+      "sanskrit": "Daruharidra",
+      "hindi": "Daruhaldi, Daruharidra",
+      "regional": "Kasturipasupu (Telugu), Maramanjal (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Stem",
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Berberine",
+      "Berbamine",
+      "Karachine",
+      "Palmatine",
+      "Jatrorrhizine"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Eye/Ear diseases",
+      "Digestive",
+      "Cervical lymphadenitis",
+      "Jaundice"
+    ],
+    "symptoms": [
+      "jaundice",
+      "burning eyes",
+      "eye redness",
+      "eye/ear diseases",
+      "vaginal discharge",
+      "digestive",
+      "cervical lymphadenitis",
+      "high blood sugar",
+      "infectious diarrhea"
+    ],
+    "medicinal_uses": "High berberine concentration renders it an exceptional metabolic regulator, antimicrobial agent, and ophthalmic remedy. Rasanjana eye wash soothes acute conjunctivitis.",
+    "dosage_and_formulation": "Darvyadi Kwatha, Rasanjana, Khadiradi Vati (1-3 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Avoid during pregnancy due to uterine stimulating potential.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine",
+      "Hepatic",
+      "Ophthalmic (Eyes)"
+    ]
+  },
+  "40_Terminalia_chebula": {
+    "id": 40,
+    "class_name": "40_Terminalia_chebula",
+    "botanical_name": "Terminalia chebula",
+    "sanskrit_name": "Haritaki",
+    "common_name_en": "Chebulic Myrobalan",
+    "family": "Combretaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Chebulic Myrobalan",
+      "sanskrit": "Haritaki",
+      "hindi": "Harad, Haritaki",
+      "regional": "Karakkaya (Telugu), Kadukkai (Tamil)"
+    },
+    "parts_used": [
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Chebulic Acid",
+      "Chebulic acid",
+      "Chebulagic acid",
+      "Corilagin",
+      "Ellagic acid",
+      "Gallic acid"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Sweet, Sour, Pungent, Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Laxative",
+      "Rejuvenative",
+      "Anemia",
+      "Eye diseases"
+    ],
+    "symptoms": [
+      "hemorrhoids",
+      "laxative",
+      "constipation",
+      "eye diseases",
+      "toxin accumulation",
+      "indigestion",
+      "sluggish bowels",
+      "anemia",
+      "tridosha balance",
+      "bloating",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Revered as the 'Mother of Ayurvedic herbs'. Gently regulates peristalsis without dependency, clears systemic endotoxins, and rejuvenates tissues (Kayakalpa).",
+    "dosage_and_formulation": "Primary constituent of Triphala, Abhayarishta, Haritaki Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Contraindicated in severe dehydration, acute exhaustion, and fasting.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Whole Body Rejuvenation"
+    ]
+  },
+  "42_Syzygium_cumini": {
+    "id": 42,
+    "class_name": "42_Syzygium_cumini",
+    "botanical_name": "Syzygium cumini",
+    "sanskrit_name": "Jambu",
+    "common_name_en": "Jamun / Java Plum",
+    "family": "Myrtaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Jamun / Java Plum",
+      "sanskrit": "Jambu",
+      "hindi": "Jamun, Jambul",
+      "regional": "Neredu (Telugu), Naval (Tamil)"
+    },
+    "parts_used": [
+      "Fruit",
+      "Seed",
+      "Leaf",
+      "Bark"
+    ],
+    "active_phytochemicals": [
+      "Jamboline",
+      "Starch",
+      "Tannin",
+      "Jambosine",
+      "Anthocyanins",
+      "Ellagic acid",
+      "Gallic acid"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Bitter, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Ulcers",
+      "Diabetes",
+      "Fractures",
+      "Diarrhea",
+      "Menorrhagia"
+    ],
+    "symptoms": [
+      "fractures",
+      "diabetes",
+      "menorrhagia",
+      "loose stools",
+      "frequent urination",
+      "bleeding gums",
+      "excessive thirst",
+      "diarrhea",
+      "ulcers",
+      "high blood sugar"
+    ],
+    "medicinal_uses": "Jamun seed powder is a gold-standard natural anti-hyperglycemic. Jamboline glycoside arrests pathological starch-to-sugar conversion in the digestive tract.",
+    "dosage_and_formulation": "Jambavasava, Jambubeeja Churna (3-5 g), Pushyanuga Churna. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Avoid eating jamun on an empty stomach; monitor blood sugar levels.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine (Pancreas)",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal",
+      "Urinary / Kidney"
+    ]
+  },
+  "43_Nardostachys_jatamansi": {
+    "id": 43,
+    "class_name": "43_Nardostachys_jatamansi",
+    "botanical_name": "Nardostachys jatamansi",
+    "sanskrit_name": "Jatamansi",
+    "common_name_en": "Spikenard",
+    "family": "Valerianaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Spikenard",
+      "sanskrit": "Jatamansi",
+      "hindi": "Jatamansi, Balchar",
+      "regional": "Jatamamsi (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Jatamansone",
+      "Nardostachone",
+      "Valeranal",
+      "Sesquiterpenes"
+    ],
+    "dosage": "2-4 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Bitter, Astringent, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Complexion",
+      "Strength",
+      "Burning sensation",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "tremors",
+      "racing thoughts",
+      "hair fall",
+      "strength",
+      "skin diseases",
+      "high blood pressure",
+      "complexion",
+      "intellect promoter",
+      "burning sensation",
+      "nervous exhaustion",
+      "restlessness",
+      "insomnia"
+    ],
+    "medicinal_uses": "Potent sedative, neuroprotective, and adaptogenic root. Calms hyperactive brain waves, lowers sympathetic nervous overactivity, and induces peaceful sleep.",
+    "dosage_and_formulation": "Jatamansyadi Churna, Manasamitra Vati, Jatamansi Taila (1-3 g powder). Prescribed Dosage: 2-4 gm.",
+    "precautions": "Do not overdose; excessive amounts may cause lethargy or nausea.",
+    "body_systems": [
+      "Cardiovascular",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Nervous System",
+      "Psychological"
+    ]
+  },
+  "44_Myristica_fragrans": {
+    "id": 44,
+    "class_name": "44_Myristica_fragrans",
+    "botanical_name": "Myristica fragrans",
+    "sanskrit_name": "Jatiphala",
+    "common_name_en": "Nutmeg",
+    "family": "Myristicaceae",
+    "habit": "Tree (40ft)",
+    "common_names": {
+      "english": "Nutmeg",
+      "sanskrit": "Jatiphala",
+      "hindi": "Jaiphal (Nutmeg), Javitri (Mace)",
+      "regional": "Jajikaya (Telugu), Jathikkai (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Aril"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Myristic Acid",
+      "Myristicin",
+      "Elemicin",
+      "Safrole",
+      "Eugenol",
+      "Sabinene"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Absorbent",
+      "Voice enhancer",
+      "Worms",
+      "Cough",
+      "Asthma"
+    ],
+    "symptoms": [
+      "worms",
+      "cough",
+      "intestinal gas",
+      "watery diarrhea",
+      "sleeplessness",
+      "sexual debility",
+      "voice enhancer",
+      "digestive",
+      "loss of taste",
+      "tooth pain",
+      "asthma",
+      "absorbent"
+    ],
+    "medicinal_uses": "Warm, comforting carminative and hypnotic. A pinch taken with warm milk at bedtime settles racing thoughts and ensures sound sleep.",
+    "dosage_and_formulation": "Jatiphaladi Churna, Manmatha Ras, Jaiphal paste (250-500 mg). Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Narcotic and toxic in large quantities (>5 g). Use strictly within micro-dosages.",
+    "body_systems": [
+      "Digestive System",
+      "Nervous System",
+      "Reproductive System",
+      "Respiratory System"
+    ]
+  },
+  "46_Cuminum_cyminum": {
+    "id": 46,
+    "class_name": "46_Cuminum_cyminum",
+    "botanical_name": "Cuminum cyminum",
+    "sanskrit_name": "Jiraka (Shweta)",
+    "common_name_en": "Cumin",
+    "family": "Umbelliferae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Cumin",
+      "sanskrit": "Jiraka (Shweta)",
+      "hindi": "Jeera, Safed Jeera",
+      "regional": "Jilakara (Telugu), Seeragam (Tamil)"
+    },
+    "parts_used": [
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Cumaldehyde",
+      "Cuminaldehyde",
+      "Cymene",
+      "Terpenes",
+      "Thymol",
+      "Flavonoids"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Bloating",
+      "Carminative",
+      "Lactation",
+      "Diarrhea",
+      "Low digestion"
+    ],
+    "symptoms": [
+      "sluggish digestion",
+      "low digestion",
+      "lactation",
+      "bloating",
+      "diarrhea",
+      "belching",
+      "gas",
+      "stomach cramps",
+      "abdominal bloating",
+      "insufficient breastmilk",
+      "carminative"
+    ],
+    "medicinal_uses": "Everyday kitchen culinary jewel and digestive stimulant. Enhances nutrient absorption, relieves intestinal bloating, and boosts lactation in nursing mothers.",
+    "dosage_and_formulation": "Jeerakarishta, Hingwashtak Churna, Cumin water (Jeera Jal). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Completely safe in food and medical usage.",
+    "body_systems": [
+      "Digestive System",
+      "Reproductive (Lactation)"
+    ]
+  },
+  "47_Celastrus_paniculatus": {
+    "id": 47,
+    "class_name": "47_Celastrus_paniculatus",
+    "botanical_name": "Celastrus paniculatus",
+    "sanskrit_name": "Jyotishmati",
+    "common_name_en": "Intellect Tree",
+    "family": "Celastraceae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Intellect Tree",
+      "sanskrit": "Jyotishmati",
+      "hindi": "Malkangni, Jyotishmati",
+      "regional": "Malkanguni (Telugu), Valuluvai (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "active_phytochemicals": [
+      "Celastrine",
+      "Paniculatine",
+      "Malkanguniol",
+      "Sesquiterpene polyol esters"
+    ],
+    "dosage": "5-10 drops",
+    "ayurvedic_properties": {
+      "guna": "Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Memory enhancer",
+      "Emetic (high dose)",
+      "Rheumatism",
+      "Migraine"
+    ],
+    "symptoms": [
+      "memory lapses",
+      "numbness",
+      "emetic (high dose)",
+      "migraine",
+      "depression",
+      "memory enhancer",
+      "poor intellect",
+      "rheumatism",
+      "joint stiffness",
+      "nerve pain"
+    ],
+    "medicinal_uses": "Named 'Jyotishmati' (that which brings light/brilliance to the intellect). Powerfully stimulates neural pathways, improves recall, and relieves neurological pain.",
+    "dosage_and_formulation": "Jyotishmati Taila (5-15 drops in milk), Smritisagara Ras. Prescribed Dosage: 5-10 drops.",
+    "precautions": "Intensely heating. Avoid in high Pitta individuals, acidity, or active bleeding.",
+    "body_systems": [
+      "Musculoskeletal",
+      "Nervous System",
+      "Nervous System (Brain)"
+    ]
+  },
+  "48_Andrographis_paniculata": {
+    "id": 48,
+    "class_name": "48_Andrographis_paniculata",
+    "botanical_name": "Andrographis paniculata",
+    "sanskrit_name": "Kalmegh",
+    "common_name_en": "Green Chiretta",
+    "family": "Acanthaceae",
+    "habit": "Shrub (2ft)",
+    "common_names": {
+      "english": "Green Chiretta",
+      "sanskrit": "Kalmegh",
+      "hindi": "Kalmegh, Kirayat",
+      "regional": "Nilavembu (Tamil), Nelavemu (Telugu)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Kalmeghin",
+      "Andrographolide",
+      "Neoandrographolide",
+      "14-Deoxyandrographolide",
+      "Flavonoids"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Liver disorders",
+      "Fever",
+      "Toxins",
+      "Worms",
+      "Burning sensation",
+      "Acidity"
+    ],
+    "symptoms": [
+      "sore throat",
+      "worms",
+      "viral flu",
+      "jaundice",
+      "liver enlargement",
+      "liver disorders",
+      "parasite infection",
+      "fever",
+      "burning sensation",
+      "chills",
+      "acidity",
+      "high fever",
+      "toxins"
+    ],
+    "medicinal_uses": "The ultimate bitter antiviral and hepatoprotector. Star constituent of Tamil Nadu's famed Nilavembu Kudineer for dengue and viral epidemics.",
+    "dosage_and_formulation": "Nilavembu Kudineer, Kalmegh Navayas Loh, Kalmegh Asava (1-3 g powder). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Extremely bitter taste; high doses may cause gastric irritation in sensitive stomachs.",
+    "body_systems": [
+      "Digestive System",
+      "Hepatic (Liver)",
+      "Immune System",
+      "Respiratory System"
+    ]
+  },
+  "49_Mallotus_philippensis": {
+    "id": 49,
+    "class_name": "49_Mallotus_philippensis",
+    "botanical_name": "Mallotus philippensis",
+    "sanskrit_name": "Kampillaka",
+    "common_name_en": "Kamala Tree",
+    "family": "Euphorbiaceae",
+    "habit": "Tree (30ft)",
+    "common_names": {
+      "english": "Kamala Tree",
+      "sanskrit": "Kampillaka",
+      "hindi": "Kamala, Rohini",
+      "regional": "Kapilapodi (Telugu), Kapila (Tamil)"
+    },
+    "parts_used": [
+      "Fruit Powder (Glands)"
+    ],
+    "active_phytochemicals": [
+      "Rottlerin",
+      "Isorottlerin",
+      "Corotoxigenin",
+      "Resins"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Worms",
+      "Abdominal tumors",
+      "Ascites",
+      "Ulcers",
+      "Purgative",
+      "Diabetes"
+    ],
+    "symptoms": [
+      "worms",
+      "diabetes",
+      "tapeworm",
+      "ascites",
+      "purgative",
+      "abdominal tumors",
+      "scabies",
+      "intestinal worms",
+      "rectal itching",
+      "ulcers",
+      "fungal skin infection"
+    ],
+    "medicinal_uses": "Specific anthelmintic (Krimighna) against tapeworms (Taenia). The brick-red powder causes rapid expulsion of parasites.",
+    "dosage_and_formulation": "Kampillaka Churna (1-3 g with warm water or honey), Krimimudgar Ras. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Strong cathartic; overdose triggers excessive purgation and vomiting.",
+    "body_systems": [
+      "Digestive System",
+      "Digestive System (Parasitology)",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Urinary / Kidney"
+    ]
+  },
+  "4_Papaver_somniferum": {
+    "id": 4,
+    "class_name": "4_Papaver_somniferum",
+    "botanical_name": "Papaver somniferum",
+    "sanskrit_name": "Ahiphena",
+    "common_name_en": "Opium Poppy",
+    "family": "Papaveraceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Opium Poppy",
+      "sanskrit": "Ahiphena",
+      "hindi": "Afeem, Khas-khas (seeds)",
+      "regional": "Gasagasalu (seeds - Telugu), Kasakasa (Tamil)"
+    },
+    "parts_used": [
+      "Latex",
+      "Exudate"
+    ],
+    "active_phytochemicals": [
+      "Morphine/Codeine",
+      "Morphine",
+      "Codeine",
+      "Papaverine",
+      "Noscapine",
+      "Thebaine"
+    ],
+    "dosage": "30-125 mg",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Minute, Diffusive, Loosening",
+      "rasa": "Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Cough",
+      "Emaciation",
+      "Styptic (stops bleeding)",
+      "Sexual suppressant"
+    ],
+    "symptoms": [
+      "cough",
+      "violent cough spasms",
+      "emaciation",
+      "incessant watery diarrhea",
+      "styptic (stops bleeding)",
+      "extreme restlessness",
+      "severe pain",
+      "sexual suppressant"
+    ],
+    "medicinal_uses": "Ancient potent narcotic analgesic and astringent. Used strictly under classical purification and medical supervision in minute doses. Seeds are nourishing and safe.",
+    "dosage_and_formulation": "Ahiphenasava, Karpoor Ras (10 to 30 mg purified exudate only). Prescribed Dosage: 30-125 mg.",
+    "precautions": "SCHEDULED NARCOTIC. HIGH ADDICTION RISK. Regulated strictly by government narcotics laws.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Nervous System",
+      "Respiratory System"
+    ]
+  },
+  "50_Bauhinia_variegata": {
+    "id": 50,
+    "class_name": "50_Bauhinia_variegata",
+    "botanical_name": "Bauhinia variegata",
+    "sanskrit_name": "Kanchanara",
+    "common_name_en": "Orchid Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Orchid Tree",
+      "sanskrit": "Kanchanara",
+      "hindi": "Kachnar, Kanchanar",
+      "regional": "Devakanchanamu (Telugu), Mandarai (Tamil)"
+    },
+    "parts_used": [
+      "Bark",
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Tannin",
+      "Lupeol",
+      "Beta-sitosterol",
+      "Flavonoids",
+      "Tannins",
+      "Kaempferol"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry, Light",
+      "rasa": "Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Cervical lymphadenitis",
+      "Goiter",
+      "Tumors",
+      "Ulcers",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "tumors",
+      "irregular periods",
+      "skin diseases",
+      "goiter",
+      "PCOS",
+      "cystic growths",
+      "thyroid swelling",
+      "lipomas",
+      "cervical lymphadenitis",
+      "ulcers",
+      "lymph node enlargement"
+    ],
+    "medicinal_uses": "Foremost glandular deobstruent and lymphatic detoxifier in Ayurveda. Melts glandular enlargements, regulates thyroid metabolism, and shrinks ovarian cysts.",
+    "dosage_and_formulation": "Kanchanar Guggulu, Kanchanaradi Kwatha, Kanchanar Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe; long-term use should be monitored in hypothyroidism.",
+    "body_systems": [
+      "Endocrine (Thyroid)",
+      "Integumentary",
+      "Lymphatic System",
+      "Reproductive (Gynecology)"
+    ]
+  },
+  "51_Solanum_surattense": {
+    "id": 51,
+    "class_name": "51_Solanum_surattense",
+    "botanical_name": "Solanum surattense",
+    "sanskrit_name": "Kantakari",
+    "common_name_en": "Yellow Berried Nightshade",
+    "family": "Solanaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Yellow Berried Nightshade",
+      "sanskrit": "Kantakari",
+      "hindi": "Kantakari, Chhoti Kateri",
+      "regional": "Nelamulaka (Telugu), Kandankathiri (Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Diosgenin",
+      "Potassium Nitrate",
+      "Solasonine",
+      "Solamargine",
+      "Carpesterol",
+      "Lupeol"
+    ],
+    "dosage": "40-80 ml",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Cough",
+      "Fever",
+      "Rhinitis",
+      "Worms",
+      "Heart disease"
+    ],
+    "symptoms": [
+      "phlegm congestion",
+      "cough",
+      "worms",
+      "spasmodic cough",
+      "fever",
+      "digestive",
+      "rhinitis",
+      "loss of voice",
+      "sinus headache",
+      "heart disease",
+      "asthmatic wheezing"
+    ],
+    "medicinal_uses": "Dashamoola herb famous as a fast-acting bronchodilator. Relieves histamine-mediated bronchial constriction and clears mucous plugs.",
+    "dosage_and_formulation": "Kantakari Avaleha, Dashamoolarishta, Kantakaryadi Kwatha. Prescribed Dosage: 40-80 ml.",
+    "precautions": "Safe; avoid excessive doses in severe Pitta disorders.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Respiratory System"
+    ]
+  },
+  "52_Mucuna_pruriens": {
+    "id": 52,
+    "class_name": "52_Mucuna_pruriens",
+    "botanical_name": "Mucuna pruriens",
+    "sanskrit_name": "Kapikachhu",
+    "common_name_en": "Velvet Bean",
+    "family": "Leguminosae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Velvet Bean",
+      "sanskrit": "Kapikachhu",
+      "hindi": "Kaunch, Konch, Kevanch",
+      "regional": "Dulagondi (Telugu), Poonaikali (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Root",
+      "Hairs"
+    ],
+    "active_phytochemicals": [
+      "Prurienine",
+      "L-DOPA (Levodopa)",
+      "Tryptamine",
+      "Nicotine alkaloids",
+      "Serotonin"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata, balances Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Aphrodisiac",
+      "Strength promoter",
+      "Vata disorders",
+      "Worms"
+    ],
+    "symptoms": [
+      "worms",
+      "muscle rigidity",
+      "lack of drive",
+      "vata disorders",
+      "strength promoter",
+      "aphrodisiac",
+      "Parkinsonism",
+      "sexual weakness",
+      "low sperm count",
+      "hand tremors"
+    ],
+    "medicinal_uses": "Natural botanical source of L-DOPA. Crosses the blood-brain barrier to replenish dopamine stores, relieving Parkinsonian tremors and elevating male vitality.",
+    "dosage_and_formulation": "Kaunch Pak, Kapikacchu Churna (3-6 g with milk), Vanari Vati. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Seeds must be boiled in milk or water to peel outer toxic skin before grinding. Do not take with MAO inhibitors.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Nervous System (Brain)",
+      "Reproductive System"
+    ]
+  },
+  "54_Cinnamomum_camphora": {
+    "id": 54,
+    "class_name": "54_Cinnamomum_camphora",
+    "botanical_name": "Cinnamomum camphora",
+    "sanskrit_name": "Karpura",
+    "common_name_en": "Camphor",
+    "family": "Lauraceae",
+    "habit": "Tree (100ft)",
+    "common_names": {
+      "english": "Camphor",
+      "sanskrit": "Karpura",
+      "hindi": "Kapur, Karpoor",
+      "regional": "Karpooram (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Extract",
+      "Crystal"
+    ],
+    "active_phytochemicals": [
+      "Camphor Oil",
+      "Camphor",
+      "Camphene",
+      "Borneol",
+      "Pinene",
+      "Safrole"
+    ],
+    "dosage": "125-375 mg",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp",
+      "rasa": "Bitter, Pungent, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Cooling",
+      "Eye tonic",
+      "Poison",
+      "Burning sensation",
+      "Bad breath"
+    ],
+    "symptoms": [
+      "chest congestion",
+      "bad breath",
+      "poison",
+      "cooling",
+      "severe muscle ache",
+      "burning sensation",
+      "severe skin itching",
+      "joint stiffness",
+      "tooth decay pain",
+      "eye tonic"
+    ],
+    "medicinal_uses": "Penetrating volatile stimulant. Applied topically in liniments for immediate relief of arthritic pain, neuralgic spasms, and bronchial congestion.",
+    "dosage_and_formulation": "Karpooradi Taila, Karpoor Ras, Amritdhara (15-30 mg internal medicinal camphor). Prescribed Dosage: 125-375 mg.",
+    "precautions": "Use ONLY Bhimseni (natural edible) camphor internally in micro-doses. Synthetic camphor is POISONOUS if ingested.",
+    "body_systems": [
+      "Integumentary",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "55_Picrorhiza_kurroa": {
+    "id": 55,
+    "class_name": "55_Picrorhiza_kurroa",
+    "botanical_name": "Picrorhiza kurroa",
+    "sanskrit_name": "Katuka",
+    "common_name_en": "Picrorhiza",
+    "family": "Scrophulariaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Picrorhiza",
+      "sanskrit": "Katuka",
+      "hindi": "Kutki",
+      "regional": "Katukarogani (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Rhizome"
+    ],
+    "active_phytochemicals": [
+      "Picrorhizin",
+      "Kutkin",
+      "Picroside I & II",
+      "Kutkoside",
+      "Apocynin",
+      "D-mannitol"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry, Light",
+      "rasa": "Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Purgative",
+      "Heart tonic",
+      "Diabetes",
+      "Asthma",
+      "Cough",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "cough",
+      "yellow eyes/urine",
+      "heart tonic",
+      "diabetes",
+      "jaundice",
+      "elevated liver enzymes (SGOT/SGPT)",
+      "purgative",
+      "skin diseases",
+      "fever",
+      "sluggish gallbladder",
+      "autoimmune skin flare",
+      "asthma"
+    ],
+    "medicinal_uses": "Premier Himalayan hepatoprotective herb. Stimulates liver regeneration, increases bile production, and purges stagnant Pitta through the intestines.",
+    "dosage_and_formulation": "Arogyavardhini Vati (contains 50% Kutki), Katuki Churna (0.5 to 1 g for liver; 2 g for purgation). Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "High doses act as a strong hydrogogue purgative; use with caution in emaciation.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Hepatic (Liver)",
+      "Integumentary",
+      "Respiratory System",
+      "Urinary / Kidney"
+    ]
+  },
+  "56_Acacia_catechu": {
+    "id": 56,
+    "class_name": "56_Acacia_catechu",
+    "botanical_name": "Acacia catechu",
+    "sanskrit_name": "Khadira",
+    "common_name_en": "Cutch Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Cutch Tree",
+      "sanskrit": "Khadira",
+      "hindi": "Khair, Kattha",
+      "regional": "Khadiramu (Telugu), Karungali (Tamil)"
+    },
+    "parts_used": [
+      "Bark",
+      "Heartwood"
+    ],
+    "active_phytochemicals": [
+      "Catechin",
+      "Tannin",
+      "Epicatechin",
+      "Catechutannic acid",
+      "Quercetin",
+      "Taxifolin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Asthma",
+      "Cough",
+      "Diabetes",
+      "Ulcers",
+      "Anemia"
+    ],
+    "symptoms": [
+      "cough",
+      "diabetes",
+      "skin ulcers",
+      "leukoderma",
+      "skin diseases",
+      "anemia",
+      "loose teeth",
+      "eczema",
+      "psoriasis",
+      "ulcers",
+      "bleeding gums",
+      "asthma",
+      "mouth ulcers"
+    ],
+    "medicinal_uses": "Supreme herb for dermatological disorders (Kushthaghna). Contracts inflamed tissues, purifies blood, and firms spongy, bleeding gums.",
+    "dosage_and_formulation": "Khadirarishta, Khadiradi Vati (chewable for throat/gums), Maha Manjishtadi Kashaya. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Astringent action may worsen dry constipation if taken without adequate fluids.",
+    "body_systems": [
+      "Circulatory System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Integumentary (Skin)",
+      "Oral Health",
+      "Respiratory System",
+      "Urinary / Kidney"
+    ]
+  },
+  "58_Aloe_vera": {
+    "id": 58,
+    "class_name": "58_Aloe_vera",
+    "botanical_name": "Aloe vera",
+    "sanskrit_name": "Kumari",
+    "common_name_en": "Aloe Vera",
+    "family": "Liliaceae",
+    "habit": "Shrub (2ft)",
+    "common_names": {
+      "english": "Aloe Vera",
+      "sanskrit": "Kumari",
+      "hindi": "Gheekumari, Ghritkumari",
+      "regional": "Kalabanda (Telugu), Kathalai (Tamil)"
+    },
+    "parts_used": [
+      "Leaf",
+      "Extract"
+    ],
+    "active_phytochemicals": [
+      "Aloin",
+      "Aloe-emodin",
+      "Acemannan",
+      "Barbaloin",
+      "Polysaccharides"
+    ],
+    "dosage": "0.1-0.2 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous, Slimy",
+      "rasa": "Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara (Balances Vata, Pitta, and Kapha)"
+    },
+    "therapeutic_indications": [
+      "Strength",
+      "Aphrodisiac",
+      "Eye tonic",
+      "Rejuvenative",
+      "Liver/Spleen disorders"
+    ],
+    "symptoms": [
+      "delayed periods",
+      "aphrodisiac",
+      "strength",
+      "heartburn",
+      "dry skin",
+      "acid reflux",
+      "liver/spleen disorders",
+      "sunburn",
+      "PCOS",
+      "liver stagnation",
+      "dandruff",
+      "eye tonic",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Supreme female reproductive restorative and cooling demulcent. Acemannan accelerates cellular renewal and wound healing while aloin clears hepatic congestion.",
+    "dosage_and_formulation": "Kumariasava, Kumari Taila, Fresh leaf pulp (10-20 g). Prescribed Dosage: 0.1-0.2 gm.",
+    "precautions": "Avoid yellow latex exudate during pregnancy due to uterine contracting properties.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Reproductive (Gynecology)"
+    ]
+  },
+  "59_Crocus_sativus": {
+    "id": 59,
+    "class_name": "59_Crocus_sativus",
+    "botanical_name": "Crocus sativus",
+    "sanskrit_name": "Kunkuma",
+    "common_name_en": "Saffron",
+    "family": "Iridaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Saffron",
+      "sanskrit": "Kunkuma",
+      "hindi": "Kesar, Zafran",
+      "regional": "Kunkumapuvvu (Telugu), Kungumapu (Tamil)"
+    },
+    "parts_used": [
+      "Stigma (Kesar)"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Crocin",
+      "Crocetin",
+      "Safranal",
+      "Picrocrocin"
+    ],
+    "dosage": "250-500 mg",
+    "ayurvedic_properties": {
+      "guna": "Unctuous",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Complexion",
+      "Headache",
+      "Worms",
+      "Vomiting",
+      "Pigmentation"
+    ],
+    "symptoms": [
+      "fatigue",
+      "headache",
+      "worms",
+      "mood swings",
+      "depression",
+      "low libido",
+      "dark spots",
+      "complexion",
+      "pigmentation",
+      "poor vision",
+      "dull skin",
+      "vomiting"
+    ],
+    "medicinal_uses": "The royal antioxidant spice. Enhances cerebral serotonin, imparts a radiant golden glow to the complexion, and acts as a renowned aphrodisiac.",
+    "dosage_and_formulation": "Kumkumadi Taila, Kesar milk, Chandraprabha Vati (25 to 50 mg stigmas). Prescribed Dosage: 250-500 mg.",
+    "precautions": "High doses (>5 g) can cause uterine spasms; safe in culinary micro-doses.",
+    "body_systems": [
+      "Digestive System",
+      "Integumentary",
+      "Nervous System",
+      "Psychological / Mental Health",
+      "Reproductive System"
+    ]
+  },
+  "5_Emblica_officinalis": {
+    "id": 5,
+    "class_name": "5_Emblica_officinalis",
+    "botanical_name": "Emblica officinalis",
+    "sanskrit_name": "Amalaki",
+    "common_name_en": "Indian Gooseberry",
+    "family": "Euphorbiaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Indian Gooseberry",
+      "sanskrit": "Amalaki",
+      "hindi": "Amla, Aonla",
+      "regional": "Usirikaya (Telugu), Nellikai (Tamil)"
+    },
+    "parts_used": [
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Vitamin C",
+      "Gallic Acid",
+      "Calcium",
+      "Ascorbic Acid (Vitamin C)",
+      "Emblicanin A & B",
+      "Ellagic acid",
+      "Gallic acid",
+      "Chebulagic acid"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Dry, Cold",
+      "rasa": "Sour (dominant), Sweet, Bitter, Pungent, Astringent",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Premier Pitta pacifier)"
+    },
+    "therapeutic_indications": [
+      "Bleeding disorders",
+      "Diabetes",
+      "Aphrodisiac",
+      "Rejuvenative",
+      "Constipation"
+    ],
+    "symptoms": [
+      "fatigue",
+      "early gray hair",
+      "diabetes",
+      "constipation",
+      "frequent colds",
+      "aphrodisiac",
+      "hyperacidity",
+      "hair thinning",
+      "eye strain",
+      "bleeding disorders",
+      "high blood sugar",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "The jewel of Ayurvedic rasayanas. Outstanding cellular antioxidant, rejuvenates eyesight, strengthens hair follicles, and neutralizes stomach acid.",
+    "dosage_and_formulation": "Chyawanprash (key ingredient), Triphala, Amalaki Rasayana, Dhatri Lauha (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Completely safe food and medicine.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Ophthalmic",
+      "Urinary / Kidney",
+      "Whole Body Rasayana"
+    ]
+  },
+  "60_Strychnos_nux-vomica": {
+    "id": 60,
+    "class_name": "60_Strychnos_nux-vomica",
+    "botanical_name": "Strychnos nux-vomica",
+    "sanskrit_name": "Kupilu",
+    "common_name_en": "Nux Vomica",
+    "family": "Loganiaceae",
+    "habit": "Tree (50ft)",
+    "common_names": {
+      "english": "Nux Vomica",
+      "sanskrit": "Kupilu",
+      "hindi": "Kuchla",
+      "regional": "Mushti (Telugu), Etti (Tamil)"
+    },
+    "parts_used": [
+      "Seed Marrow"
+    ],
+    "active_phytochemicals": [
+      "Strychnine",
+      "Brucine",
+      "Loganic acid",
+      "Novacine"
+    ],
+    "dosage": "60-250 mg",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Intoxicant",
+      "Pain relief",
+      "Paralysis",
+      "Aphrodisiac",
+      "Rheumatism"
+    ],
+    "symptoms": [
+      "sciatica",
+      "loss of sensation",
+      "intoxicant",
+      "aphrodisiac",
+      "muscle flaccidity",
+      "paralysis",
+      "pain relief",
+      "rheumatism",
+      "severe neuropathy",
+      "erectile failure"
+    ],
+    "medicinal_uses": "Potent spinal cord and reflex stimulant in minute purified doses. Used only after rigorous classical purification in cow's milk and ghee.",
+    "dosage_and_formulation": "Agnitundi Vati, Ekangaveer Ras, Vishatinduka Vati (30 to 60 mg purified). Prescribed Dosage: 60-250 mg.",
+    "precautions": "LETHAL POISON if raw. Unpurified seeds cause tetanic convulsions and asphyxiation. STRICT MEDICAL PRESCRIPTION ONLY.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Musculoskeletal",
+      "Nervous System (Spinal Cord)"
+    ]
+  },
+  "61_Saussurea_lappa": {
+    "id": 61,
+    "class_name": "61_Saussurea_lappa",
+    "botanical_name": "Saussurea lappa",
+    "sanskrit_name": "Kushtha",
+    "common_name_en": "Costus",
+    "family": "Compositae",
+    "habit": "Shrub (6ft)",
+    "common_names": {
+      "english": "Costus",
+      "sanskrit": "Kushtha",
+      "hindi": "Kuth, Koot",
+      "regional": "Changala (Telugu), Kostum (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Saussurine",
+      "Costunolide",
+      "Dehydrocostus lactone",
+      "Taraxasterol"
+    ],
+    "dosage": "0.25-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Bitter, Pungent, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Gout",
+      "Erysipelas",
+      "Cough",
+      "Hiccough",
+      "Strength promoter"
+    ],
+    "symptoms": [
+      "cough",
+      "abdominal cramps",
+      "skin inflammation",
+      "asthmatic wheeze",
+      "spasmodic chest pain",
+      "strength promoter",
+      "hiccough",
+      "joint ache",
+      "ringworm",
+      "erysipelas",
+      "gout"
+    ],
+    "medicinal_uses": "Aromatic Himalayan root. Relieves bronchial spasms, promotes cutaneous circulation, expels intestinal gas, and treats refractory skin disorders.",
+    "dosage_and_formulation": "Kushtadi Taila, Khadiradi Vati, Kankasava (0.5 to 1 g powder). Prescribed Dosage: 0.25-1 gm.",
+    "precautions": "CITES Appendix I endangered plant; procure only from cultivated legal sources.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "62_Holarrhena_antidysenterica": {
+    "id": 62,
+    "class_name": "62_Holarrhena_antidysenterica",
+    "botanical_name": "Holarrhena antidysenterica",
+    "sanskrit_name": "Kutaja",
+    "common_name_en": "Kurchi / Tellicherry Bark",
+    "family": "Apocynaceae",
+    "habit": "Tree (40ft)",
+    "common_names": {
+      "english": "Kurchi / Tellicherry Bark",
+      "sanskrit": "Kutaja",
+      "hindi": "Kuda, Kutaj",
+      "regional": "Kodasapala (Telugu), Kudasappalai (Tamil)"
+    },
+    "parts_used": [
+      "Bark",
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Conessine",
+      "Holarrhenine",
+      "Kurchine",
+      "Conimine"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Piles",
+      "Diarrhea",
+      "Bleeding disorders",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "bloody diarrhea",
+      "mucus stools",
+      "tenesmus (painful straining)",
+      "skin diseases",
+      "bleeding piles",
+      "diarrhea",
+      "amoebiasis",
+      "bleeding disorders",
+      "piles",
+      "intestinal cramps"
+    ],
+    "medicinal_uses": "World-renowned specific for amoebiasis and chronic ulcerative colitis. Conessine alkaloid kills Entamoeba histolytica while bark tannins seal bleeding mucosal lesions.",
+    "dosage_and_formulation": "Kutajarishta, Kutajaghan Vati, Kutajavaleha (3-5 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Very safe; excessive dose in acute constipation should be avoided.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Digestive System (Colon)",
+      "Integumentary"
+    ]
+  },
+  "63_Syzygium_aromaticum": {
+    "id": 63,
+    "class_name": "63_Syzygium_aromaticum",
+    "botanical_name": "Syzygium aromaticum",
+    "sanskrit_name": "Lavanga",
+    "common_name_en": "Clove",
+    "family": "Myrtaceae",
+    "habit": "Tree (30ft)",
+    "common_names": {
+      "english": "Clove",
+      "sanskrit": "Lavanga",
+      "hindi": "Laung, Lavang",
+      "regional": "Lavangalu (Telugu), Kirambu (Tamil)"
+    },
+    "parts_used": [
+      "Flower Bud"
+    ],
+    "active_phytochemicals": [
+      "Vitamins",
+      "Volatile Oil",
+      "Eugenol (70-90%)",
+      "Eugenyl acetate",
+      "Beta-caryophyllene",
+      "Vanillin"
+    ],
+    "dosage": "1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Bitter, Pungent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Eye tonic",
+      "Thirst",
+      "Vomiting",
+      "Colic",
+      "Asthma",
+      "Cough",
+      "Toothache"
+    ],
+    "symptoms": [
+      "nausea",
+      "cough",
+      "toothache",
+      "indigestion",
+      "dental sensitivity",
+      "colic",
+      "throat tickle",
+      "halitosis",
+      "eye tonic",
+      "dry cough",
+      "thirst",
+      "tooth pain",
+      "asthma",
+      "vomiting"
+    ],
+    "medicinal_uses": "Unrivaled dental analgesic and local anesthetic. Eugenol desensitizes dental nerve endings and exerts powerful antibacterial action against oral pathogens.",
+    "dosage_and_formulation": "Lavangadi Vati, Clove oil (topical application), Eladi Vati (0.5 to 1 g). Prescribed Dosage: 1 gm.",
+    "precautions": "Undiluted clove oil may burn delicate mucous membranes; apply with a cotton dab.",
+    "body_systems": [
+      "Digestive System",
+      "Oral & Dental Health",
+      "Respiratory System"
+    ]
+  },
+  "64_Symplocos_racemosa": {
+    "id": 64,
+    "class_name": "64_Symplocos_racemosa",
+    "botanical_name": "Symplocos racemosa",
+    "sanskrit_name": "Lodhra",
+    "common_name_en": "Lodhra",
+    "family": "Symplocaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Lodhra",
+      "sanskrit": "Lodhra",
+      "hindi": "Lodh, Pathani Lodh",
+      "regional": "Lodduga (Telugu), Velli-lothram (Tamil)"
+    },
+    "parts_used": [
+      "Bark"
+    ],
+    "active_phytochemicals": [
+      "Loturine",
+      "Colloturine",
+      "Loturidine",
+      "Betulinic acid",
+      "Symposide"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Absorbent",
+      "Eye tonic",
+      "Bleeding disorders",
+      "Diarrhea",
+      "Edema"
+    ],
+    "symptoms": [
+      "heavy menses",
+      "absorbent",
+      "diarrhea",
+      "cystic acne",
+      "conjunctival swelling",
+      "bleeding disorders",
+      "bleeding gums",
+      "white vaginal discharge",
+      "eye tonic",
+      "edema"
+    ],
+    "medicinal_uses": "Classic Ayurvedic gynecological astringent. Balances ovarian hormones (FSH/LH ratio), contracts relaxed pelvic tissues, and eliminates stubborn cystic acne.",
+    "dosage_and_formulation": "Lodhrasava, Pushyanuga Churna, Lodhradi Lepa (3-5 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Safe; due to high astringency, avoid in severe dry constipation.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Integumentary",
+      "Reproductive (Gynecology)"
+    ]
+  },
+  "65_Randia_spinosa": {
+    "id": 65,
+    "class_name": "65_Randia_spinosa",
+    "botanical_name": "Randia spinosa",
+    "sanskrit_name": "Madanaphala",
+    "common_name_en": "Emetic Nut",
+    "family": "Rubiaceae",
+    "habit": "Tree (25ft)",
+    "common_names": {
+      "english": "Emetic Nut",
+      "sanskrit": "Madanaphala",
+      "hindi": "Mainphal, Madanphal",
+      "regional": "Manga (Telugu), Marukkarai (Tamil)"
+    },
+    "parts_used": [
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Saponin",
+      "Randianin",
+      "Oleanolic acid saponins",
+      "Catunaregoside",
+      "Triterpenes"
+    ],
+    "dosage": "1-2 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Sweet, Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Emetic",
+      "Abscess",
+      "Ulcers",
+      "Skin diseases",
+      "Rhinitis"
+    ],
+    "symptoms": [
+      "Kapha toxicity",
+      "excess phlegm congestion",
+      "poison ingestion",
+      "abscess",
+      "skin diseases",
+      "rhinitis",
+      "emetic",
+      "ulcers",
+      "severe asthma"
+    ],
+    "medicinal_uses": "The supreme and safest medicine for Panchakarma Vamana (emetic therapy). Elicits clean therapeutic vomiting without circulatory collapse to purge respiratory Kapha.",
+    "dosage_and_formulation": "Madanaphala Churna (3-6 g for emesis with licorice decoction). Prescribed Dosage: 1-2 gm.",
+    "precautions": "Used primarily under Panchakarma physician supervision.",
+    "body_systems": [
+      "Integumentary",
+      "Panchakarma Detoxification",
+      "Respiratory System"
+    ]
+  },
+  "66_Centella_asiatica": {
+    "id": 66,
+    "class_name": "66_Centella_asiatica",
+    "botanical_name": "Centella asiatica",
+    "sanskrit_name": "Mandukaparni",
+    "common_name_en": "Gotu Kola",
+    "family": "Umbelliferae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Gotu Kola",
+      "sanskrit": "Mandukaparni",
+      "hindi": "Brahmi, Mandukaparni",
+      "regional": "Saraswati Aku (Telugu), Vallarai (Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Hydrocotyline",
+      "Asiaticoside",
+      "Madecassoside",
+      "Asiatic acid",
+      "Madecassic acid",
+      "Brahmoside"
+    ],
+    "dosage": "10-20 ml",
+    "ayurvedic_properties": {
+      "guna": "Light",
+      "rasa": "Bitter",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Anti-aging",
+      "Blood purifier",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "poor retention",
+      "brain fog",
+      "skin diseases",
+      "premature wrinkles",
+      "blood purifier",
+      "rejuvenative",
+      "exam anxiety",
+      "scars",
+      "varicose veins",
+      "anti-aging"
+    ],
+    "medicinal_uses": "Premier brain tonic and collagen stimulator. Enhances dendritic arborization in the hippocampus, soothes neuro-inflammation, and heals connective tissue.",
+    "dosage_and_formulation": "Mandukaparni Rasayana, Brahmi Ghrita, Vallarai Churna (3-6 g). Prescribed Dosage: 10-20 ml.",
+    "precautions": "Extremely safe herb; exceptional for students and elders alike.",
+    "body_systems": [
+      "Cardiovascular",
+      "Cardiovascular System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Nervous System (Brain)"
+    ]
+  },
+  "67_Rubia_cordifolia": {
+    "id": 67,
+    "class_name": "67_Rubia_cordifolia",
+    "botanical_name": "Rubia cordifolia",
+    "sanskrit_name": "Manjishtha",
+    "common_name_en": "Indian Madder",
+    "family": "Rubiaceae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Indian Madder",
+      "sanskrit": "Manjishtha",
+      "hindi": "Manjistha, Manjit",
+      "regional": "Manjitti (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Manjistin",
+      "Purpurin",
+      "Munjistin",
+      "Alizarin",
+      "Rubiadin",
+      "Anthraquinones"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Dry",
+      "rasa": "Bitter, Astringent, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Complexion",
+      "Poison",
+      "Edema",
+      "Gynecological disorders",
+      "Blood purifier"
+    ],
+    "symptoms": [
+      "gynecological disorders",
+      "stubborn acne",
+      "sluggish microcirculation",
+      "poison",
+      "swollen lymph glands",
+      "skin redness",
+      "complexion",
+      "melasma",
+      "blood purifier",
+      "toxic blood",
+      "edema"
+    ],
+    "medicinal_uses": "The supreme blood and lymphatic purifier (Raktaprasadana). Cleanses stagnation from the micro-vasculature, clears deep acne marks, and gives sparkling complexion.",
+    "dosage_and_formulation": "Maha Manjishtadi Kashaya, Manjishtadi Taila, Manjistha Churna (2-4 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "May harmlessly tinge urine reddish-brown due to natural anthraquinone pigments.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System (Blood)",
+      "Integumentary",
+      "Lymphatic System"
+    ]
+  },
+  "68_Piper_nigrum": {
+    "id": 68,
+    "class_name": "68_Piper_nigrum",
+    "botanical_name": "Piper nigrum",
+    "sanskrit_name": "Maricha",
+    "common_name_en": "Black Pepper",
+    "family": "Piperaceae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Black Pepper",
+      "sanskrit": "Maricha",
+      "hindi": "Kali Mirch",
+      "regional": "Mariyalu (Telugu), Milagu (Tamil)"
+    },
+    "parts_used": [
+      "Fruit"
+    ],
+    "active_phytochemicals": [
+      "Piperine",
+      "Volatile Oil",
+      "Piperine (3-9%)",
+      "Piperidine",
+      "Chavicine",
+      "Beta-caryophyllene"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata, increases Pitta"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Asthma",
+      "Colic",
+      "Worms"
+    ],
+    "symptoms": [
+      "chest congestion",
+      "worms",
+      "low nutrient absorption",
+      "indigestion",
+      "sinus blockage",
+      "colic",
+      "slow metabolism",
+      "digestive",
+      "cold and chills",
+      "asthma"
+    ],
+    "medicinal_uses": "World's most famous natural bio-enhancer. Piperine enhances bioavailability of curcumin and other phytocompounds by up to 2000%. Cuts through mucus and burns toxins.",
+    "dosage_and_formulation": "Trikatu Churna, Marichadi Vati, Maricha Churna (250-500 mg). Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Avoid large doses in acute gastritis or bleeding gastric ulcers.",
+    "body_systems": [
+      "Bioavailability Enhancer",
+      "Digestive System",
+      "Respiratory System"
+    ]
+  },
+  "69_Cyperus_rotundus": {
+    "id": 69,
+    "class_name": "69_Cyperus_rotundus",
+    "botanical_name": "Cyperus rotundus",
+    "sanskrit_name": "Mustaka",
+    "common_name_en": "Nut Grass",
+    "family": "Cyperaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Nut Grass",
+      "sanskrit": "Mustaka",
+      "hindi": "Motha, Nagarmotha",
+      "regional": "Tungamustalu (Telugu), Korai Kizhangu (Tamil)"
+    },
+    "parts_used": [
+      "Tuber"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Cyperene",
+      "Cyperol",
+      "Alpha-copaene",
+      "Patchoulenone",
+      "Rotundene"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Pungent, Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Absorbent",
+      "Digestive",
+      "Thirst",
+      "Fever",
+      "Diarrhea",
+      "IBS"
+    ],
+    "symptoms": [
+      "ibs",
+      "sluggish digestion",
+      "loose watery stools",
+      "fever",
+      "menstrual cramps",
+      "digestive",
+      "skin itching",
+      "diarrhea",
+      "fever with stomach upset",
+      "thirst",
+      "absorbent"
+    ],
+    "medicinal_uses": "Unrivaled remedy for fever coupled with gastrointestinal discomfort (Shadangodaka). Relieves abdominal cramps, quenches burning thirst, and regulates menstrual cycle.",
+    "dosage_and_formulation": "Mustakarishta, Shadang Paniya, Mustadi Kwatha (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe; slightly constipating if taken without diarrhea.",
+    "body_systems": [
+      "Digestive System",
+      "Reproductive (Gynecology)"
+    ]
+  },
+  "6_Achyranthes_aspera": {
+    "id": 6,
+    "class_name": "6_Achyranthes_aspera",
+    "botanical_name": "Achyranthes aspera",
+    "sanskrit_name": "Apamarga",
+    "common_name_en": "Prickly Chaff Flower",
+    "family": "Amaranthaceae",
+    "habit": "Shrub (2ft)",
+    "common_names": {
+      "english": "Prickly Chaff Flower",
+      "sanskrit": "Apamarga",
+      "hindi": "Chirchita, Latjira, Apamarg",
+      "regional": "Uttareni (Telugu), Nayuruvi (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed",
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Potassium",
+      "Achyranthe",
+      "Betaine",
+      "Ecdysterone",
+      "Oleolic acid saponins"
+    ],
+    "dosage": "1-2 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Laxative",
+      "Emetic",
+      "Kapha/Fat reducer",
+      "Heart disease",
+      "Piles",
+      "Abdominal colic"
+    ],
+    "symptoms": [
+      "abdominal colic",
+      "laxative",
+      "phlegm asthma",
+      "anal fistula",
+      "insatiable morbid hunger",
+      "kidney stone",
+      "dental decay",
+      "emetic",
+      "heart disease",
+      "piles",
+      "kapha/fat reducer"
+    ],
+    "medicinal_uses": "The alkaline ash (Kshara) is the gold standard in Ayurvedic surgery (Ksharasutra) for treating complex anal fistulas. Dissolves urinary stones and suppresses false hunger.",
+    "dosage_and_formulation": "Apamarga Kshara, Apamarga Kshara Taila, Apamargadi Churna. Prescribed Dosage: 1-2 gm.",
+    "precautions": "Kshara is strongly alkaline; use strictly within prescribed micro-doses.",
+    "body_systems": [
+      "Anorectal (Fistula)",
+      "Cardiovascular System",
+      "Digestive System",
+      "Metabolism",
+      "Urinary System"
+    ]
+  },
+  "70_Vitex_negundo": {
+    "id": 70,
+    "class_name": "70_Vitex_negundo",
+    "botanical_name": "Vitex negundo",
+    "sanskrit_name": "Nirgundi",
+    "common_name_en": "Five-leaved Chaste Tree",
+    "family": "Verbenaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Five-leaved Chaste Tree",
+      "sanskrit": "Nirgundi",
+      "hindi": "Sambhalu, Nirgundi",
+      "regional": "Vavili (Telugu), Nochi (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Nishindine",
+      "Negundoside",
+      "Castican",
+      "Luteolin",
+      "Isoorientin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Hair tonic",
+      "Eye tonic",
+      "Colic",
+      "Rheumatism",
+      "Worms",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "worms",
+      "knee osteoarthritis",
+      "sciatica",
+      "neck pain",
+      "ear pain",
+      "colic",
+      "skin diseases",
+      "hair tonic",
+      "sinus headache",
+      "rheumatism",
+      "joint stiffness",
+      "eye tonic"
+    ],
+    "medicinal_uses": "The foremost analgesic and anti-inflammatory herbal leaves in Indian medicine. Leaf poultice and steam fomentation (Nadi Sweda) melt inflammatory joint effusions.",
+    "dosage_and_formulation": "Nirgundi Taila, Nirgundi Ghrita, Dashamoolarishta with Nirgundi. Prescribed Dosage: 1-3 gm.",
+    "precautions": "External use is universally safe; oral decoction should be taken with guidance.",
+    "body_systems": [
+      "Digestive System",
+      "ENT (Ear-Nose-Throat)",
+      "Integumentary",
+      "Musculoskeletal",
+      "Nervous System"
+    ]
+  },
+  "71_Butea_monosperma": {
+    "id": 71,
+    "class_name": "71_Butea_monosperma",
+    "botanical_name": "Butea monosperma",
+    "sanskrit_name": "Palasha",
+    "common_name_en": "Flame of the Forest",
+    "family": "Leguminosae",
+    "habit": "Tree (40ft)",
+    "common_names": {
+      "english": "Flame of the Forest",
+      "sanskrit": "Palasha",
+      "hindi": "Palash, Dhak, Tesu",
+      "regional": "Moduga (Telugu), Murukkan (Tamil)"
+    },
+    "parts_used": [
+      "Flower",
+      "Seed",
+      "Bark"
+    ],
+    "active_phytochemicals": [
+      "Kinotannic Acid",
+      "Palasonin",
+      "Butein",
+      "Butin",
+      "Coreopsin",
+      "Flavonoids"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Fracture healing",
+      "Piles",
+      "Worms",
+      "Aphrodisiac"
+    ],
+    "symptoms": [
+      "worms",
+      "intestinal roundworms",
+      "aphrodisiac",
+      "bone weakness",
+      "bleeding piles",
+      "digestive",
+      "summer heat rash",
+      "burning sensation",
+      "piles",
+      "fracture healing"
+    ],
+    "medicinal_uses": "Seeds (Palashbeeja) are a classic deworming agent. Orange flowers boiled in bathing water cure summer heat rashes and prickly heat in children.",
+    "dosage_and_formulation": "Palashbeejadi Churna, Palash Kshara, Tesu flower infusion. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Seeds have mild antifertility activity; avoid if planning pregnancy.",
+    "body_systems": [
+      "Digestive (Anthelmintic)",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal"
+    ]
+  },
+  "72_Fumaria_vaillantii": {
+    "id": 72,
+    "class_name": "72_Fumaria_vaillantii",
+    "botanical_name": "Fumaria vaillantii",
+    "sanskrit_name": "Parpata",
+    "common_name_en": "Fine Leaved Fumitory",
+    "family": "Fumariaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Fine Leaved Fumitory",
+      "sanskrit": "Parpata",
+      "hindi": "Pitpapra, Parpat",
+      "regional": "Parpatakam (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Pentatriacontane",
+      "Fumarine (Protopine)",
+      "Bicuculline",
+      "Cryptopine",
+      "Fumaric acid"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light",
+      "rasa": "Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Fever",
+      "Thirst",
+      "Vertigo",
+      "Blood disorders"
+    ],
+    "symptoms": [
+      "jaundice",
+      "acid indigestion",
+      "fever",
+      "burning urination",
+      "vertigo",
+      "skin hives",
+      "blood disorders",
+      "burning fever",
+      "thirst",
+      "unquenchable thirst"
+    ],
+    "medicinal_uses": "Famous bitter cooling febrifuge. The key constituent of Shadangodaka (6-herb cooling water) used in all burning febrile illnesses to pacify toxic Pitta.",
+    "dosage_and_formulation": "Shadang Paniya, Parpatadi Kashaya, Parpata Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe and gentle cooling botanical.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Hepatic",
+      "Integumentary",
+      "Thermoregulatory (Fever)"
+    ]
+  },
+  "73_Bergenia_ligulata": {
+    "id": 73,
+    "class_name": "73_Bergenia_ligulata",
+    "botanical_name": "Bergenia ligulata",
+    "sanskrit_name": "Pashanabheda",
+    "common_name_en": "Rock Foil",
+    "family": "Saxifragaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Rock Foil",
+      "sanskrit": "Pashanabheda",
+      "hindi": "Pakhanbhed, Pashanbheda",
+      "regional": "Kondapindi (Telugu), Sirupilai (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Tannic Acid",
+      "Bergenin",
+      "Afzelechin",
+      "Catechin",
+      "Gallic acid",
+      "Tannins"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous, Sharp",
+      "rasa": "Astringent, Bitter",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Kidney stones",
+      "Heart disease",
+      "Dysuria",
+      "Diabetes"
+    ],
+    "symptoms": [
+      "diabetes",
+      "kidney stones",
+      "flank pain",
+      "urinary burning",
+      "urinary crystals",
+      "kidney stone pain",
+      "dysuria",
+      "heart disease",
+      "blood in urine"
+    ],
+    "medicinal_uses": "Name literally means 'Stone Breaker' (Pashana = Stone, Bheda = to shatter). Bergenin dissolves calcium oxalate crystals and facilitates expulsion of renal calculi.",
+    "dosage_and_formulation": "Pashanabhedadi Kwatha, Ashmarihara Kashaya, Cystone ingredient (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Ensure high hydration while clearing shattered calculi.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Endocrine / Metabolism",
+      "Urinary / Kidney",
+      "Urinary System (Kidneys)"
+    ]
+  },
+  "74_Stereospermum_suaveolens": {
+    "id": 74,
+    "class_name": "74_Stereospermum_suaveolens",
+    "botanical_name": "Stereospermum suaveolens",
+    "sanskrit_name": "Patala",
+    "common_name_en": "Rose Flower Fragrant",
+    "family": "Bignoniaceae",
+    "habit": "Tree (60ft)",
+    "common_names": {
+      "english": "Rose Flower Fragrant",
+      "sanskrit": "Patala",
+      "hindi": "Padhal, Patala",
+      "regional": "Kaligottu (Telugu), Padari (Tamil)"
+    },
+    "parts_used": [
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "Gum",
+      "Stereochenol",
+      "Lapachol",
+      "Scutellarein",
+      "Beta-sitosterol"
+    ],
+    "dosage": "50-100 ml",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Tridosha balance",
+      "Anorexia",
+      "Asthma",
+      "Edema",
+      "Vomiting"
+    ],
+    "symptoms": [
+      "persistent hiccups",
+      "burning thirst",
+      "anorexia",
+      "shortness of breath",
+      "fluid retention",
+      "tridosha balance",
+      "feverishness",
+      "asthma",
+      "vomiting",
+      "edema"
+    ],
+    "medicinal_uses": "Major root of the Dashamoola group. Soothes thoracic spasms, relieves intractable hiccups, calms aggravated Vata, and eliminates inflammatory edema.",
+    "dosage_and_formulation": "Dashamoolarishta, Pataladi Kwatha, Chyawanprash. Prescribed Dosage: 50-100 ml.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Digestive System",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "75_Piper_longum": {
+    "id": 75,
+    "class_name": "75_Piper_longum",
+    "botanical_name": "Piper longum",
+    "sanskrit_name": "Pippali",
+    "common_name_en": "Long Pepper",
+    "family": "Piperaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Long Pepper",
+      "sanskrit": "Pippali",
+      "hindi": "Pippali, Pipli",
+      "regional": "Pippallu (Telugu), Thippili (Tamil)"
+    },
+    "parts_used": [
+      "Fruit",
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Piperine",
+      "Volatile Oil",
+      "Piperlongumine",
+      "Piperlonguminine",
+      "Sylvatine"
+    ],
+    "dosage": "0.5-1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous, Sharp",
+      "rasa": "Pungent",
+      "virya": "Warm (Anushna)",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Asthma",
+      "Cough",
+      "Skin diseases",
+      "Piles",
+      "Aphrodisiac",
+      "Intellect"
+    ],
+    "symptoms": [
+      "cough",
+      "breathlessness",
+      "recurrent infections",
+      "sluggish spleen",
+      "aphrodisiac",
+      "skin diseases",
+      "intellect",
+      "weak digestion",
+      "cold sensitivity",
+      "chronic cough",
+      "piles",
+      "asthma"
+    ],
+    "medicinal_uses": "Premier respiratory rejuvenator and digestive bio-enhancer. The classical 'Vardhamana Pippali' regimen reboots immunological resilience and cures chronic allergies.",
+    "dosage_and_formulation": "Trikatu Churna, Sitopaladi Churna, Pippalyasava, Talisadi Churna (0.5 to 1.5 g). Prescribed Dosage: 0.5-1 gm.",
+    "precautions": "Avoid continuous megadoses without milk or ghee due to heating potency.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Immune System",
+      "Integumentary",
+      "Nervous System",
+      "Respiratory System"
+    ]
+  },
+  "76_Uraria_picta": {
+    "id": 76,
+    "class_name": "76_Uraria_picta",
+    "botanical_name": "Uraria picta",
+    "sanskrit_name": "Prishniparni",
+    "common_name_en": "Uraria",
+    "family": "Fabaceae",
+    "habit": "Shrub (4ft)",
+    "common_names": {
+      "english": "Uraria",
+      "sanskrit": "Prishniparni",
+      "hindi": "Pithvan, Dabra",
+      "regional": "Kolakuponna (Telugu), Sitrilaipadi (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "-",
+      "Isoflavanones",
+      "Pterocarpans",
+      "Flavonoids",
+      "Sterols"
+    ],
+    "dosage": "50-100 ml",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Absorbent",
+      "Vata disorders",
+      "Aphrodisiac",
+      "Fever",
+      "Thirst"
+    ],
+    "symptoms": [
+      "debility",
+      "vata disorders",
+      "aphrodisiac",
+      "fever",
+      "bone fractures",
+      "internal bleeding",
+      "delayed union of bones",
+      "cardiac arrhythmia",
+      "thirst",
+      "absorbent"
+    ],
+    "medicinal_uses": "Renowned 'Sandhaniya' (tissue and bone reunion) herb. Accelerates callus formation in broken bones, strengthens the heart muscle, and stops bleeding.",
+    "dosage_and_formulation": "Dashamoolarishta, Prishniparnyadi Kashaya, Angamardaprashamana Kwatha. Prescribed Dosage: 50-100 ml.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Cardiovascular",
+      "Endocrine / Metabolism",
+      "Musculoskeletal (Bones)"
+    ]
+  },
+  "77_Boerhavia_diffusa": {
+    "id": 77,
+    "class_name": "77_Boerhavia_diffusa",
+    "botanical_name": "Boerhavia diffusa",
+    "sanskrit_name": "Punarnava",
+    "common_name_en": "Spreading Hogweed",
+    "family": "Nyctaginaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Spreading Hogweed",
+      "sanskrit": "Punarnava",
+      "hindi": "Punarnava, Gadapurna",
+      "regional": "Atakamamidi (Telugu), Mukkarattai (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Potassium Nitrate",
+      "Sulphate",
+      "Punarnavine",
+      "Boeravinones (A through J)",
+      "Rotenoids",
+      "Liriodendrin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Sweet, Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Balances all doshas)"
+    },
+    "therapeutic_indications": [
+      "Diuretic",
+      "Blood builder",
+      "Abdominal diseases",
+      "Edema",
+      "Anemia"
+    ],
+    "symptoms": [
+      "puffy eyes",
+      "swollen feet/ankles",
+      "diuretic",
+      "scanty urination",
+      "blood builder",
+      "anemia",
+      "abdominal diseases",
+      "high serum creatinine",
+      "liver swelling",
+      "water retention",
+      "edema"
+    ],
+    "medicinal_uses": "Named 'Punarnava' (that which renews the body again and again). Legendary diuretic and nephroprotective herb that regenerates damaged nephrons and clears edema.",
+    "dosage_and_formulation": "Punarnavarishta, Punarnavadi Mandur, Punarnavadi Kashaya, Punarnava Churna (3-6 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Extremely safe; safe for prolonged therapeutic administration in kidney wellness.",
+    "body_systems": [
+      "Cardiovascular",
+      "Cardiovascular System",
+      "Hepatic",
+      "Urinary / Kidney",
+      "Urinary System (Kidneys)"
+    ]
+  },
+  "78_Inula_racemosa": {
+    "id": 78,
+    "class_name": "78_Inula_racemosa",
+    "botanical_name": "Inula racemosa",
+    "sanskrit_name": "Pushkaramula",
+    "common_name_en": "Elecampane",
+    "family": "Compositae",
+    "habit": "Shrub (5ft)",
+    "common_names": {
+      "english": "Elecampane",
+      "sanskrit": "Pushkaramula",
+      "hindi": "Pushkarmool, Pokharmool",
+      "regional": "Pushkaramoolam (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Inulin",
+      "Alantolactone",
+      "Isoalantolactone",
+      "Inunolide",
+      "Dihydralantolactone"
+    ],
+    "dosage": "1 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp",
+      "rasa": "Bitter, Pungent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Hiccough",
+      "Cough",
+      "Asthma",
+      "Anorexia",
+      "Chest pain"
+    ],
+    "symptoms": [
+      "chest pain",
+      "cough",
+      "wheezing breathlessness",
+      "ribcage pain",
+      "anorexia",
+      "hiccough",
+      "angina tightness",
+      "cardiac fatigue",
+      "chest pain on exertion",
+      "asthma"
+    ],
+    "medicinal_uses": "The supreme herbal anti-anginal and cardioprotective agent in Ayurveda. Dilates coronary arteries, prevents ischemic spasms, and relieves dyspnea.",
+    "dosage_and_formulation": "Pushkarmooladi Churna, Prabhakar Vati, Hridyadi Kashaya (1-3 g). Prescribed Dosage: 1 gm.",
+    "precautions": "Use caution in hypotension; regularly monitor cardiovascular parameters.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "79_Pluchea_lanceolata": {
+    "id": 79,
+    "class_name": "79_Pluchea_lanceolata",
+    "botanical_name": "Pluchea lanceolata",
+    "sanskrit_name": "Rasna",
+    "common_name_en": "Pluchea",
+    "family": "Compositae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Pluchea",
+      "sanskrit": "Rasna",
+      "hindi": "Rasna, Rayasan",
+      "regional": "Rasna (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Leaf"
+    ],
+    "active_phytochemicals": [
+      "Quercetin",
+      "Pluchine",
+      "Moretenol",
+      "Taraxasterol",
+      "Isorhamnetin"
+    ],
+    "dosage": "100 ml (Decoction)",
+    "ayurvedic_properties": {
+      "guna": "Heavy",
+      "rasa": "Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Abdominal diseases",
+      "Vata disorders",
+      "Rheumatism",
+      "Swelling"
+    ],
+    "symptoms": [
+      "vata disorders",
+      "morning joint stiffness",
+      "abdominal diseases",
+      "severe joint inflammation",
+      "sciatica nerve pain",
+      "lower back stiffness",
+      "rheumatism",
+      "swelling",
+      "knee pain"
+    ],
+    "medicinal_uses": "Celebrated in classical texts as the 'Queen of anti-arthritic botanicals'. Neutralizes inflammatory prostaglandins and relieves debilitating musculoskeletal pain.",
+    "dosage_and_formulation": "Maharasnadi Kwatha, Rasnadi Guggulu, Rasna Saptaka Kashaya (3-6 g). Prescribed Dosage: 100 ml (Decoction).",
+    "precautions": "Safe; best consumed warm with a little castor oil or ginger water in severe Vata.",
+    "body_systems": [
+      "Musculoskeletal",
+      "Musculoskeletal (Joints)",
+      "Nervous System"
+    ]
+  },
+  "7_Cassia_fistula": {
+    "id": 7,
+    "class_name": "7_Cassia_fistula",
+    "botanical_name": "Cassia fistula",
+    "sanskrit_name": "Aragvadha",
+    "common_name_en": "Purging Nut / Golden Shower",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Purging Nut / Golden Shower",
+      "sanskrit": "Aragvadha",
+      "hindi": "Amaltas",
+      "regional": "Rela (Telugu), Konrai (Tamil)"
+    },
+    "parts_used": [
+      "Fruit Pulp"
+    ],
+    "active_phytochemicals": [
+      "Sugar",
+      "Pectine",
+      "Gluten",
+      "Sennosides A & B",
+      "Rhein",
+      "Fistucacidin",
+      "Anthraquinones"
+    ],
+    "dosage": "5-10 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Soft, Unctuous",
+      "rasa": "Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Pacifies Pitta and Kapha)"
+    },
+    "therapeutic_indications": [
+      "Fever",
+      "Heart disease",
+      "Bleeding disorders",
+      "Bloating",
+      "Constipation",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "constipation",
+      "skin rashes",
+      "skin diseases",
+      "fever",
+      "sluggish bowels",
+      "chronic hard stools",
+      "acid indigestion",
+      "bloating",
+      "bleeding disorders",
+      "gouty joint pain",
+      "heart disease"
+    ],
+    "medicinal_uses": "Named 'Aragvadha' (disease killer). Considered the gentlest and safest laxative (Mridu Virechana), completely safe even for children, elders, and expectant mothers.",
+    "dosage_and_formulation": "Aragvadhadi Kashaya, Aragvadharishta, Fruit pulp (5-10 g with warm water). Prescribed Dosage: 5-10 gm.",
+    "precautions": "Very safe; adjusts natural bowel movement smoothly.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Digestive System (Bowel)",
+      "Integumentary"
+    ]
+  },
+  "80_Barleria_prionitis": {
+    "id": 80,
+    "class_name": "80_Barleria_prionitis",
+    "botanical_name": "Barleria prionitis",
+    "sanskrit_name": "Saireyaka",
+    "common_name_en": "Porcupine Flower",
+    "family": "Acanthaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Porcupine Flower",
+      "sanskrit": "Saireyaka",
+      "hindi": "Katsareya, Vajradanti",
+      "regional": "Mullugoranta (Telugu), Semmulli (Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "-",
+      "Barlerin",
+      "Pipataline",
+      "Prionisides A & B",
+      "Luteolin",
+      "Scutellarein"
+    ],
+    "dosage": "10-20 ml",
+    "ayurvedic_properties": {
+      "guna": "Light",
+      "rasa": "Bitter, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Poison",
+      "Graying of hair",
+      "Skin diseases",
+      "Gout",
+      "Itching"
+    ],
+    "symptoms": [
+      "graying of hair",
+      "poison",
+      "toothache",
+      "itching",
+      "skin diseases",
+      "sciatica shooting pain",
+      "varicose vein pain",
+      "loose teeth",
+      "bleeding gums",
+      "gout"
+    ],
+    "medicinal_uses": "Renowned as 'Vajradanti' (rendering teeth diamond-strong). Leaf juice arrests tooth decay and gum infections while root oil relieves severe lower back and leg sciatica.",
+    "dosage_and_formulation": "Sahacharadi Taila (supreme for sciatica/varicose veins), Vajradanti tooth powder. Prescribed Dosage: 10-20 ml.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Integumentary",
+      "Musculoskeletal",
+      "Musculoskeletal (Spine & Nerves)",
+      "Oral & Dental Health"
+    ]
+  },
+  "81_Hemidesmus_indicus": {
+    "id": 81,
+    "class_name": "81_Hemidesmus_indicus",
+    "botanical_name": "Hemidesmus indicus",
+    "sanskrit_name": "Sariva (Shweta)",
+    "common_name_en": "Indian Sarsaparilla",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Indian Sarsaparilla",
+      "sanskrit": "Sariva (Shweta)",
+      "hindi": "Anantamool, Sariva",
+      "regional": "Sugandhapala (Telugu), Nannari (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Methoxy Salicylic Aldehyde",
+      "2-Hydroxy-4-methoxybenzaldehyde",
+      "Hemidesmin",
+      "Lupanone",
+      "Resin acids",
+      "Saponins"
+    ],
+    "dosage": "5-10 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Premier Pitta pacifier)"
+    },
+    "therapeutic_indications": [
+      "Spermogenic",
+      "Anorexia",
+      "Asthma",
+      "Blood purifier",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "skin redness",
+      "anorexia",
+      "skin diseases",
+      "spermogenic",
+      "burning urination",
+      "excessive thirst",
+      "dark spots",
+      "joint burning",
+      "acne",
+      "blood purifier",
+      "asthma",
+      "body heat"
+    ],
+    "medicinal_uses": "Famous aromatic 'Nannari' root. Outstanding Pitta-cooling blood cleanser, protects kidneys from toxins, and produces a fragrant, glowing complexion.",
+    "dosage_and_formulation": "Sarivadyasava, Nannari Sharbat, Sarivadi Vati, Maha Manjishtadi Kashaya (3-6 g). Prescribed Dosage: 5-10 gm.",
+    "precautions": "Completely safe and refreshing.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Digestive System",
+      "Integumentary",
+      "Respiratory System",
+      "Urinary System"
+    ]
+  },
+  "82_Cryptolepis_buchanani": {
+    "id": 82,
+    "class_name": "82_Cryptolepis_buchanani",
+    "botanical_name": "Cryptolepis buchanani",
+    "sanskrit_name": "Sariva (Krishna)",
+    "common_name_en": "Black Sariva",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Black Sariva",
+      "sanskrit": "Sariva (Krishna)",
+      "hindi": "Karanta, Krishna Sariva",
+      "regional": "Adavipalatiga (Telugu), Karunsariva (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Salicylic Aldehyde",
+      "Cryptolepine",
+      "Buchananine",
+      "Quindoline",
+      "Cryptolepicarboline"
+    ],
+    "dosage": "5-10 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Pitta and Vata"
+    },
+    "therapeutic_indications": [
+      "Spermogenic",
+      "Anorexia",
+      "Asthma",
+      "Blood purifier",
+      "Poison"
+    ],
+    "symptoms": [
+      "poison",
+      "skin ulcers",
+      "boils",
+      "joint heat",
+      "low breastmilk supply",
+      "anorexia",
+      "spermogenic",
+      "blood purifier",
+      "feverishness",
+      "asthma"
+    ],
+    "medicinal_uses": "Complementary species to Hemidesmus indicus. Purifies deep dhatus, supports milk production in nursing mothers, and neutralizes systemic inflammation.",
+    "dosage_and_formulation": "Sarivadi Kashaya, Krishna Sarivadi Kwatha (3-5 g). Prescribed Dosage: 5-10 gm.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory System",
+      "Digestive System",
+      "Reproductive (Lactation)",
+      "Respiratory System"
+    ]
+  },
+  "83_Rauvolfia_serpentina": {
+    "id": 83,
+    "class_name": "83_Rauvolfia_serpentina",
+    "botanical_name": "Rauvolfia serpentina",
+    "sanskrit_name": "Sarpagandha",
+    "common_name_en": "Indian Snakeroot",
+    "family": "Apocynaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Indian Snakeroot",
+      "sanskrit": "Sarpagandha",
+      "hindi": "Sarpagandha, Chandrabhaga",
+      "regional": "Sarpagandhi (Telugu), Sivan Amalpodi (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Reserpine",
+      "Ajmaline",
+      "Ajmalicine",
+      "Serpentine",
+      "Rescinnamine"
+    ],
+    "dosage": "1-2 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry",
+      "rasa": "Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Vata and Kapha"
+    },
+    "therapeutic_indications": [
+      "Sedative",
+      "Hypertension",
+      "Insomnia",
+      "Epilepsy",
+      "Mental disorders"
+    ],
+    "symptoms": [
+      "sedative",
+      "severe anxiety",
+      "violent agitation",
+      "sleeplessness",
+      "high blood pressure",
+      "palpitations",
+      "mental disorders",
+      "hypertension",
+      "panic state",
+      "epilepsy",
+      "insomnia"
+    ],
+    "medicinal_uses": "World-famous historical source of Reserpine. Depletes peripheral sympathetic norepinephrine stores, calming violent psychotic agitation and bringing down dangerously elevated blood pressure.",
+    "dosage_and_formulation": "Sarpagandha Vati, Sarpagandhadi Churna (250 to 500 mg root powder). Prescribed Dosage: 1-2 gm.",
+    "precautions": "POTENT PHARMACOLOGICAL HERB. Contraindicated in clinical depression, peptic ulcers, and bradycardia. MEDICAL MONITORING MANDATORY.",
+    "body_systems": [
+      "Cardiovascular (Blood Pressure)",
+      "Cardiovascular System",
+      "Nervous System",
+      "Nervous System (Psychiatry)"
+    ]
+  },
+  "84_Desmodium_gangeticum": {
+    "id": 84,
+    "class_name": "84_Desmodium_gangeticum",
+    "botanical_name": "Desmodium gangeticum",
+    "sanskrit_name": "Shalaparni",
+    "common_name_en": "Shal Leaf",
+    "family": "Leguminosae",
+    "habit": "Shrub (4ft)",
+    "common_names": {
+      "english": "Shal Leaf",
+      "sanskrit": "Shalaparni",
+      "hindi": "Sarivan, Shalparni",
+      "regional": "Gitanaram (Telugu), Orilai (Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Resin",
+      "Gangetinin",
+      "Desmodin",
+      "Desmocarpin",
+      "Pterocarpanoids"
+    ],
+    "dosage": "50-100 ml",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Vomiting",
+      "Fever",
+      "Asthma",
+      "Diarrhea",
+      "Rejuvenative"
+    ],
+    "symptoms": [
+      "body ache",
+      "loose stools",
+      "exhaustion after illness",
+      "fever",
+      "diarrhea",
+      "cardiac fatigue",
+      "edema",
+      "asthma",
+      "vomiting",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Crucial Dashamoola root. Renowned cardiac tonic (Hridya) and Rasayana that relieves Angamarda (generalized muscle and body aches) and stabilizes myocardial contractions.",
+    "dosage_and_formulation": "Dashamoolarishta, Shalaparnyadi Kwatha, Rasnadi Kwatha. Prescribed Dosage: 50-100 ml.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Cardiovascular",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "85_Boswellia_serrata": {
+    "id": 85,
+    "class_name": "85_Boswellia_serrata",
+    "botanical_name": "Boswellia serrata",
+    "sanskrit_name": "Shallaki",
+    "common_name_en": "Indian Frankincense",
+    "family": "Burseraceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Indian Frankincense",
+      "sanskrit": "Shallaki",
+      "hindi": "Salai, Shallaki",
+      "regional": "Anduga (Telugu), Parangisambrani (Tamil)"
+    },
+    "parts_used": [
+      "Resin (Exudate)"
+    ],
+    "active_phytochemicals": [
+      "Oleo-gum Resin",
+      "Boswellia Oil",
+      "Acetyl-11-keto-beta-boswellic acid (AKBA)",
+      "Beta-boswellic acid",
+      "Alpha-boswellic acid",
+      "Incensole"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent, Bitter, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Diarrhea",
+      "Bleeding disorders",
+      "Ulcers",
+      "Piles"
+    ],
+    "symptoms": [
+      "joint swelling",
+      "inflammatory colitis",
+      "morning joint stiffness",
+      "knee cartilage wear",
+      "ulcers",
+      "diarrhea",
+      "chronic gut pain",
+      "bleeding disorders",
+      "piles"
+    ],
+    "medicinal_uses": "World benchmark natural 5-LOX (5-lipoxygenase) inhibitor. AKBA halts leukotriene synthesis, protecting joint cartilage from enzymatic breakdown and easing colitis.",
+    "dosage_and_formulation": "Shallaki tablets/capsules (500-1000 mg), Shallaki Guggulu, Shallaki Taila. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Remarkably gentle on stomach compared to synthetic NSAIDs.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Digestive System (IBD)",
+      "Integumentary",
+      "Musculoskeletal (Cartilage)"
+    ]
+  },
+  "86_Bombax_ceiba": {
+    "id": 86,
+    "class_name": "86_Bombax_ceiba",
+    "botanical_name": "Bombax ceiba",
+    "sanskrit_name": "Shalmali",
+    "common_name_en": "Silk Cotton Tree",
+    "family": "Bombacaceae",
+    "habit": "Tree (125ft)",
+    "common_names": {
+      "english": "Silk Cotton Tree",
+      "sanskrit": "Shalmali",
+      "hindi": "Semal, Shalmali",
+      "regional": "Buruga (Telugu), Ilavu (Tamil)"
+    },
+    "parts_used": [
+      "Root",
+      "Flower",
+      "Fruit",
+      "Gum"
+    ],
+    "active_phytochemicals": [
+      "Tannic Acid",
+      "Gallic Acid",
+      "Lupeol",
+      "Beta-sitosterol",
+      "Shamimin",
+      "Mangiferin",
+      "Tannins"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous, Slimy",
+      "rasa": "Sweet",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Pitta and Vata"
+    },
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Bleeding disorders",
+      "Aphrodisiac",
+      "Acne"
+    ],
+    "symptoms": [
+      "facial pimples",
+      "heavy period bleeding",
+      "aphrodisiac",
+      "chronic dysentery",
+      "bleeding piles",
+      "seminal weakness",
+      "acne",
+      "bleeding disorders",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "The gum 'Mocharasa' is a renowned astringent that arrests severe internal hemorrhage and dysenteric flux. Stem thorns ground into paste cure stubborn facial acne.",
+    "dosage_and_formulation": "Mocharasa Churna (1-3 g), Pushyanuga Churna, Shalmali Ghrita. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe; astringent properties may mildly firm stools.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Circulatory (Hemostasis)",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Reproductive"
+    ]
+  },
+  "87_Convolvulus_pluricaulis": {
+    "id": 87,
+    "class_name": "87_Convolvulus_pluricaulis",
+    "botanical_name": "Convolvulus pluricaulis",
+    "sanskrit_name": "Shankhapushpi",
+    "common_name_en": "Morning Glory",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Morning Glory",
+      "sanskrit": "Shankhapushpi",
+      "hindi": "Shankhpushpi",
+      "regional": "Shankhapushpi (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Whole Plant"
+    ],
+    "active_phytochemicals": [
+      "Shankhapushpine",
+      "Convolamine",
+      "Convoline",
+      "Scopoletin",
+      "Beta-sitosterol",
+      "Flavonoids"
+    ],
+    "dosage": "10-20 ml",
+    "ayurvedic_properties": {
+      "guna": "Unctuous, Slimy",
+      "rasa": "Bitter",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Tridoshahara (Balances all three doshas)"
+    },
+    "therapeutic_indications": [
+      "Intellect promoter",
+      "Aphrodisiac",
+      "Epilepsy",
+      "Memory",
+      "Skin diseases"
+    ],
+    "symptoms": [
+      "poor memory",
+      "racing thoughts",
+      "sleeplessness",
+      "aphrodisiac",
+      "skin diseases",
+      "memory",
+      "high blood pressure",
+      "intellect promoter",
+      "mental fatigue",
+      "epilepsy",
+      "exam tension",
+      "ADHD"
+    ],
+    "medicinal_uses": "Supreme Medhya Rasayana (brain and nervous tonic). Promotes neurogenesis, reduces anxiety and brain fatigue, and stabilizes cognitive function.",
+    "dosage_and_formulation": "Shankhpushpi Syrup, Saraswatarishta, Medhya Rasayana, Shankhapushpi Churna (3-6 g). Prescribed Dosage: 10-20 ml.",
+    "precautions": "Completely non-toxic; safe for children and adults.",
+    "body_systems": [
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Nervous System",
+      "Nervous System (Brain & Mind)"
+    ]
+  },
+  "88_Asparagus_racemosus": {
+    "id": 88,
+    "class_name": "88_Asparagus_racemosus",
+    "botanical_name": "Asparagus racemosus",
+    "sanskrit_name": "Shatavari",
+    "common_name_en": "Wild Asparagus",
+    "family": "Liliaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Wild Asparagus",
+      "sanskrit": "Shatavari",
+      "hindi": "Shatavari, Satavar",
+      "regional": "Pilliteagalu (Telugu), Thaneervitan (Tamil)"
+    },
+    "parts_used": [
+      "Tuber"
+    ],
+    "active_phytochemicals": [
+      "Saponin",
+      "Shatavarins (I through IV)",
+      "Sarsasapogenin",
+      "Diosgenin",
+      "Asparagamine A",
+      "Isoflavones"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Bitter",
+      "virya": "Cold",
+      "vipaka": "Sweet",
+      "dosha_karma": "Pacifies Vata and Pitta"
+    },
+    "therapeutic_indications": [
+      "Rejuvenative",
+      "Galactagogue",
+      "Aphrodisiac",
+      "Eye tonic"
+    ],
+    "symptoms": [
+      "fatigue",
+      "aphrodisiac",
+      "acid reflux",
+      "stomach ulcer pain",
+      "irregular menses",
+      "hot flashes",
+      "galactagogue",
+      "infertility",
+      "insufficient breastmilk",
+      "eye tonic",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Named 'Shatavari' (she who possesses a hundred husbands). Supreme female reproductive rasayana, potent galactagogue, and mucosal soother for gastric ulcers.",
+    "dosage_and_formulation": "Shatavari Gulam, Shatavari Ghrita, Shatavari Churna (3-6 g with warm milk). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Caution in estrogen-dependent conditions; otherwise remarkably nourishing.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine",
+      "Endocrine / Metabolism",
+      "Reproductive System (Gynecology)"
+    ]
+  },
+  "89_Moringa_oleifera": {
+    "id": 89,
+    "class_name": "89_Moringa_oleifera",
+    "botanical_name": "Moringa oleifera",
+    "sanskrit_name": "Shigru",
+    "common_name_en": "Drumstick Tree",
+    "family": "Moringaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Drumstick Tree",
+      "sanskrit": "Shigru",
+      "hindi": "Sahjan, Shigru",
+      "regional": "Munaga (Telugu), Murungai (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Bark"
+    ],
+    "active_phytochemicals": [
+      "Moringine",
+      "Pterygospermine",
+      "Isothiocyanates",
+      "Pterygospermin",
+      "Quercetin",
+      "Chlorogenic acid",
+      "Vitamins A, C, E"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Eye tonic",
+      "Edema",
+      "Worms",
+      "Obesity"
+    ],
+    "symptoms": [
+      "fatigue",
+      "worms",
+      "knee pain",
+      "high cholesterol",
+      "water retention",
+      "malnutrition",
+      "digestive",
+      "obesity",
+      "iron deficiency",
+      "joint inflammation",
+      "eye tonic",
+      "edema"
+    ],
+    "medicinal_uses": "Global superfood and deep-tissue anti-inflammatory. Leaves provide bioavailable vitamins, calcium, and iron while seeds purify water and combat systemic inflammation.",
+    "dosage_and_formulation": "Shigru Guggulu, Moringa leaf powder (3-6 g), Shigru Taila. Prescribed Dosage: 1-3 gm.",
+    "precautions": "Root bark contains alkaloids that can cause uterine contractions; avoid root bark during pregnancy.",
+    "body_systems": [
+      "Circulatory System",
+      "Digestive System",
+      "Endocrine / Metabolism",
+      "Musculoskeletal",
+      "Nutritional Vitality"
+    ]
+  },
+  "8_Zingiber_officinale": {
+    "id": 8,
+    "class_name": "8_Zingiber_officinale",
+    "botanical_name": "Zingiber officinale",
+    "sanskrit_name": "Ardraka / Shunthi",
+    "common_name_en": "Ginger (Fresh/Dry)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Ginger (Fresh/Dry)",
+      "sanskrit": "Ardraka / Shunthi",
+      "hindi": "Adrak (Fresh), Saunth (Dried)",
+      "regional": "Allam (Fresh - Telugu), Inji (Tamil)"
+    },
+    "parts_used": [
+      "Rhizome"
+    ],
+    "active_phytochemicals": [
+      "Gingerol",
+      "Gingerols (6-gingerol)",
+      "Shogaols (in dried ginger)",
+      "Zingiberene",
+      "Bisabolene",
+      "Curcumene"
+    ],
+    "dosage": "1-2 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous (Dry); Heavy, Dry, Sharp (Fresh)",
+      "rasa": "Pungent",
+      "virya": "Hot",
+      "vipaka": "Sweet (Dry); Pungent (Fresh)",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Low digestion",
+      "Throat disorders",
+      "Leprosy",
+      "Anemia",
+      "Asthma",
+      "Cough"
+    ],
+    "symptoms": [
+      "nausea",
+      "sore throat",
+      "cough",
+      "leprosy",
+      "motion sickness",
+      "cold chills",
+      "throat disorders",
+      "anemia",
+      "low digestion",
+      "stomach gas",
+      "bloating",
+      "joint pain",
+      "asthma",
+      "vomiting"
+    ],
+    "medicinal_uses": "Celebrated in classical Sanskrit texts as 'Vishwabheshaja' (The Universal Remedy). Dried Shunthi acts as an outstanding anti-inflammatory, digestive kindler, and motion sickness inhibitor.",
+    "dosage_and_formulation": "Saubhagya Shunthi Paka, Trikatu Churna, Shunthi Churna (1-3 g with honey or warm water). Prescribed Dosage: 1-2 gm.",
+    "precautions": "Caution with fresh ginger in severe bleeding ulcers or active gallstones.",
+    "body_systems": [
+      "Digestive System",
+      "Integumentary",
+      "Musculoskeletal",
+      "Respiratory System"
+    ]
+  },
+  "90_Albizia_lebbeck": {
+    "id": 90,
+    "class_name": "90_Albizia_lebbeck",
+    "botanical_name": "Albizia lebbeck",
+    "sanskrit_name": "Shirisha",
+    "common_name_en": "Lebbeck Tree",
+    "family": "Mimosaceae",
+    "habit": "Tree",
+    "common_names": {
+      "english": "Lebbeck Tree",
+      "sanskrit": "Shirisha",
+      "hindi": "Siris",
+      "regional": "Dirisena (Telugu), Vaagai (Tamil)"
+    },
+    "parts_used": [
+      "Bark",
+      "Leaf",
+      "Seed",
+      "Flower"
+    ],
+    "active_phytochemicals": [
+      "Tannin",
+      "Saponin",
+      "Lebbekanin A & B",
+      "Melanoxetin",
+      "Oleanolic acid saponins",
+      "Flavonoids"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Astringent, Bitter, Sweet",
+      "virya": "Warm",
+      "vipaka": "Pungent",
+      "dosha_karma": "Tridoshahara"
+    },
+    "therapeutic_indications": [
+      "Anti-poison",
+      "Skin diseases",
+      "Erysipelas",
+      "Cough"
+    ],
+    "symptoms": [
+      "cough",
+      "skin diseases",
+      "seasonal hay fever",
+      "toxic bite swellings",
+      "anti-poison",
+      "skin urticaria",
+      "allergic sneezing",
+      "erysipelas",
+      "allergic cough"
+    ],
+    "medicinal_uses": "The supreme anti-allergic and anti-histaminic botanical (Vishaghna). Stabilizes mast cells, prevents histamine release, and halts seasonal allergy flares.",
+    "dosage_and_formulation": "Shirishadi Kwatha, Shirisharishta, Shirisha Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Immune System (Anti-allergic)",
+      "Integumentary",
+      "Respiratory System"
+    ]
+  },
+  "91_Oroxylum_indicum": {
+    "id": 91,
+    "class_name": "91_Oroxylum_indicum",
+    "botanical_name": "Oroxylum indicum",
+    "sanskrit_name": "Shyonaka",
+    "common_name_en": "Indian Trumpet Flower",
+    "family": "Bignoniaceae",
+    "habit": "Tree (40ft)",
+    "common_names": {
+      "english": "Indian Trumpet Flower",
+      "sanskrit": "Shyonaka",
+      "hindi": "Arlu, Shyonak",
+      "regional": "Dundilamu (Telugu), Vangamaram (Tamil)"
+    },
+    "parts_used": [
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "Oroxylin",
+      "Baicalein",
+      "Chrysin",
+      "Oroxylin A",
+      "Tetuin",
+      "Scutellarein"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Sweet, Bitter, Astringent",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Digestive",
+      "Absorbent",
+      "Edema",
+      "Diarrhea",
+      "Earache"
+    ],
+    "symptoms": [
+      "cough",
+      "loose motions",
+      "stomach burning",
+      "earache",
+      "absorbent",
+      "digestive",
+      "diarrhea",
+      "morning stiffness",
+      "joint inflammation",
+      "edema"
+    ],
+    "medicinal_uses": "Great root of Dashamoola. Baicalein and chrysin constituents impart exceptional anti-inflammatory, cytoprotective, and anti-diarrheal efficacy.",
+    "dosage_and_formulation": "Dashamoolarishta, Shyonaka Patra Kwatha, Chyawanprash constituent. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe.",
+    "body_systems": [
+      "Digestive System",
+      "Musculoskeletal"
+    ]
+  },
+  "93_Sesamum_indicum": {
+    "id": 93,
+    "class_name": "93_Sesamum_indicum",
+    "botanical_name": "Sesamum indicum",
+    "sanskrit_name": "Tila",
+    "common_name_en": "Sesame",
+    "family": "Pedaliaceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Sesame",
+      "sanskrit": "Tila",
+      "hindi": "Til, Tila",
+      "regional": "Nuvvulu (Telugu), Ellu (Tamil)"
+    },
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ],
+    "active_phytochemicals": [
+      "Vitamins",
+      "Calcium",
+      "Fat",
+      "Sesamin",
+      "Sesamolin",
+      "Sesamol",
+      "Linoleic acid",
+      "Oleic acid"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Heavy, Unctuous",
+      "rasa": "Sweet, Astringent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Sweet",
+      "dosha_karma": "Param Vatahara (Supreme Vata pacifier)"
+    },
+    "therapeutic_indications": [
+      "Strength",
+      "Hair tonic",
+      "Teeth",
+      "Laxative",
+      "Wound healing"
+    ],
+    "symptoms": [
+      "dental plaque",
+      "laxative",
+      "cracking joints",
+      "constipation",
+      "strength",
+      "bone weakness",
+      "dry skin",
+      "hair tonic",
+      "wound healing",
+      "teeth",
+      "nerve pain"
+    ],
+    "medicinal_uses": "The foundational base for nearly all medicated Ayurvedic oils (Taila). Rich in bioavailable calcium, deeply penetrates tissue layers (Sukshma), and nourishes bones.",
+    "dosage_and_formulation": "Mahanarayan Taila, Ksheerabala Taila base, Til Churna (5-10 g with jaggery). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Heating nature; avoid excessive consumption in hot summer if prone to bleeding piles.",
+    "body_systems": [
+      "Dental (Oral)",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal (Bones)"
+    ]
+  },
+  "94_Operculina_turpethum": {
+    "id": 94,
+    "class_name": "94_Operculina_turpethum",
+    "botanical_name": "Operculina turpethum",
+    "sanskrit_name": "Trivrit",
+    "common_name_en": "Indian Jalap",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "common_names": {
+      "english": "Indian Jalap",
+      "sanskrit": "Trivrit",
+      "hindi": "Nisoth, Trivrit",
+      "regional": "Tegada (Telugu), Sivadai (Tamil)"
+    },
+    "parts_used": [
+      "Root Bark"
+    ],
+    "active_phytochemicals": [
+      "Turpethin",
+      "Jalapin",
+      "Operculinic acids",
+      "Resins"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Purgative",
+      "Fever",
+      "Edema",
+      "Abdominal diseases",
+      "Jaundice"
+    ],
+    "symptoms": [
+      "jaundice",
+      "liver congestion",
+      "purgative",
+      "severe constipation",
+      "fever",
+      "abdominal diseases",
+      "abdominal fluid buildup",
+      "gout attack",
+      "edema"
+    ],
+    "medicinal_uses": "The supreme, most dependable drug for Virechana (purgation therapy) in Panchakarma. Cleanses Pitta and Kapha without griping or circulatory depression.",
+    "dosage_and_formulation": "Avipattikar Churna (contains Trivrit as primary purgative), Trivritadi Ghrita, Trivrit Lehyam (1-3 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Black variety (Shyama Trivrit) is harsh; use only the sweet/white variety (Shweta Trivrit). Contraindicated in pregnancy and diarrhea.",
+    "body_systems": [
+      "Digestive (Panchakarma Virechana)",
+      "Digestive System"
+    ]
+  },
+  "95_Ocimum_sanctum": {
+    "id": 95,
+    "class_name": "95_Ocimum_sanctum",
+    "botanical_name": "Ocimum sanctum",
+    "sanskrit_name": "Tulasi",
+    "common_name_en": "Holy Basil",
+    "family": "Labiatae",
+    "habit": "Shrub (4ft)",
+    "common_names": {
+      "english": "Holy Basil",
+      "sanskrit": "Tulasi",
+      "hindi": "Tulsi, Krishna Tulsi",
+      "regional": "Tulasi (Telugu/Tamil)"
+    },
+    "parts_used": [
+      "Leaf",
+      "Seed",
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Ursolic Acid",
+      "Phenol",
+      "Eugenol",
+      "Ursolic acid",
+      "Rosmarinic acid",
+      "Caryophyllene",
+      "Apigenin"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Heart tonic",
+      "Skin diseases",
+      "Asthma",
+      "Cough",
+      "Viral fevers"
+    ],
+    "symptoms": [
+      "cough",
+      "headache",
+      "heart tonic",
+      "low immunity",
+      "viral fevers",
+      "skin diseases",
+      "fever",
+      "stress",
+      "wheezing",
+      "throat pain",
+      "asthma",
+      "common cold"
+    ],
+    "medicinal_uses": "Revered as the 'Incomparable One' and Queen of Herbs. Adaptogen, antimicrobial, and immunomodulator that clears respiratory congestion, soothes coughs, and protects from viral infections.",
+    "dosage_and_formulation": "Tribhuvan Kirti Ras, Tulsi Tea / Kwatha, Tulsi drops, Sitopaladi Churna accompaniment (2-5 ml fresh leaf juice). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Mild anti-fertility properties reported with high chronic seed consumption; leaves are universally safe.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Immune System",
+      "Integumentary",
+      "Respiratory System",
+      "Stress & Adaptogen"
+    ]
+  },
+  "96_Cinnamomum_zeylanicum": {
+    "id": 96,
+    "class_name": "96_Cinnamomum_zeylanicum",
+    "botanical_name": "Cinnamomum zeylanicum",
+    "sanskrit_name": "Tvaka",
+    "common_name_en": "Cinnamon",
+    "family": "Lauraceae",
+    "habit": "Tree (25ft)",
+    "common_names": {
+      "english": "Cinnamon",
+      "sanskrit": "Tvaka",
+      "hindi": "Dalchini",
+      "regional": "Dalchinachekka (Telugu), Lavangapattai (Tamil)"
+    },
+    "parts_used": [
+      "Bark",
+      "Leaf"
+    ],
+    "active_phytochemicals": [
+      "Eugenol",
+      "Cinnamaldehyde",
+      "Cinnamyl acetate",
+      "Tannins",
+      "Proanthocyanidins"
+    ],
+    "dosage": "1-3 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry, Sharp",
+      "rasa": "Pungent, Bitter, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Tasty",
+      "Aphrodisiac",
+      "Dry mouth",
+      "Thirst",
+      "Cancer"
+    ],
+    "symptoms": [
+      "sluggish digestion",
+      "bad breath",
+      "dry mouth",
+      "aphrodisiac",
+      "tasty",
+      "cancer",
+      "throat tickle",
+      "chills",
+      "insulin resistance",
+      "thirst",
+      "high blood sugar"
+    ],
+    "medicinal_uses": "Enhances insulin receptor kinase activity to lower fasting blood sugar. Warming aromatic properties dissolve chest phlegm and invigorate peripheral circulation.",
+    "dosage_and_formulation": "Sitopaladi Churna, Chaturjata Churna, Cinnamon bark infusion (1-2 g). Prescribed Dosage: 1-3 gm.",
+    "precautions": "Prefer true Ceylon cinnamon over Cassia (which contains high liver-toxic coumarin).",
+    "body_systems": [
+      "Circulatory System",
+      "Endocrine (Blood Sugar)",
+      "Endocrine / Metabolism",
+      "Respiratory System"
+    ]
+  },
+  "97_Vetiveria_zizanioides": {
+    "id": 97,
+    "class_name": "97_Vetiveria_zizanioides",
+    "botanical_name": "Vetiveria zizanioides",
+    "sanskrit_name": "Ushira",
+    "common_name_en": "Vetiver / Khus",
+    "family": "Gramineae",
+    "habit": "Grass",
+    "common_names": {
+      "english": "Vetiver / Khus",
+      "sanskrit": "Ushira",
+      "hindi": "Khas, Khus",
+      "regional": "Vattiveru (Telugu), Vettiver (Tamil)"
+    },
+    "parts_used": [
+      "Root"
+    ],
+    "active_phytochemicals": [
+      "Volatile Oil",
+      "Vetiverol",
+      "Khusimol",
+      "Vetivone",
+      "Sesquiterpenes"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Dry, Light",
+      "rasa": "Bitter, Sweet",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Pitta and Kapha"
+    },
+    "therapeutic_indications": [
+      "Burning sensation",
+      "Fever",
+      "Vomiting",
+      "Acidity",
+      "Blood disorders"
+    ],
+    "symptoms": [
+      "profuse foul sweating",
+      "heat exhaustion",
+      "fever",
+      "burning urine",
+      "sunstroke",
+      "burning sensation",
+      "blood disorders",
+      "acidity",
+      "skin prickles",
+      "unquenchable thirst",
+      "vomiting"
+    ],
+    "medicinal_uses": "The supreme natural coolant of Indian medicine. Drinking clay-pot water infused with clean Ushira roots quenches cellular thirst, stops burning micturition, and calms Pitta.",
+    "dosage_and_formulation": "Ushirasava, Shadanga Paniya constituent, Khus water, Ushiradi Taila (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Safe, refreshing, non-toxic.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Digestive System",
+      "Integumentary",
+      "Thermoregulatory (Cooling)",
+      "Urinary System"
+    ]
+  },
+  "98_Acorus_calamus": {
+    "id": 98,
+    "class_name": "98_Acorus_calamus",
+    "botanical_name": "Acorus calamus",
+    "sanskrit_name": "Vacha",
+    "common_name_en": "Sweet Flag",
+    "family": "Araceae",
+    "habit": "Shrub",
+    "common_names": {
+      "english": "Sweet Flag",
+      "sanskrit": "Vacha",
+      "hindi": "Vach, Bach",
+      "regional": "Vasa (Telugu), Vasambu (Tamil)"
+    },
+    "parts_used": [
+      "Rhizome"
+    ],
+    "active_phytochemicals": [
+      "Vitamin A",
+      "Beta-Asarone",
+      "Beta-asarone",
+      "Alpha-asarone",
+      "Acorin",
+      "Calamenol"
+    ],
+    "dosage": "125-500 mg",
+    "ayurvedic_properties": {
+      "guna": "Light, Sharp",
+      "rasa": "Pungent, Bitter",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Emetic",
+      "Colic",
+      "Bloating",
+      "Epilepsy",
+      "Worms",
+      "Speech enhancer"
+    ],
+    "symptoms": [
+      "worms",
+      "speech enhancer",
+      "delayed speech in children",
+      "sluggish mind",
+      "colic",
+      "infantile gas colic",
+      "bloating",
+      "lethargy",
+      "emetic",
+      "speech stammering",
+      "epilepsy",
+      "memory loss"
+    ],
+    "medicinal_uses": "Named 'Vacha' (that which unlocks speech). Stimulates vocal cord coordination, sharpens mental clarity, eliminates cerebral toxins, and protects infants from digestive spasms.",
+    "dosage_and_formulation": "Saraswatarishta, Brahmi Vati, Vacha Churna (125-250 mg micro-dose with honey). Prescribed Dosage: 125-500 mg.",
+    "precautions": "Emetic in large doses (>1 g). Use exclusively purified rhizome within small therapeutic micro-doses.",
+    "body_systems": [
+      "Digestive System",
+      "Nervous System",
+      "Nervous System (Speech & Mind)"
+    ]
+  },
+  "99_Dioscorea_bulbifera": {
+    "id": 99,
+    "class_name": "99_Dioscorea_bulbifera",
+    "botanical_name": "Dioscorea bulbifera",
+    "sanskrit_name": "Varahi",
+    "common_name_en": "Air Potato",
+    "family": "Dioscoreaceae",
+    "habit": "Climber",
+    "common_names": {
+      "english": "Air Potato",
+      "sanskrit": "Varahi",
+      "hindi": "Gethi, Barahikand",
+      "regional": "Neladumpa (Telugu), Kaattukayalli (Tamil)"
+    },
+    "parts_used": [
+      "Rhizome"
+    ],
+    "active_phytochemicals": [
+      "Carbohydrates",
+      "Diosgenin",
+      "Diosbulbin (A through E)",
+      "Saponins",
+      "Stigmasterol"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Unctuous",
+      "rasa": "Pungent, Bitter, Sweet",
+      "virya": "Hot",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Vata"
+    },
+    "therapeutic_indications": [
+      "Skin diseases",
+      "Diabetes",
+      "Worms",
+      "Rejuvenative"
+    ],
+    "symptoms": [
+      "worms",
+      "diabetes",
+      "low testosterone/estrogen precursors",
+      "weight loss",
+      "skin diseases",
+      "skin boils",
+      "physical weakness",
+      "rejuvenative"
+    ],
+    "medicinal_uses": "Important Rasayana tuber rich in Diosgenin (the precursor used globally in steroidal hormone synthesis). Restores vitality, builds muscle mass, and assists metabolic control.",
+    "dosage_and_formulation": "Varahikand Churna (3-6 g with milk), Chyawanprash constituent. Prescribed Dosage: 3-6 gm.",
+    "precautions": "Must be detoxified by boiling if wild bitter varieties are gathered.",
+    "body_systems": [
+      "Digestive System",
+      "Endocrine",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Musculoskeletal",
+      "Nutritional Rejuvenation",
+      "Urinary / Kidney"
+    ]
+  },
+  "9_Terminalia_arjuna": {
+    "id": 9,
+    "class_name": "9_Terminalia_arjuna",
+    "botanical_name": "Terminalia arjuna",
+    "sanskrit_name": "Arjuna",
+    "common_name_en": "Arjuna",
+    "family": "Combretaceae",
+    "habit": "Tree (60ft)",
+    "common_names": {
+      "english": "Arjuna",
+      "sanskrit": "Arjuna",
+      "hindi": "Arjun",
+      "regional": "Maddi (Telugu), Marudhamaram (Tamil)"
+    },
+    "parts_used": [
+      "Bark"
+    ],
+    "active_phytochemicals": [
+      "Arjunetin",
+      "Tannin",
+      "Arjunic acid",
+      "Arjungenin",
+      "Terminic acid",
+      "Flavonoids",
+      "Coenzyme Q10"
+    ],
+    "dosage": "3-6 gm",
+    "ayurvedic_properties": {
+      "guna": "Light, Dry",
+      "rasa": "Astringent",
+      "virya": "Cold",
+      "vipaka": "Pungent",
+      "dosha_karma": "Pacifies Kapha and Pitta"
+    },
+    "therapeutic_indications": [
+      "Heart tonic",
+      "Injury",
+      "Tuberculosis",
+      "Obesity",
+      "Diabetes",
+      "Ulcers"
+    ],
+    "symptoms": [
+      "injury",
+      "tuberculosis",
+      "chest pain",
+      "heart tonic",
+      "diabetes",
+      "angina",
+      "high blood pressure",
+      "obesity",
+      "palpitations",
+      "shortness of breath on exertion",
+      "ulcers",
+      "high cholesterol"
+    ],
+    "medicinal_uses": "The supreme cardioprotective medicine (Hridya) of Indian heritage. Tones cardiac muscle, strengthens left ventricular ejection fraction, protects coronary arteries from lipid oxidation, and accelerates bone healing.",
+    "dosage_and_formulation": "Arjunarishta, Arjuna Ksheerapaka (boiled in milk), Arjuna Ghrita, Arjuna Churna (3-6 g). Prescribed Dosage: 3-6 gm.",
+    "precautions": "Very safe; exceptional for lifelong cardiac health.",
+    "body_systems": [
+      "Cardiovascular System",
+      "Cardiovascular System (Heart)",
+      "Circulatory System",
+      "Endocrine / Metabolism",
+      "Integumentary",
+      "Urinary / Kidney"
+    ]
+  }
+}

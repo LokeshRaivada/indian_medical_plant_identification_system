@@ -1,0 +1,1458 @@
+{
+  "100_Aconitum_ferox": {
+    "index": 0,
+    "id": 100,
+    "botanical_name": "Aconitum ferox",
+    "sanskrit_name": "Vatsanabha",
+    "common_name_en": "Indian Aconite",
+    "family": "Ranunculaceae",
+    "habit": "Herb",
+    "dosage": "10-20 mg",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Root (Purified)"
+    ]
+  },
+  "10_Calotropis_procera": {
+    "index": 1,
+    "id": 10,
+    "botanical_name": "Calotropis procera",
+    "sanskrit_name": "Arka",
+    "common_name_en": "Swallow Wort / Madar",
+    "family": "Asclepiadaceae",
+    "habit": "Shrub",
+    "dosage": "0.5-1 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ]
+  },
+  "11_Calotropis_gigantea": {
+    "index": 2,
+    "id": 11,
+    "botanical_name": "Calotropis gigantea",
+    "sanskrit_name": "Arka (Shweta)",
+    "common_name_en": "Giant Swallow Wort",
+    "family": "Asclepiadaceae",
+    "habit": "Tree (20ft)",
+    "dosage": "0.5-1 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Latex",
+      "Root",
+      "Leaf",
+      "Flower"
+    ]
+  },
+  "12_Withania_somnifera": {
+    "index": 3,
+    "id": 12,
+    "botanical_name": "Withania somnifera",
+    "sanskrit_name": "Ashwagandha",
+    "common_name_en": "Winter Cherry",
+    "family": "Solanaceae",
+    "habit": "Shrub (5ft)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent, Sweet",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "13_Saraca_asoca": {
+    "index": 4,
+    "id": 13,
+    "botanical_name": "Saraca asoca",
+    "sanskrit_name": "Ashoka",
+    "common_name_en": "Ashoka Tree",
+    "family": "Caesalpiniaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Astringent, Bitter",
+    "parts_used": [
+      "Bark",
+      "Seed",
+      "Flower"
+    ]
+  },
+  "14_Aconitum_heterophyllum": {
+    "index": 5,
+    "id": 14,
+    "botanical_name": "Aconitum heterophyllum",
+    "sanskrit_name": "Ativisha",
+    "common_name_en": "Indian Atees",
+    "family": "Ranunculaceae",
+    "habit": "Shrub (3ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Root",
+      "Tuber"
+    ]
+  },
+  "15_Psoralea_corylifolia": {
+    "index": 6,
+    "id": 15,
+    "botanical_name": "Psoralea corylifolia",
+    "sanskrit_name": "Bakuchi",
+    "common_name_en": "Psoralea Seed",
+    "family": "Leguminosae",
+    "habit": "Shrub",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ]
+  },
+  "16_Abutilon_indicum": {
+    "index": 7,
+    "id": 16,
+    "botanical_name": "Abutilon indicum",
+    "sanskrit_name": "Atibala",
+    "common_name_en": "Country Mallow (Indian Abutilon)",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Sweet",
+    "parts_used": [
+      "Root",
+      "Seed"
+    ]
+  },
+  "17_Sida_cordifolia": {
+    "index": 8,
+    "id": 17,
+    "botanical_name": "Sida cordifolia",
+    "sanskrit_name": "Bala",
+    "common_name_en": "Country Mallow",
+    "family": "Malvaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Sweet",
+    "parts_used": [
+      "Root",
+      "Seed"
+    ]
+  },
+  "19_Clerodendrum_serratum": {
+    "index": 9,
+    "id": 19,
+    "botanical_name": "Clerodendrum serratum",
+    "sanskrit_name": "Bharangi",
+    "common_name_en": "Blue Glory",
+    "family": "Verbenaceae",
+    "habit": "Shrub (8ft)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "1_Aquilaria_agallocha": {
+    "index": 10,
+    "id": 1,
+    "botanical_name": "Aquilaria agallocha",
+    "sanskrit_name": "Agaru",
+    "common_name_en": "Aloe Wood / Eagle Wood",
+    "family": "Thymelaeaceae",
+    "habit": "Tree",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Resin",
+      "Heartwood"
+    ]
+  },
+  "20_Pterocarpus_marsupium": {
+    "index": 11,
+    "id": 20,
+    "botanical_name": "Pterocarpus marsupium",
+    "sanskrit_name": "Bijaka",
+    "common_name_en": "Indian Kino Tree",
+    "family": "Fabaceae (Papilionatae)",
+    "habit": "Tree",
+    "dosage": "50-100 ml (Decoction)",
+    "virya": "Cold",
+    "rasa": "Astringent, Bitter",
+    "parts_used": [
+      "Heartwood",
+      "Exudate"
+    ]
+  },
+  "21_Aegle_marmelos": {
+    "index": 12,
+    "id": 21,
+    "botanical_name": "Aegle marmelos",
+    "sanskrit_name": "Bilva",
+    "common_name_en": "Bael / Stone Apple",
+    "family": "Rutaceae",
+    "habit": "Tree (25ft)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Astringent, Bitter",
+    "parts_used": [
+      "Root",
+      "Bark",
+      "Fruit",
+      "Leaf"
+    ]
+  },
+  "22_Bacopa_monnieri": {
+    "index": 13,
+    "id": 22,
+    "botanical_name": "Bacopa monnieri",
+    "sanskrit_name": "Brahmi",
+    "common_name_en": "Water Hyssop / Indian Pennywort",
+    "family": "Scrophulariaceae",
+    "habit": "Creeper",
+    "dosage": "10-20 ml (Juice)",
+    "virya": "Hot",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "23_Solanum_indicum": {
+    "index": 14,
+    "id": 23,
+    "botanical_name": "Solanum indicum",
+    "sanskrit_name": "Brihati",
+    "common_name_en": "Indian Nightshade",
+    "family": "Solanaceae",
+    "habit": "Shrub",
+    "dosage": "40-80 ml",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Root",
+      "Fruit"
+    ]
+  },
+  "24_Santalum_album": {
+    "index": 15,
+    "id": 24,
+    "botanical_name": "Santalum album",
+    "sanskrit_name": "Chandana",
+    "common_name_en": "Sandalwood",
+    "family": "Santalaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Sweet",
+    "parts_used": [
+      "Heartwood"
+    ]
+  },
+  "25_Pterocarpus_santalinus": {
+    "index": 16,
+    "id": 25,
+    "botanical_name": "Pterocarpus santalinus",
+    "sanskrit_name": "Rakta Chandana",
+    "common_name_en": "Red Sanders",
+    "family": "Fabaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Sweet",
+    "parts_used": [
+      "Heartwood"
+    ]
+  },
+  "26_Plumbago_zeylanica": {
+    "index": 17,
+    "id": 26,
+    "botanical_name": "Plumbago zeylanica",
+    "sanskrit_name": "Chitraka",
+    "common_name_en": "Leadwort",
+    "family": "Plumbaginaceae",
+    "habit": "Shrub (4ft)",
+    "dosage": "1-2 gm",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Root Bark"
+    ]
+  },
+  "27_Punica_granatum": {
+    "index": 18,
+    "id": 27,
+    "botanical_name": "Punica granatum",
+    "sanskrit_name": "Dadima",
+    "common_name_en": "Pomegranate",
+    "family": "Punicaceae",
+    "habit": "Tree",
+    "dosage": "20-50 ml",
+    "virya": "Warm (Anushna)",
+    "rasa": "Sweet, Astringent, Sour",
+    "parts_used": [
+      "Fruit",
+      "Rind",
+      "Root Bark"
+    ]
+  },
+  "28_Cedrus_deodara": {
+    "index": 19,
+    "id": 28,
+    "botanical_name": "Cedrus deodara",
+    "sanskrit_name": "Devadaru",
+    "common_name_en": "Deodar Cedar",
+    "family": "Pinaceae",
+    "habit": "Tree (Large)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Heartwood",
+      "Oil"
+    ]
+  },
+  "29_Woodfordia_fruticosa": {
+    "index": 20,
+    "id": 29,
+    "botanical_name": "Woodfordia fruticosa",
+    "sanskrit_name": "Dhataki",
+    "common_name_en": "Fire Flame Bush",
+    "family": "Lythraceae",
+    "habit": "Shrub (10ft)",
+    "dosage": "1-3 gm",
+    "virya": "Cold",
+    "rasa": "Astringent",
+    "parts_used": [
+      "Flower"
+    ]
+  },
+  "2_Clerodendrum_phlomidis": {
+    "index": 21,
+    "id": 2,
+    "botanical_name": "Clerodendrum phlomidis",
+    "sanskrit_name": "Agnimantha",
+    "common_name_en": "Wind Killer",
+    "family": "Verbenaceae",
+    "habit": "Tree (25ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent, Astringent, Sweet",
+    "parts_used": [
+      "Leaf",
+      "Root Bark"
+    ]
+  },
+  "30_Cynodon_dactylon": {
+    "index": 22,
+    "id": 30,
+    "botanical_name": "Cynodon dactylon",
+    "sanskrit_name": "Durva",
+    "common_name_en": "Bermuda Grass",
+    "family": "Gramineae",
+    "habit": "Creeper",
+    "dosage": "10-20 ml",
+    "virya": "Cold",
+    "rasa": "Astringent, Sweet",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "31_Elettaria_cardamomum": {
+    "index": 23,
+    "id": 31,
+    "botanical_name": "Elettaria cardamomum",
+    "sanskrit_name": "Ela (Sukshma)",
+    "common_name_en": "Cardamom (Lesser)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "dosage": "0.5-1 gm",
+    "virya": "Cold",
+    "rasa": "Pungent, Sweet",
+    "parts_used": [
+      "Seed"
+    ]
+  },
+  "32_Amomum_subulatum": {
+    "index": 24,
+    "id": 32,
+    "botanical_name": "Amomum subulatum",
+    "sanskrit_name": "Ela (Brihat)",
+    "common_name_en": "Black Cardamom",
+    "family": "Zingiberaceae",
+    "habit": "Shrub (3ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Seed"
+    ]
+  },
+  "33_Ricinus_communis": {
+    "index": 25,
+    "id": 33,
+    "botanical_name": "Ricinus communis",
+    "sanskrit_name": "Eranda",
+    "common_name_en": "Castor",
+    "family": "Euphorbiaceae",
+    "habit": "Tree/Shrub",
+    "dosage": "20 gm (Oil)",
+    "virya": "Hot",
+    "rasa": "Sweet, Pungent, Astringent",
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ]
+  },
+  "34_Gmelina_arborea": {
+    "index": 26,
+    "id": 34,
+    "botanical_name": "Gmelina arborea",
+    "sanskrit_name": "Gambhari",
+    "common_name_en": "Beechwood",
+    "family": "Verbenaceae",
+    "habit": "Tree (60ft)",
+    "dosage": "50-100 ml",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent, Sweet",
+    "parts_used": [
+      "Root Bark",
+      "Fruit"
+    ]
+  },
+  "35_Tribulus_terrestris": {
+    "index": 27,
+    "id": 35,
+    "botanical_name": "Tribulus terrestris",
+    "sanskrit_name": "Gokshura",
+    "common_name_en": "Puncture Vine",
+    "family": "Zygophyllaceae",
+    "habit": "Creeper",
+    "dosage": "1-3 gm",
+    "virya": "Cold",
+    "rasa": "Sweet",
+    "parts_used": [
+      "Fruit"
+    ]
+  },
+  "36_Tinospora_cordifolia": {
+    "index": 28,
+    "id": 36,
+    "botanical_name": "Tinospora cordifolia",
+    "sanskrit_name": "Guduchi",
+    "common_name_en": "Giloy / Heart-leaved Moonseed",
+    "family": "Menispermaceae",
+    "habit": "Climber",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Stem"
+    ]
+  },
+  "37_Commiphora_mukul": {
+    "index": 29,
+    "id": 37,
+    "botanical_name": "Commiphora mukul",
+    "sanskrit_name": "Guggulu",
+    "common_name_en": "Indian Bdellium",
+    "family": "Burseraceae",
+    "habit": "Shrub",
+    "dosage": "2-4 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Resin (Exudate)"
+    ]
+  },
+  "38_Curcuma_longa": {
+    "index": 30,
+    "id": 38,
+    "botanical_name": "Curcuma longa",
+    "sanskrit_name": "Haridra",
+    "common_name_en": "Turmeric",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "dosage": "3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Rhizome"
+    ]
+  },
+  "39_Berberis_aristata": {
+    "index": 31,
+    "id": 39,
+    "botanical_name": "Berberis aristata",
+    "sanskrit_name": "Daruharidra",
+    "common_name_en": "Indian Barberry",
+    "family": "Berberidaceae",
+    "habit": "Shrub (6-18ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Root",
+      "Stem",
+      "Fruit"
+    ]
+  },
+  "40_Terminalia_chebula": {
+    "index": 32,
+    "id": 40,
+    "botanical_name": "Terminalia chebula",
+    "sanskrit_name": "Haritaki",
+    "common_name_en": "Chebulic Myrobalan",
+    "family": "Combretaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Sweet, Sour, Pungent, Bitter, Astringent",
+    "parts_used": [
+      "Fruit"
+    ]
+  },
+  "42_Syzygium_cumini": {
+    "index": 33,
+    "id": 42,
+    "botanical_name": "Syzygium cumini",
+    "sanskrit_name": "Jambu",
+    "common_name_en": "Jamun / Java Plum",
+    "family": "Myrtaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Astringent, Bitter, Sweet",
+    "parts_used": [
+      "Fruit",
+      "Seed",
+      "Leaf",
+      "Bark"
+    ]
+  },
+  "43_Nardostachys_jatamansi": {
+    "index": 34,
+    "id": 43,
+    "botanical_name": "Nardostachys jatamansi",
+    "sanskrit_name": "Jatamansi",
+    "common_name_en": "Spikenard",
+    "family": "Valerianaceae",
+    "habit": "Shrub",
+    "dosage": "2-4 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Astringent, Sweet",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "44_Myristica_fragrans": {
+    "index": 35,
+    "id": 44,
+    "botanical_name": "Myristica fragrans",
+    "sanskrit_name": "Jatiphala",
+    "common_name_en": "Nutmeg",
+    "family": "Myristicaceae",
+    "habit": "Tree (40ft)",
+    "dosage": "0.5-1 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Seed",
+      "Aril"
+    ]
+  },
+  "46_Cuminum_cyminum": {
+    "index": 36,
+    "id": 46,
+    "botanical_name": "Cuminum cyminum",
+    "sanskrit_name": "Jiraka (Shweta)",
+    "common_name_en": "Cumin",
+    "family": "Umbelliferae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Seed"
+    ]
+  },
+  "47_Celastrus_paniculatus": {
+    "index": 37,
+    "id": 47,
+    "botanical_name": "Celastrus paniculatus",
+    "sanskrit_name": "Jyotishmati",
+    "common_name_en": "Intellect Tree",
+    "family": "Celastraceae",
+    "habit": "Climber",
+    "dosage": "5-10 drops",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ]
+  },
+  "48_Andrographis_paniculata": {
+    "index": 38,
+    "id": 48,
+    "botanical_name": "Andrographis paniculata",
+    "sanskrit_name": "Kalmegh",
+    "common_name_en": "Green Chiretta",
+    "family": "Acanthaceae",
+    "habit": "Shrub (2ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "49_Mallotus_philippensis": {
+    "index": 39,
+    "id": 49,
+    "botanical_name": "Mallotus philippensis",
+    "sanskrit_name": "Kampillaka",
+    "common_name_en": "Kamala Tree",
+    "family": "Euphorbiaceae",
+    "habit": "Tree (30ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Fruit Powder (Glands)"
+    ]
+  },
+  "4_Papaver_somniferum": {
+    "index": 40,
+    "id": 4,
+    "botanical_name": "Papaver somniferum",
+    "sanskrit_name": "Ahiphena",
+    "common_name_en": "Opium Poppy",
+    "family": "Papaveraceae",
+    "habit": "Shrub",
+    "dosage": "30-125 mg",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Latex",
+      "Exudate"
+    ]
+  },
+  "50_Bauhinia_variegata": {
+    "index": 41,
+    "id": 50,
+    "botanical_name": "Bauhinia variegata",
+    "sanskrit_name": "Kanchanara",
+    "common_name_en": "Orchid Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Astringent",
+    "parts_used": [
+      "Bark",
+      "Flower"
+    ]
+  },
+  "51_Solanum_surattense": {
+    "index": 42,
+    "id": 51,
+    "botanical_name": "Solanum surattense",
+    "sanskrit_name": "Kantakari",
+    "common_name_en": "Yellow Berried Nightshade",
+    "family": "Solanaceae",
+    "habit": "Creeper",
+    "dosage": "40-80 ml",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "52_Mucuna_pruriens": {
+    "index": 43,
+    "id": 52,
+    "botanical_name": "Mucuna pruriens",
+    "sanskrit_name": "Kapikachhu",
+    "common_name_en": "Velvet Bean",
+    "family": "Leguminosae",
+    "habit": "Climber",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Seed",
+      "Root",
+      "Hairs"
+    ]
+  },
+  "54_Cinnamomum_camphora": {
+    "index": 44,
+    "id": 54,
+    "botanical_name": "Cinnamomum camphora",
+    "sanskrit_name": "Karpura",
+    "common_name_en": "Camphor",
+    "family": "Lauraceae",
+    "habit": "Tree (100ft)",
+    "dosage": "125-375 mg",
+    "virya": "Cold",
+    "rasa": "Bitter, Pungent, Sweet",
+    "parts_used": [
+      "Extract",
+      "Crystal"
+    ]
+  },
+  "55_Picrorhiza_kurroa": {
+    "index": 45,
+    "id": 55,
+    "botanical_name": "Picrorhiza kurroa",
+    "sanskrit_name": "Katuka",
+    "common_name_en": "Picrorhiza",
+    "family": "Scrophulariaceae",
+    "habit": "Shrub",
+    "dosage": "0.5-1 gm",
+    "virya": "Cold",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Root",
+      "Rhizome"
+    ]
+  },
+  "56_Acacia_catechu": {
+    "index": 46,
+    "id": 56,
+    "botanical_name": "Acacia catechu",
+    "sanskrit_name": "Khadira",
+    "common_name_en": "Cutch Tree",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "dosage": "1-3 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Bark",
+      "Heartwood"
+    ]
+  },
+  "58_Aloe_vera": {
+    "index": 47,
+    "id": 58,
+    "botanical_name": "Aloe vera",
+    "sanskrit_name": "Kumari",
+    "common_name_en": "Aloe Vera",
+    "family": "Liliaceae",
+    "habit": "Shrub (2ft)",
+    "dosage": "0.1-0.2 gm",
+    "virya": "Cold",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Leaf",
+      "Extract"
+    ]
+  },
+  "59_Crocus_sativus": {
+    "index": 48,
+    "id": 59,
+    "botanical_name": "Crocus sativus",
+    "sanskrit_name": "Kunkuma",
+    "common_name_en": "Saffron",
+    "family": "Iridaceae",
+    "habit": "Shrub",
+    "dosage": "250-500 mg",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Stigma (Kesar)"
+    ]
+  },
+  "5_Emblica_officinalis": {
+    "index": 49,
+    "id": 5,
+    "botanical_name": "Emblica officinalis",
+    "sanskrit_name": "Amalaki",
+    "common_name_en": "Indian Gooseberry",
+    "family": "Euphorbiaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Sour (dominant), Sweet, Bitter, Pungent, Astringent",
+    "parts_used": [
+      "Fruit"
+    ]
+  },
+  "60_Strychnos_nux-vomica": {
+    "index": 50,
+    "id": 60,
+    "botanical_name": "Strychnos nux-vomica",
+    "sanskrit_name": "Kupilu",
+    "common_name_en": "Nux Vomica",
+    "family": "Loganiaceae",
+    "habit": "Tree (50ft)",
+    "dosage": "60-250 mg",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Seed Marrow"
+    ]
+  },
+  "61_Saussurea_lappa": {
+    "index": 51,
+    "id": 61,
+    "botanical_name": "Saussurea lappa",
+    "sanskrit_name": "Kushtha",
+    "common_name_en": "Costus",
+    "family": "Compositae",
+    "habit": "Shrub (6ft)",
+    "dosage": "0.25-1 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent, Sweet",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "62_Holarrhena_antidysenterica": {
+    "index": 52,
+    "id": 62,
+    "botanical_name": "Holarrhena antidysenterica",
+    "sanskrit_name": "Kutaja",
+    "common_name_en": "Kurchi / Tellicherry Bark",
+    "family": "Apocynaceae",
+    "habit": "Tree (40ft)",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Bark",
+      "Seed"
+    ]
+  },
+  "63_Syzygium_aromaticum": {
+    "index": 53,
+    "id": 63,
+    "botanical_name": "Syzygium aromaticum",
+    "sanskrit_name": "Lavanga",
+    "common_name_en": "Clove",
+    "family": "Myrtaceae",
+    "habit": "Tree (30ft)",
+    "dosage": "1 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Flower Bud"
+    ]
+  },
+  "64_Symplocos_racemosa": {
+    "index": 54,
+    "id": 64,
+    "botanical_name": "Symplocos racemosa",
+    "sanskrit_name": "Lodhra",
+    "common_name_en": "Lodhra",
+    "family": "Symplocaceae",
+    "habit": "Tree",
+    "dosage": "1-3 gm",
+    "virya": "Cold",
+    "rasa": "Astringent",
+    "parts_used": [
+      "Bark"
+    ]
+  },
+  "65_Randia_spinosa": {
+    "index": 55,
+    "id": 65,
+    "botanical_name": "Randia spinosa",
+    "sanskrit_name": "Madanaphala",
+    "common_name_en": "Emetic Nut",
+    "family": "Rubiaceae",
+    "habit": "Tree (25ft)",
+    "dosage": "1-2 gm",
+    "virya": "Hot",
+    "rasa": "Astringent, Sweet, Bitter, Pungent",
+    "parts_used": [
+      "Fruit"
+    ]
+  },
+  "66_Centella_asiatica": {
+    "index": 56,
+    "id": 66,
+    "botanical_name": "Centella asiatica",
+    "sanskrit_name": "Mandukaparni",
+    "common_name_en": "Gotu Kola",
+    "family": "Umbelliferae",
+    "habit": "Creeper",
+    "dosage": "10-20 ml",
+    "virya": "Cold",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "67_Rubia_cordifolia": {
+    "index": 57,
+    "id": 67,
+    "botanical_name": "Rubia cordifolia",
+    "sanskrit_name": "Manjishtha",
+    "common_name_en": "Indian Madder",
+    "family": "Rubiaceae",
+    "habit": "Climber",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent, Sweet",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "68_Piper_nigrum": {
+    "index": 58,
+    "id": 68,
+    "botanical_name": "Piper nigrum",
+    "sanskrit_name": "Maricha",
+    "common_name_en": "Black Pepper",
+    "family": "Piperaceae",
+    "habit": "Climber",
+    "dosage": "0.5-1 gm",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Fruit"
+    ]
+  },
+  "69_Cyperus_rotundus": {
+    "index": 59,
+    "id": 69,
+    "botanical_name": "Cyperus rotundus",
+    "sanskrit_name": "Mustaka",
+    "common_name_en": "Nut Grass",
+    "family": "Cyperaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Pungent, Astringent",
+    "parts_used": [
+      "Tuber"
+    ]
+  },
+  "6_Achyranthes_aspera": {
+    "index": 60,
+    "id": 6,
+    "botanical_name": "Achyranthes aspera",
+    "sanskrit_name": "Apamarga",
+    "common_name_en": "Prickly Chaff Flower",
+    "family": "Amaranthaceae",
+    "habit": "Shrub (2ft)",
+    "dosage": "1-2 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed",
+      "Whole Plant"
+    ]
+  },
+  "70_Vitex_negundo": {
+    "index": 61,
+    "id": 70,
+    "botanical_name": "Vitex negundo",
+    "sanskrit_name": "Nirgundi",
+    "common_name_en": "Five-leaved Chaste Tree",
+    "family": "Verbenaceae",
+    "habit": "Shrub",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Root",
+      "Leaf",
+      "Seed"
+    ]
+  },
+  "71_Butea_monosperma": {
+    "index": 62,
+    "id": 71,
+    "botanical_name": "Butea monosperma",
+    "sanskrit_name": "Palasha",
+    "common_name_en": "Flame of the Forest",
+    "family": "Leguminosae",
+    "habit": "Tree (40ft)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter, Astringent",
+    "parts_used": [
+      "Flower",
+      "Seed",
+      "Bark"
+    ]
+  },
+  "72_Fumaria_vaillantii": {
+    "index": 63,
+    "id": 72,
+    "botanical_name": "Fumaria vaillantii",
+    "sanskrit_name": "Parpata",
+    "common_name_en": "Fine Leaved Fumitory",
+    "family": "Fumariaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "73_Bergenia_ligulata": {
+    "index": 64,
+    "id": 73,
+    "botanical_name": "Bergenia ligulata",
+    "sanskrit_name": "Pashanabheda",
+    "common_name_en": "Rock Foil",
+    "family": "Saxifragaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Astringent, Bitter",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "74_Stereospermum_suaveolens": {
+    "index": 65,
+    "id": 74,
+    "botanical_name": "Stereospermum suaveolens",
+    "sanskrit_name": "Patala",
+    "common_name_en": "Rose Flower Fragrant",
+    "family": "Bignoniaceae",
+    "habit": "Tree (60ft)",
+    "dosage": "50-100 ml",
+    "virya": "Hot",
+    "rasa": "Bitter, Astringent",
+    "parts_used": [
+      "Root Bark"
+    ]
+  },
+  "75_Piper_longum": {
+    "index": 66,
+    "id": 75,
+    "botanical_name": "Piper longum",
+    "sanskrit_name": "Pippali",
+    "common_name_en": "Long Pepper",
+    "family": "Piperaceae",
+    "habit": "Creeper",
+    "dosage": "0.5-1 gm",
+    "virya": "Warm (Anushna)",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Fruit",
+      "Root"
+    ]
+  },
+  "76_Uraria_picta": {
+    "index": 67,
+    "id": 76,
+    "botanical_name": "Uraria picta",
+    "sanskrit_name": "Prishniparni",
+    "common_name_en": "Uraria",
+    "family": "Fabaceae",
+    "habit": "Shrub (4ft)",
+    "dosage": "50-100 ml",
+    "virya": "Hot",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "77_Boerhavia_diffusa": {
+    "index": 68,
+    "id": 77,
+    "botanical_name": "Boerhavia diffusa",
+    "sanskrit_name": "Punarnava",
+    "common_name_en": "Spreading Hogweed",
+    "family": "Nyctaginaceae",
+    "habit": "Creeper",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Sweet, Bitter, Astringent",
+    "parts_used": [
+      "Root",
+      "Whole Plant"
+    ]
+  },
+  "78_Inula_racemosa": {
+    "index": 69,
+    "id": 78,
+    "botanical_name": "Inula racemosa",
+    "sanskrit_name": "Pushkaramula",
+    "common_name_en": "Elecampane",
+    "family": "Compositae",
+    "habit": "Shrub (5ft)",
+    "dosage": "1 gm",
+    "virya": "Hot",
+    "rasa": "Bitter, Pungent",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "79_Pluchea_lanceolata": {
+    "index": 70,
+    "id": 79,
+    "botanical_name": "Pluchea lanceolata",
+    "sanskrit_name": "Rasna",
+    "common_name_en": "Pluchea",
+    "family": "Compositae",
+    "habit": "Shrub",
+    "dosage": "100 ml (Decoction)",
+    "virya": "Hot",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Leaf"
+    ]
+  },
+  "7_Cassia_fistula": {
+    "index": 71,
+    "id": 7,
+    "botanical_name": "Cassia fistula",
+    "sanskrit_name": "Aragvadha",
+    "common_name_en": "Purging Nut / Golden Shower",
+    "family": "Leguminosae",
+    "habit": "Tree",
+    "dosage": "5-10 gm",
+    "virya": "Cold",
+    "rasa": "Sweet",
+    "parts_used": [
+      "Fruit Pulp"
+    ]
+  },
+  "80_Barleria_prionitis": {
+    "index": 72,
+    "id": 80,
+    "botanical_name": "Barleria prionitis",
+    "sanskrit_name": "Saireyaka",
+    "common_name_en": "Porcupine Flower",
+    "family": "Acanthaceae",
+    "habit": "Shrub",
+    "dosage": "10-20 ml",
+    "virya": "Hot",
+    "rasa": "Bitter, Sweet",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "81_Hemidesmus_indicus": {
+    "index": 73,
+    "id": 81,
+    "botanical_name": "Hemidesmus indicus",
+    "sanskrit_name": "Sariva (Shweta)",
+    "common_name_en": "Indian Sarsaparilla",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "dosage": "5-10 gm",
+    "virya": "Cold",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "82_Cryptolepis_buchanani": {
+    "index": 74,
+    "id": 82,
+    "botanical_name": "Cryptolepis buchanani",
+    "sanskrit_name": "Sariva (Krishna)",
+    "common_name_en": "Black Sariva",
+    "family": "Asclepiadaceae",
+    "habit": "Creeper",
+    "dosage": "5-10 gm",
+    "virya": "Cold",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "83_Rauvolfia_serpentina": {
+    "index": 75,
+    "id": 83,
+    "botanical_name": "Rauvolfia serpentina",
+    "sanskrit_name": "Sarpagandha",
+    "common_name_en": "Indian Snakeroot",
+    "family": "Apocynaceae",
+    "habit": "Shrub",
+    "dosage": "1-2 gm",
+    "virya": "Hot",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "84_Desmodium_gangeticum": {
+    "index": 76,
+    "id": 84,
+    "botanical_name": "Desmodium gangeticum",
+    "sanskrit_name": "Shalaparni",
+    "common_name_en": "Shal Leaf",
+    "family": "Leguminosae",
+    "habit": "Shrub (4ft)",
+    "dosage": "50-100 ml",
+    "virya": "Hot",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "85_Boswellia_serrata": {
+    "index": 77,
+    "id": 85,
+    "botanical_name": "Boswellia serrata",
+    "sanskrit_name": "Shallaki",
+    "common_name_en": "Indian Frankincense",
+    "family": "Burseraceae",
+    "habit": "Tree",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Astringent, Bitter, Sweet",
+    "parts_used": [
+      "Resin (Exudate)"
+    ]
+  },
+  "86_Bombax_ceiba": {
+    "index": 78,
+    "id": 86,
+    "botanical_name": "Bombax ceiba",
+    "sanskrit_name": "Shalmali",
+    "common_name_en": "Silk Cotton Tree",
+    "family": "Bombacaceae",
+    "habit": "Tree (125ft)",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Sweet",
+    "parts_used": [
+      "Root",
+      "Flower",
+      "Fruit",
+      "Gum"
+    ]
+  },
+  "87_Convolvulus_pluricaulis": {
+    "index": 79,
+    "id": 87,
+    "botanical_name": "Convolvulus pluricaulis",
+    "sanskrit_name": "Shankhapushpi",
+    "common_name_en": "Morning Glory",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "dosage": "10-20 ml",
+    "virya": "Cold",
+    "rasa": "Bitter",
+    "parts_used": [
+      "Whole Plant"
+    ]
+  },
+  "88_Asparagus_racemosus": {
+    "index": 80,
+    "id": 88,
+    "botanical_name": "Asparagus racemosus",
+    "sanskrit_name": "Shatavari",
+    "common_name_en": "Wild Asparagus",
+    "family": "Liliaceae",
+    "habit": "Creeper",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Sweet, Bitter",
+    "parts_used": [
+      "Tuber"
+    ]
+  },
+  "89_Moringa_oleifera": {
+    "index": 81,
+    "id": 89,
+    "botanical_name": "Moringa oleifera",
+    "sanskrit_name": "Shigru",
+    "common_name_en": "Drumstick Tree",
+    "family": "Moringaceae",
+    "habit": "Tree",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Seed",
+      "Bark"
+    ]
+  },
+  "8_Zingiber_officinale": {
+    "index": 82,
+    "id": 8,
+    "botanical_name": "Zingiber officinale",
+    "sanskrit_name": "Ardraka / Shunthi",
+    "common_name_en": "Ginger (Fresh/Dry)",
+    "family": "Zingiberaceae",
+    "habit": "Shrub",
+    "dosage": "1-2 gm",
+    "virya": "Hot",
+    "rasa": "Pungent",
+    "parts_used": [
+      "Rhizome"
+    ]
+  },
+  "90_Albizia_lebbeck": {
+    "index": 83,
+    "id": 90,
+    "botanical_name": "Albizia lebbeck",
+    "sanskrit_name": "Shirisha",
+    "common_name_en": "Lebbeck Tree",
+    "family": "Mimosaceae",
+    "habit": "Tree",
+    "dosage": "3-6 gm",
+    "virya": "Warm",
+    "rasa": "Astringent, Bitter, Sweet",
+    "parts_used": [
+      "Bark",
+      "Leaf",
+      "Seed",
+      "Flower"
+    ]
+  },
+  "91_Oroxylum_indicum": {
+    "index": 84,
+    "id": 91,
+    "botanical_name": "Oroxylum indicum",
+    "sanskrit_name": "Shyonaka",
+    "common_name_en": "Indian Trumpet Flower",
+    "family": "Bignoniaceae",
+    "habit": "Tree (40ft)",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Sweet, Bitter, Astringent",
+    "parts_used": [
+      "Root Bark"
+    ]
+  },
+  "93_Sesamum_indicum": {
+    "index": 85,
+    "id": 93,
+    "botanical_name": "Sesamum indicum",
+    "sanskrit_name": "Tila",
+    "common_name_en": "Sesame",
+    "family": "Pedaliaceae",
+    "habit": "Shrub",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Sweet, Astringent, Bitter",
+    "parts_used": [
+      "Seed",
+      "Oil"
+    ]
+  },
+  "94_Operculina_turpethum": {
+    "index": 86,
+    "id": 94,
+    "botanical_name": "Operculina turpethum",
+    "sanskrit_name": "Trivrit",
+    "common_name_en": "Indian Jalap",
+    "family": "Convolvulaceae",
+    "habit": "Creeper",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Root Bark"
+    ]
+  },
+  "95_Ocimum_sanctum": {
+    "index": 87,
+    "id": 95,
+    "botanical_name": "Ocimum sanctum",
+    "sanskrit_name": "Tulasi",
+    "common_name_en": "Holy Basil",
+    "family": "Labiatae",
+    "habit": "Shrub (4ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Leaf",
+      "Seed",
+      "Root"
+    ]
+  },
+  "96_Cinnamomum_zeylanicum": {
+    "index": 88,
+    "id": 96,
+    "botanical_name": "Cinnamomum zeylanicum",
+    "sanskrit_name": "Tvaka",
+    "common_name_en": "Cinnamon",
+    "family": "Lauraceae",
+    "habit": "Tree (25ft)",
+    "dosage": "1-3 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter, Sweet",
+    "parts_used": [
+      "Bark",
+      "Leaf"
+    ]
+  },
+  "97_Vetiveria_zizanioides": {
+    "index": 89,
+    "id": 97,
+    "botanical_name": "Vetiveria zizanioides",
+    "sanskrit_name": "Ushira",
+    "common_name_en": "Vetiver / Khus",
+    "family": "Gramineae",
+    "habit": "Grass",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Bitter, Sweet",
+    "parts_used": [
+      "Root"
+    ]
+  },
+  "98_Acorus_calamus": {
+    "index": 90,
+    "id": 98,
+    "botanical_name": "Acorus calamus",
+    "sanskrit_name": "Vacha",
+    "common_name_en": "Sweet Flag",
+    "family": "Araceae",
+    "habit": "Shrub",
+    "dosage": "125-500 mg",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter",
+    "parts_used": [
+      "Rhizome"
+    ]
+  },
+  "99_Dioscorea_bulbifera": {
+    "index": 91,
+    "id": 99,
+    "botanical_name": "Dioscorea bulbifera",
+    "sanskrit_name": "Varahi",
+    "common_name_en": "Air Potato",
+    "family": "Dioscoreaceae",
+    "habit": "Climber",
+    "dosage": "3-6 gm",
+    "virya": "Hot",
+    "rasa": "Pungent, Bitter, Sweet",
+    "parts_used": [
+      "Rhizome"
+    ]
+  },
+  "9_Terminalia_arjuna": {
+    "index": 92,
+    "id": 9,
+    "botanical_name": "Terminalia arjuna",
+    "sanskrit_name": "Arjuna",
+    "common_name_en": "Arjuna",
+    "family": "Combretaceae",
+    "habit": "Tree (60ft)",
+    "dosage": "3-6 gm",
+    "virya": "Cold",
+    "rasa": "Astringent",
+    "parts_used": [
+      "Bark"
+    ]
+  }
+}
